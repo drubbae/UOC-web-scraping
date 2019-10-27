@@ -1,1 +1,2301 @@
-
+,Name,Marketcap,Price,Circ. Supply,Blockchain,24h Change,7d Change
+0,Bitcoin BTC , 168.16B,0, 18.02M, Own Blockchain,0,0
+1,Ethereum ETH , 19.56B,0, 108.32M, Own Blockchain,0,0
+2,XRP XRP , 12.73B,0, 43.25B, Own Blockchain,0,0
+3,Bitcoin Cash BCH , 4.58B,0, 18.08M, Own Blockchain,0,0
+4,Tether USDT , 4.12B,0, 4.11B, Omni,0,0
+5,Litecoin LTC , 3.64B,0, 63.55M, Own Blockchain,0,0
+6,Binance Coin BNB , 2.96B,0, 155.54M, Own Blockchain,0,0
+7,EOS EOS , 2.95B,0, 937.63M, Own Blockchain,0,0
+8,Bitcoin SV BSV , 2.5B,0, 18.07M, Own Blockchain,0,0
+9,Stellar XLM , 1.26B,0, 20.04B, Own Blockchain,0,0
+10,TRON TRX , 1.11B,0, 66.68B, Own Blockchain,0,0
+11,Cardano ADA , 1.05B,0, 25.93B, Own Blockchain,0,0
+12,Monero XMR , 984.1M,0, 17.28M, Own Blockchain,0,0
+13,UNUS SED LEO LEO , 986.19M,0, 999.5M, Ethereum (ERC20),0,0
+14,Chainlink LINK , 943.96M,0, 350M, Ethereum (ERC677),0,0
+15,Huobi Token HT , 842.38M,0, 241.42M, Ethereum (ERC20),0,0
+16,Neo NEO , 740.72M,0, 70.54M, Own Blockchain,0,0
+17,IOTA MIOTA , 728.77M,0, 2.78B, Own Blockchain,0,0
+18,Dash DASH , 635.54M,0, 9.12M, Own Blockchain,0,0
+19,Cosmos ATOM , 595.28M,0, 190.69M, Own Blockchain,0,0
+20,Tezos XTZ , 543.51M,0, 660.37M, Own Blockchain,0,0
+21,Ethereum Classic ETC , 533.48M,0, 114.6M, Own Blockchain,0,0
+22,Maker MKR , 500.59M,0, 1000K, Ethereum (ERC20),0,0
+23,USD Coin USDC , 479.14M,0, 479M, Ethereum (ERC20),0,0
+24,Ontology ONT , 407.32M,0, 547.35M, NEO,0,0
+25,Crypto.com Coin CRO , 399.76M,0, 11.17B, Ethereum (ERC20),0,0
+26,NEM XEM , 368.11M,0, 9B, Own Blockchain,0,0
+27,Basic Attention Token BAT , 319.26M,0, 1.35B, Ethereum (ERC20),0,0
+28,Dogecoin DOGE , 319.63M,0, 121.8B, Own Blockchain,0,0
+29,Zcash ZEC , 279.44M,0, 7.72M, Own Blockchain,0,0
+30,Paxos Standard PAX , 259.44M,0, 259.11M, Ethereum (ERC20),0,0
+31,HedgeTrade HEDG , 227.37M,0, 288.33M, Ethereum (ERC20),0,0
+32,VeChain VET , 197.22M,0, 55.45B, Own Blockchain,0,0
+33,Qtum QTUM , 193.65M,0, 96.12M, QTUM,0,0
+34,TrueUSD TUSD , 183.66M,0, 183.38M, Ethereum (ERC20),0,0
+35,0x ZRX , 173.22M,0, 601.26M, Ethereum (ERC20),0,0
+36,ABBC Coin ABBC , 167.65M,0, 555.42M, Own Blockchain,0,0
+37,Decred DCR , 158.26M,0, 10.59M, Own Blockchain,0,0
+38,Holo HOT , 147.95M,0, 161.38B, Ethereum (ERC20),0,0
+39,LUNA LUNA , 138.43M,0, 287.77M, Own Blockchain,0,0
+40,Bitcoin Gold BTG , 135.68M,0, 17.51M, Own Blockchain,0,0
+41,Ravencoin RVN , 134.26M,0, 4.72B, Own Blockchain,0,0
+42,ZB ZB , 133.47M,0, 463.29M, Ethereum (ERC20),0,0
+43,Centrality CENNZ , 125.18M,0, 1.06B, Ethereum (ERC20),0,0
+44,OmiseGO OMG , 127.3M,0, 140.25M, Ethereum (ERC20),0,0
+45,V Systems VSYS , 126.14M,0, 1.84B, Own Blockchain,0,0
+46,EDUCare EKT , 119.67M,0, 850M, Ethereum (ERC20),0,0
+47,KuCoin Shares KCS , 113.15M,0, 86.86M, Ethereum (ERC20),0,0
+48,Swipe SXP , 107.85M,0, 61.14M, Ethereum (ERC20),0,0
+49,Nano NANO , 107.99M,0, 133.25M, Own Blockchain,0,0
+50,Synthetix Network Token SNX , 103.28M,0, 140.52M, Ethereum (ERC20),0,0
+51,DigiByte DGB , 98.33M,0, 12.42B, Own Blockchain,0,0
+52,Lisk LSK , 92.57M,0, 121.17M, Lisk,0,0
+53,Bitcoin Diamond BCD , 92.98M,0, 186.49M, Own Blockchain,0,0
+54,Bytom BTM , 93.02M,0, 1B, Ethereum (ERC20),0,0
+55,Algorand ALGO , 90.94M,0, 424.61M, Own Blockchain,0,0
+56,BitTorrent BTT , 89.74M,0, 212.12B, Tron (TRC10),0,0
+57,Augur REP , 88.12M,0, 11M, Ethereum (ERC20),0,0
+58,Dai DAI , 86.64M,0, 87.09M, Ethereum (ERC20),0,0
+59,Theta THETA , 82.62M,0, 870.5M, Ethereum (ERC20),0,0
+60,Siacoin SC , 82.22M,0, 41.82B, Own Blockchain,0,0
+61,BitShares BTS , 76.92M,0, 2.75B, BitShares,0,0
+62,Waves WAVES , 75.79M,0, 100.17M, Waves,0,0
+63,Bytecoin BCN , 75.11M,0, 184.07B, Own Blockchain,0,0
+64,ICON ICX , 74.15M,0, 500.92M, Own Blockchain,0,0
+65,MonaCoin MONA , 72.09M,0, 65.73M, Own Blockchain,0,0
+66,Quant QNT , 71.89M,0, 12.07M, Ethereum (ERC20),0,0
+67,HyperCash HC , 67.99M,0, 44.4M, Own Blockchain,0,0
+68,Crypto.com MCO , 64.48M,0, 15.79M, Ethereum (ERC20),0,0
+69,Energi NRG , 63.39M,0, 22.02M, Own Blockchain,0,0
+70,Komodo KMD , 62.4M,0, 116.62M, Own Blockchain,0,0
+71,MaidSafeCoin MAID , 61.55M,0, 452.55M, Omni,0,0
+72,Aeternity AE , 59.14M,0, 288.63M, Ethereum (ERC20),0,0
+73,Nexo NEXO , 58.25M,0, 560M, Ethereum (ERC20),0,0
+74,IOStoken IOST , 57.15M,0, 12.01B, Own Blockchain,0,0
+75,Verge XVG , 57.26M,0, 16.02B, Own Blockchain,0,0
+76,RIF Token RIF , 54.21M,0, 499.4M, Ethereum (ERC20),0,0
+77,CRPT CRPT , 52.64M,0, 84.8M, Ethereum (ERC20),0,0
+78,Ardor ARDR , 51.86M,0, 999M, Nxt,0,0
+79,FTX Token FTT , 51.35M,0, 37.95M, Ethereum (ERC20),0,0
+80,Enjin Coin ENJ , 47.7M,0, 784.61M, Ethereum (ERC20),0,0
+81,Aurora AOA , 47.92M,0, 6.54B, Ethereum (ERC20),0,0
+82,aelf ELF , 46.37M,0, 544.48M, Ethereum (ERC20),0,0
+83,Steem STEEM , 46.76M,0, 349.16M, Own Blockchain,0,0
+84,Newton NEW , 45.35M,0, 11.95B, Own Blockchain,0,0
+85,Zilliqa ZIL , 44.57M,0, 8.69B, Ethereum (ERC20),0,0
+86,Nash Exchange NEX , 42.59M,0, 36.2M, NEO,0,0
+87,Zcoin XZC , 42.15M,0, 8.68M, Own Blockchain,0,0
+88,Golem GNT , 42.18M,0, 980.05M, Ethereum (ERC20),0,0
+89,Status SNT , 41.94M,0, 3.47B, Ethereum (ERC20),0,0
+90,Seele SEELE , 41.68M,0, 696.66M, Ethereum (ERC20),0,0
+91,Pundi X NPXS , 39.99M,0, 234.11B, Ethereum (ERC20),0,0
+92,SOLVE SOLVE , 40.14M,0, 327.42M, Ethereum (ERC20),0,0
+93,Ren REN , 39.44M,0, 799.51M, Own Blockchain,0,0
+94,Chiliz CHZ , 37.9M,0, 3.6B, Ethereum (ERC20),0,0
+95,iExec RLC RLC , 37.42M,0, 80.07M, Ethereum (ERC20),0,0
+96,XMax XMX , 36.31M,0, 16.58B, Ethereum (ERC20),0,0
+97,Electroneum ETN , 36.55M,0, 9.86B, Own Blockchain,0,0
+98,ZenCash ZEN , 36.33M,0, 7.63M, Own Blockchain,0,0
+99,STASIS EURO EURS , 35.44M,0, 31.98M, Ethereum (ERC20),0,0
+100,Dentacoin DCN , 34.65M,0, 540.37B, Ethereum (ERC20),0,0
+101,Digitex Futures DGTX , 32.55M,0, 775.78M, Ethereum (ERC20),0,0
+102,Matic Network MATIC , 33.09M,0, 2.35B, Ethereum (ERC20),0,0
+103,Molecular Future MOF , 33.55M,0, 40.66M, Own Blockchain,0,0
+104,Decentraland MANA , 32.49M,0, 1.05B, Ethereum (ERC20),0,0
+105,Elastos ELA , 31.41M,0, 16.06M, Own Blockchain,0,0
+106,Tierion TNT , 31.15M,0, 428.48M, Ethereum (ERC20),0,0
+107,Populous PPT , 30.82M,0, 53.25M, Ethereum (ERC20),0,0
+108,Project Pai PAI , 30.62M,0, 1.45B, Own Blockchain,0,0
+109,BitCapitalVendor BCV , 30.09M,0, 891.2M, Ethereum (ERC20),0,0
+110,Stratis STRAT , 30.01M,0, 99.54M, Own Blockchain,0,0
+111,GXChain GXC , 30.61M,0, 65M, Own Blockchain,0,0
+112,Kyber Network KNC , 29.72M,0, 169.09M, Ethereum (ERC20),0,0
+113,ReddCoin RDD , 29.56M,0, 28.81B, Own Blockchain,0,0
+114,Bread BRD , 29.04M,0, 88.73M, Ethereum (ERC20),0,0
+115,WINk WIN , 28.27M,0, 196.5B, Tron (TRC20),0,0
+116,Loopring LRC , 27.71M,0, 913.9M, Ethereum (ERC20),0,0
+117,Waltonchain WTC , 27.65M,0, 42.68M, Ethereum (ERC20),0,0
+118,ODEM ODE , 27.65M,0, 230.36M, Own Blockchain,0,0
+119,Civic CVC , 27.64M,0, 670M, Ethereum (ERC20),0,0
+120,DxChain Token DX , 27.76M,0, 50B, Ethereum (ERC20),0,0
+121,Metaverse ETP ETP , 27.33M,0, 76.85M, Own Blockchain,0,0
+122,Nebulas NAS , 27.15M,0, 51.95M, Own Blockchain,0,0
+123,Aion AION , 26.33M,0, 353.89M, Ethereum (ERC20),0,0
+124,Factom FCT , 25.76M,0, 9.83M, Own Blockchain,0,0
+125,WaykiChain WICC , 24.66M,0, 189M, Ethereum (ERC20),0,0
+126,Nuls NULS , 24.14M,0, 73.77M, Ethereum (ERC20),0,0
+127,Lambda LAMB , 23.94M,0, 779.59M, Ethereum (ERC20),0,0
+128,DigixDAO DGD , 23.74M,0, 2M, Ethereum (ERC20),0,0
+129,Aragon ANT , 23.56M,0, 29.8M, Ethereum (ERC20),0,0
+130,Beam BEAM , 23.46M,0, 41.95M, Own Blockchain,0,0
+131,Fetch FET , 22.78M,0, 605.54M, Ethereum (ERC20),0,0
+132,FunFair FUN , 22.54M,0, 6.55B, Ethereum (ERC20),0,0
+133,YOU COIN YOU , 22.39M,0, 413.79M, Ethereum (ERC20),0,0
+134,Grin GRIN , 22.19M,0, 24.51M, Own Blockchain,0,0
+135,Revain R , 22.18M,0, 484.45M, Ethereum (ERC20),0,0
+136,QASH QASH , 21.87M,0, 350M, Ethereum (ERC20),0,0
+137,Lina LINA , 21.59M,0, 273.29M, Ethereum (ERC20),0,0
+138,EDC Blockchain EDC , 21.22M,0, 2.67B, Own Blockchain,0,0
+139,Wanchain WAN , 21.33M,0, 106.15M, Ethereum (ERC20),0,0
+140,Enigma ENG , 20.94M,0, 74.84M, Ethereum (ERC20),0,0
+141,Thunder Token TT , 21.38M,0, 2.9B, Own Blockchain,0,0
+142,Ark ARK , 21.14M,0, 113.44M, Own Blockchain,0,0
+143,WAX WAXP , 20.97M,0, 837.21M, Ethereum (ERC20),0,0
+144,Dragon Coins DRG , 20.93M,0, 348.66M, Ethereum (ERC20),0,0
+145,Fantom FTM , 20.87M,0, 1.81B, Ethereum (ERC20),0,0
+146,BHPCoin BHP , 20.64M,0, 19.37M, Own Blockchain,0,0
+147,Binance USD BUSD , 20.73M,0, 20.71M, Ethereum (ERC20),0,0
+148,Gatechain Token GT , 20.81M,0, 38.68M, Ethereum (ERC20),0,0
+149,ILCoin ILC , 20.44M,0, 316.25M, Own Blockchain,0,0
+150,Loom Network LOOM , 20.27M,0, 969.35M, Ethereum (ERC20),0,0
+151,Orbs ORBS , 20.04M,0, 1.93B, Ethereum (ERC20),0,0
+152,Bancor BNT , 20.08M,0, 61.83M, Ethereum (ERC20),0,0
+153,Hyperion HYN , 19.85M,0, 316.77M, Ethereum (ERC20),0,0
+154,Ripio Credit Network RCN , 19.46M,0, 509.24M, Ethereum (ERC20),0,0
+155,TrueChain TRUE , 19.08M,0, 79.58M, Ethereum (ERC20),0,0
+156,Hedera Hashgraph HBAR , 18.8M,0, 636.52M, Own Blockchain,0,0
+157,Dent DENT , 18.97M,0, 75.63B, Ethereum (ERC20),0,0
+158,C20 C20 , 18.67M,0, 40.43M, Ethereum (ERC20),0,0
+159,TomoChain TOMO , 18.64M,0, 65.06M, Own Blockchain,0,0
+160,Power Ledger POWR , 18.53M,0, 421.14M, Ethereum (ERC20),0,0
+161,UNI COIN UNI , 18.52M,0, 12.91M, Ethereum (ERC20),0,0
+162,Nexus NXS , 18.45M,0, 64.67M, Own Blockchain,0,0
+163,Function X FX , 19.14M,0, 115.93M, Ethereum (ERC20),0,0
+164,Santiment SAN , 18.21M,0, 62.66M, Ethereum (ERC20),0,0
+165,Ignis IGNIS , 17.82M,0, 761.14M, Ardor,0,0
+166,Storj STORJ , 17.71M,0, 135.79M, Ethereum (ERC20),0,0
+167,Gnosis GNO , 17.22M,0, 1.1M, Ethereum (ERC20),0,0
+168,Robotina ROX , 17.19M,0, 303.76M, Ethereum (ERC20),0,0
+169,IoTeX IOTX , 17.15M,0, 4.33B, Ethereum (ERC20),0,0
+170,Telcoin TEL , 16.69M,0, 39.19B, Ethereum (ERC20),0,0
+171,Aladdin ADN , 16.12M,0, 31.97B, Ethereum (ERC20),0,0
+172,Credits CS , 15.86M,0, 183.33M, Ethereum (ERC20),0,0
+173,BitKan KAN , 15.87M,0, 6.1B, Ethereum (ERC20),0,0
+174,Cocos-BCX COCOS , 15.74M,0, 15.72B, Ethereum (ERC20),0,0
+175,Gas GAS , 15.85M,0, 10.13M, NEO,0,0
+176,Metal MTL , 15.57M,0, 51.98M, Ethereum (ERC20),0,0
+177,Bibox Token BIX , 15.35M,0, 107.19M, Ethereum (ERC20),0,0
+178,Aave LEND , 14.86M,0, 1.13B, Ethereum (ERC20),0,0
+179,Divi DIVI , 14.88M,0, 1.32B, Own Blockchain,0,0
+180,Eidoo EDO , 14.87M,0, 51.95M, Ethereum (ERC20),0,0
+181,Matrix AI Network MAN , 14.37M,0, 190.46M, Ethereum (ERC20),0,0
+182,Moeda Loyalty Points MDA , 14.42M,0, 19.63M, Ethereum (ERC20),0,0
+183,Groestlcoin GRS , 14.54M,0, 73.67M, Own Blockchain,0,0
+184,Wagerr WGR , 14.38M,0, 187.07M, Own Blockchain,0,0
+185,Loki LOKI , 13.66M,0, 43.62M, Own Blockchain,0,0
+186,Diamond Platform Token DPT , 13.66M,0, 1.03M, Ethereum (ERC20),0,0
+187,ArcBlock ABT , 13.62M,0, 98.55M, Ethereum (ERC20),0,0
+188,Wirex Token WXT , 13.43M,0, 1B, Stellar,0,0
+189,Cybermiles CMT , 13.3M,0, 800M, Ethereum (ERC20),0,0
+190,Syscoin SYS , 13.13M,0, 567.47M, Own Blockchain,0,0
+191,Celer Network CELR , 13.08M,0, 3.39B, Ethereum (ERC20),0,0
+192,Harmony ONE , 12.88M,0, 2.59B, Own Blockchain,0,0
+193,Cindicator CND , 13.25M,0, 1.78B, Ethereum (ERC20),0,0
+194,NKN NKN , 12.41M,0, 466.67M, NEO,0,0
+195,TTC TTC , 12.8M,0, 362.05M, Ethereum (ERC20),0,0
+196,PIVX PIVX , 12.76M,0, 56.78M, Own Blockchain,0,0
+197,Monolith TKN , 12.6M,0, 31.59M, Ethereum (ERC20),0,0
+198,Nxt NXT , 12.56M,0, 999M, Own Blockchain,0,0
+199,Theta Fuel TFUEL , 12.42M,0, 3.84B, Own Blockchain,0,0
+200,MEXC Token MEXC , 558.31M,0, 915.11M, Ethereum (ERC20),0,0
+201,INO COIN INO , 350.48M,0, 180M, Ethereum (ERC20),0,0
+202,Insight Chain INB , 271.27M,0, 349.9M, Ethereum (ERC20),0,0
+203,PRIZM PZM , 199.47M,0, 399.11M, Own Blockchain,0,0
+204,ThoreNext THX , 185.42M,0, 21.65M, Ethereum (ERC20),0,0
+205,Maximine Coin MXM , 165.2M,0, 1.65B, Ethereum (ERC20),0,0
+206,ThoreCoin THR , 153.16M,0, 86.69K, Ethereum (ERC20),0,0
+207,Oasis City OSC , 123.91M,0, 2.41B, Ethereum (ERC20),0,0
+208,Cryptonex CNX , 116.21M,0, 55.69M, Own Blockchain,0,0
+209,Silverway SLV , 86.27M,0, 100M, Ethereum (ERC20),0,0
+210,Karatgold Coin KBC , 85.42M,0, 3.75B, Ethereum (ERC20),0,0
+211,Mixin XIN , 81.57M,0, 461.31K, Ethereum (ERC20),0,0
+212,Dimension Chain EON , 76.15M,0, 244.78M, Ethereum (ERC20),0,0
+213,Bitbook Gambling BXK , 73.7M,0, 368.39M, Ethereum (ERC20),0,0
+214,Beldex BDX , 71M,0, 980.22M, Own Blockchain,0,0
+215,GAPS GAP , 67.98M,0, 10M, Ethereum (ERC20),0,0
+216,BitForex Token BF , 58.49M,0, 4.25B, Ethereum (ERC20),0,0
+217,OKB OKB , 56.77M,0, 20M, Ethereum (ERC20),0,0
+218,MineBee MB , 54.08M,0, 1.83B, Ethereum (ERC20),0,0
+219,Flexacoin FXC , 53.39M,0, 20.91B, Ethereum (ERC20),0,0
+220,Dynamic Trading Rights DTR , 52.18M,0, 1.52B, Ethereum (ERC20),0,0
+221,Clipper Coin CCCX , 51.78M,0, 3.78B, Ethereum (ERC20),0,0
+222,MX Token MX , 46.59M,0, 230.43M, Ethereum (ERC20),0,0
+223,Cryptoindex.com 100 CIX100 , 42.4M,0, 62.41M, Ethereum (ERC20),0,0
+224,NEXT NET , 41.81M,0, 40.49M, Ethereum (ERC20),0,0
+225,BreezeCoin BRZE , 40.53M,0, 100M, Ethereum (ERC20),0,0
+226,Buggyra Coin Zero BCZERO , 37.95M,0, 2.01B, Ethereum (ERC20),0,0
+227,PLATINCOIN PLC , 37.4M,0, 5M, Own Blockchain,0,0
+228,Jewel JWL , 36.86M,0, 54.71M, Ethereum (ERC20),0,0
+229,ETERNAL TOKEN XET , 36.44M,0, 93.47M, Ethereum (ERC20),0,0
+230,Bit-Z Token BZ , 36.14M,0, 134.84M, Ethereum (ERC20),0,0
+231,Veritaseum VERI , 36.1M,0, 2.15M, Ethereum (ERC20),0,0
+232,CryptoVerificationCoin CVCC , 35.99M,0, 582.6K, Own Blockchain,0,0
+233,Wixlar WIX , 33.54M,0, 2.39B, Ethereum (ERC20),0,0
+234,StrongHands SHND , 33.11M,0, 9.32T, Own Blockchain,0,0
+235,BitcoinHD BHD , 32.34M,0, 5.12M, Own Blockchain,0,0
+236,VestChain VEST , 31.72M,0, 7.08B, Ethereum (ERC20),0,0
+237,Bankera BNK , 29.84M,0, 24.61B, Ethereum (ERC20),0,0
+238,1irstcoin FST , 29.66M,0, 33.97M, Ethereum (ERC20),0,0
+239,LAToken LA , 28.38M,0, 380.1M, Ethereum (ERC20),0,0
+240,botXcoin BOTX , 27.97M,0, 1.63B, Ethereum (ERC20),0,0
+241,AgaveCoin AGVC , 27.7M,0, 390.62M, Ethereum (ERC20),0,0
+242,USDK USDK , 27.67M,0, 28.6M, Ethereum (ERC20),0,0
+243,FABRK FAB , 26.86M,0, 4.79B, Ethereum (ERC20),0,0
+244,Qubitica QBIT , 26.53M,0, 808.67K, Ethereum (ERC20),0,0
+245,Bitcoin 2 BTC2 , 25.7M,0, 17.36M, Own Blockchain,0,0
+246,BQT BQTX , 25.65M,0, 382.29M, Ethereum (ERC20),0,0
+247,Telos TLOS , 24.71M,0, 222.76M, EOS,0,0
+248,Envion EVN , 23.77M,0, 119.2M, Ethereum (ERC20),0,0
+249,General Attention Currency XAC , 23.26M,0, 10M, Ethereum (ERC20),0,0
+250,BHEX Token BHT , 22.45M,0, 531.39M, Ethereum (ERC20),0,0
+251,Ecoreal Estate ECOREAL , 22.27M,0, 208.92M, Ethereum (ERC20),0,0
+252,XcelToken Plus XLAB , 21.61M,0, 6.26B, Ethereum (ERC20),0,0
+253,Atlas Protocol ATP , 21.6M,0, 2.58B, Own Blockchain,0,0
+254,Tratin TRAT , 21.22M,0, 112B, Ethereum (ERC20),0,0
+255,GNY GNY , 20.19M,0, 188.38M, Ethereum (ERC20),0,0
+256,MicroBitcoin MBC , 20.15M,0, 188.78B, Own Blockchain,0,0
+257,BTU Protocol BTU , 19.68M,0, 70.01M, Ethereum (ERC20),0,0
+258,Obyte GBYTE , 17.83M,0, 722.06K, Own Blockchain,0,0
+259,GreenPower GRN , 16.99M,0, 3.23B, Own Blockchain,0,0
+260,MB8 Coin MB8 , 16.39M,0, 585.53M, Own Blockchain,0,0
+261,Ultiledger ULT , 16.14M,0, 642.38M, Ethereum (ERC20),0,0
+262,Apollo Currency APL , 15.89M,0, 14.69B, Own Blockchain,0,0
+263,Japan Content Token JCT , 15.83M,0, 293.15M, Ethereum (ERC20),0,0
+264,MOAC MOAC , 15.35M,0, 62.46M, Ethereum (ERC20),0,0
+265,Vitae VITAE , 15.06M,0, 17.73M, Own Blockchain,0,0
+266,NewYork Exchange NYE , 14.73M,0, 3.19M, Own Blockchain,0,0
+267,Unobtanium UNO , 14.63M,0, 201.17K, Own Blockchain,0,0
+268,DAPS Token DAPS , 14.16M,0, 52.59B, Own Blockchain,0,0
+269,Safe SAFE , 13.44M,0, 20.84M, Own Blockchain,0,0
+270,DDKoin DDK , 12.59M,0, 1.71M, Own Blockchain,0,0
+271,CryptoFranc XCHF , 12.23M,0, 12.04M, Ethereum (ERC20),0,0
+272,B2BX B2B , 12.11M,0, 19.63M, Ethereum (ERC20),0,0
+273,FIBOS FO , 12M,0, 1.06B, Own Blockchain,0,0
+274,PlayChip PLA , 11.95M,0, 14.01B, Ethereum (ERC223),0,0
+275,ZrCoin ZRC , 11.79M,0, 4.58M, Waves,0,0
+276,UnlimitedIP UIP , 11.73M,0, 1.24B, EOS,0,0
+277,Streamit Coin STREAM , 11.64M,0, 4.14M, Own Blockchain,0,0
+278,SingularityNET AGI , 11.62M,0, 539.67M, Ethereum (ERC20),0,0
+279,QuarkChain QKC , 11.49M,0, 2.54B, Own Blockchain,0,0
+280,Elitium EUM , 11.28M,0, 9.66M, Ethereum (ERC20),0,0
+281,OTOCASH OTO , 11.22M,0, 21.32M, Own Blockchain,0,0
+282,Blackmoon BMC , 11M,0, 54M, Ethereum (ERC20),0,0
+283,BnkToTheFuture BFT , 10.98M,0, 729.99M, Ethereum (ERC20),0,0
+284,Litecoin Cash LCC , 10.95M,0, 648.1M, Own Blockchain,0,0
+285,United Traders Token UTT , 10.91M,0, 37.51M, Ethereum (ERC20),0,0
+286,Request Network REQ , 10.71M,0, 784.75M, Ethereum (ERC20),0,0
+287,Vertcoin VTC , 10.68M,0, 51.85M, Own Blockchain,0,0
+288,Polymath Network POLY , 10.63M,0, 441.44M, Ethereum (ERC20),0,0
+289,Elrond ERD , 10.61M,0, 6.93B, Binance-Chain BEP-2,0,0
+290,Constellation DAG , 10.55M,0, 858M, Ethereum (ERC20),0,0
+291,RealTract RET , 10.52M,0, 10.6B, Ethereum (ERC20),0,0
+292,Bitrue Coin BTR , 10.52M,0, 140.1M, Own Blockchain,0,0
+293,IoT Chain ITC , 10.52M,0, 83.46M, Own Blockchain,0,0
+294,Spectre.ai Dividend Token SXDT , 10.5M,0, 82.07M, Ethereum (ERC20),0,0
+295,Noah Coin NOAH , 10.44M,0, 32.69B, Ethereum (ERC20),0,0
+296,GoWithMi GMAT , 10.33M,0, 2.72B, Ethereum (ERC20),0,0
+297,Fusion FSN , 10.2M,0, 35.31M, Ethereum (ERC20),0,0
+298,Cortex CTXC , 10.19M,0, 149.79M, Ethereum (ERC20),0,0
+299,CasinoCoin CSC , 10.11M,0, 39.38B, Own Blockchain,0,0
+300,Carry CRE , 10.09M,0, 2.68B, Ethereum (ERC20),0,0
+301,Davinci Coin DAC , 9.96M,0, 3.6B, Ethereum (ERC20),0,0
+302,Quantum Resistant Ledger QRL , 9.91M,0, 69.44M, Own Blockchain,0,0
+303,Einsteinium EMC2 , 9.85M,0, 218.98M, Own Blockchain,0,0
+304,Skycoin SKY , 9.83M,0, 16M, Own Blockchain,0,0
+305,Contentos COS , 9.78M,0, 642.35M, Binance-Chain BEP-2,0,0
+306,Aencoin AEN , 9.77M,0, 261.83M, Ethereum (ERC20),0,0
+307,TrustVerse TRV , 9.77M,0, 234.48M, Ethereum (ERC20),0,0
+308,MediBloc MED , 9.73M,0, 2.36B, QTUM,0,0
+309,Everipedia IQ , 9.69M,0, 5.32B, EOS,0,0
+310,FNB Protocol FNB , 9.65M,0, 631.95M, Ethereum (ERC20),0,0
+311,HYCON HYC , 9.54M,0, 2.03B, Own Blockchain,0,0
+312,EOS Force EOSC , 9.46M,0, 964.07M, Own Blockchain,0,0
+313,SaluS SLS , 9.35M,0, 1.01M, Own Blockchain,0,0
+314,ZTCoin ZT , 9.32M,0, 225.95M, Ethereum (ERC20),0,0
+315,FirstBlood 1ST , 9.25M,0, 85.56M, Own Blockchain,0,0
+316,MEDX MEDX , 9.18M,0, 3.43B, Ethereum (ERC20),0,0
+317,Origo OGO , 9.11M,0, 391.3M, Ethereum (ERC20),0,0
+318,THEKEY TKY , 9.1M,0, 5.25B, NEO,0,0
+319,TenX PAY , 9.07M,0, 134.94M, Ethereum (ERC20),0,0
+320,UTRUST UTK , 9.04M,0, 450M, Ethereum (ERC20),0,0
+321,Valor Token VALOR , 9.01M,0, 20.04M, Ethereum (ERC20),0,0
+322,Gifto GTO , 8.98M,0, 604.21M, Ethereum (ERC20),0,0
+323,REPO REPO , 8.94M,0, 109.96M, Stellar,0,0
+324,FOAM FOAM , 8.82M,0, 286.47M, Ethereum (ERC20),0,0
+325,PressOne PRS , 8.81M,0, 284.74M, Ethereum (ERC20),0,0
+326,Blox CDT , 8.8M,0, 674.58M, Own Blockchain,0,0
+327,Particl PART , 8.69M,0, 8.07M, Own Blockchain,0,0
+328,Nectar NEC , 8.59M,0, 82.35M, Ethereum (ERC20),0,0
+329,Tael WABI , 8.58M,0, 65.5M, Ethereum (ERC20),0,0
+330,KAASO KAASO , 8.58M,0, 24.6M, Ethereum (ERC20),0,0
+331,Mithril MITH , 8.51M,0, 688.28M, Ethereum (ERC20),0,0
+332,Libra Credit LBA , 8.45M,0, 603.08M, Ethereum (ERC20),0,0
+333,Content Value Network CVNT , 8.38M,0, 533.19M, Ethereum (ERC20),0,0
+334,Pillar PLR , 8.22M,0, 259.35M, Ethereum (ERC20),0,0
+335,Achain ACT , 8.11M,0, 954M, Own Blockchain,0,0
+336,Origin Sport ORS , 8.09M,0, 300M, Own Blockchain,0,0
+337,Dragonchain DRGN , 8.08M,0, 238.42M, Ethereum (ERC20),0,0
+338,Mainframe MFT , 8.05M,0, 8.81B, Ethereum (ERC20),0,0
+339,Metadium META , 8.04M,0, 1.25B, Ethereum (ERC20),0,0
+340,Ankr ANKR , 8.01M,0, 4B, Ethereum (ERC20),0,0
+341,Egretia EGT , 8M,0, 4.22B, Ethereum (ERC20),0,0
+342,Gemini Dollar GUSD , 7.96M,0, 8M, Ethereum (ERC20),0,0
+343,Measurable Data Token MDT , 7.92M,0, 557.64M, Ethereum (ERC20),0,0
+344,bitCNY BITCNY , 7.91M,0, 55.91M, BitShares,0,0
+345,Streamr DATA , 7.83M,0, 677.15M, Ethereum (ERC20),0,0
+346,Force Protocol FOR , 7.82M,0, 249.05M, Ethereum (ERC20),0,0
+347,Storm STORM , 7.81M,0, 6.33B, Ethereum (ERC20),0,0
+348,Reserve Rights RSR , 7.81M,0, 4.21B, Ethereum (ERC20),0,0
+349,Neblio NEBL , 7.76M,0, 15.01M, Own Blockchain,0,0
+350,Ocean Protocol OCEAN , 7.74M,0, 335.32M, Ethereum (ERC20),0,0
+351,IRISnet IRIS , 7.74M,0, 417.52M, Own Blockchain,0,0
+352,Po.et POE , 7.6M,0, 3.14B, Ethereum (ERC20),0,0
+353,Incent INCNT , 7.58M,0, 46.02M, Waves,0,0
+354,Namecoin NMC , 7.54M,0, 14.74M, Own Blockchain,0,0
+355,Raiden Network Token RDN , 7.47M,0, 50.59M, Ethereum (ERC20),0,0
+356,Lightning Bitcoin [Futures] LBTC , 7.47M,0, 3.86M, Own Blockchain,0,0
+357,UGAS UGAS , 7.46M,0, 171.72M, Ethereum (ERC20),0,0
+358,Everex EVX , 7.46M,0, 22.7M, Ethereum (ERC20),0,0
+359,Bitcoin Rhodium XRC , 7.41M,0, 835.48K, Own Blockchain,0,0
+360,CWV Chain CWV , 7.4M,0, 3.54B, Ethereum (ERC20),0,0
+361,Levolution LEVL , 7.34M,0, 23.88M, Ethereum (ERC20),0,0
+362,Burst BURST , 7.33M,0, 2.07B, Own Blockchain,0,0
+363,Time New Bank TNB , 7.3M,0, 2.93B, Own Blockchain,0,0
+364,Hydro HYDRO , 7.21M,0, 10.78B, Ethereum (ERC20),0,0
+365,High Performance Blockchain HPB , 7.21M,0, 43.62M, Own Blockchain,0,0
+366,Tokenomy TEN , 7.19M,0, 200M, Ethereum (ERC20),0,0
+367,Tripio TRIO , 7.17M,0, 3.75B, Ethereum (ERC20),0,0
+368,Kin KIN , 7.17M,0, 1.21T, Ethereum (ERC20),0,0
+369,INT Chain INT , 7.16M,0, 379.72M, Own Blockchain,0,0
+370,OST OST , 7.13M,0, 674.63M, Ethereum (ERC20),0,0
+371,S4FE S4F , 7.09M,0, 267.33M, Ethereum (ERC20),0,0
+372,Ruff RUFF , 7.06M,0, 980.5M, Own Blockchain,0,0
+373,Darico Ecosystem Coin DEC , 7M,0, 59.85M, Ethereum (ERC20),0,0
+374,TokenClub TCT , 6.99M,0, 481.43M, Ethereum (ERC20),0,0
+375,Blocknet BLOCK , 6.96M,0, 6.22M, Own Blockchain,0,0
+376,Quantstamp QSP , 6.81M,0, 617.31M, Ethereum (ERC20),0,0
+377,TaaS TAAS , 6.81M,0, 8.15M, Own Blockchain,0,0
+378,LockTrip LOC , 6.78M,0, 14.95M, Ethereum (ERC20),0,0
+379,Sport and Leisure SNL , 6.77M,0, 674.67M, Ethereum (ERC20),0,0
+380,IDEX IDEX , 6.74M,0, 452.79M, Ethereum (ERC20),0,0
+381,Perlin PERL , 6.74M,0, 261.31M, Ethereum (ERC20),0,0
+382,Eligma Token ELI , 6.73M,0, 198.51M, Ethereum (ERC20),0,0
+383,RChain RHOC , 6.69M,0, 373.79M, Ethereum (ERC20),0,0
+384,sUSD SUSD , 6.63M,0, 6.89M, Ethereum (ERC20),0,0
+385,All Sports SOC , 6.62M,0, 1.5B, Ethereum (ERC20),0,0
+386,Safex Token SFT , 6.62M,0, 1.2B, Own Blockchain,0,0
+387,TOP TOP , 6.61M,0, 3.14B, Ethereum (ERC20),0,0
+388,Peercoin PPC , 6.6M,0, 25.71M, Own Blockchain,0,0
+389,Huobi Pool Token HPT , 6.59M,0, 949.6M, Ethereum (ERC20),0,0
+390,Insolar INS , 6.57M,0, 32.5M, Ethereum (ERC20),0,0
+391,ProximaX XPX , 6.54M,0, 6.1B, NEM,0,0
+392,GoChain GO , 6.51M,0, 825.65M, Own Blockchain,0,0
+393,PumaPay PMA , 6.45M,0, 24.18B, Ethereum (ERC223),0,0
+394,Monero Classic XMC , 6.4M,0, 17.29M, Own Blockchain,0,0
+395,pEOS PEOS , 6.38M,0, 828.35M, EOS,0,0
+396,NAV Coin NAV , 6.35M,0, 66.5M, Own Blockchain,0,0
+397,SALT SALT , 6.34M,0, 80.28M, Ethereum (ERC20),0,0
+398,Restart Energy MWAT MWAT , 6.3M,0, 452.75M, Ethereum (ERC20),0,0
+399,Contents Protocol CPT , 6.13M,0, 3.04B, Ethereum (ERC20),0,0
+400,doc.com Token MTC , 6.11M,0, 719.23M, Ethereum (ERC20),0,0
+401,STPT STPT , 6.08M,0, 686.37M, Ethereum (ERC20),0,0
+402,Napoleon X NPX , 6.02M,0, 24.32M, Ethereum (ERC20),0,0
+403,Red Pulse PHX , 6.02M,0, 829.59M, NEO,0,0
+404,SIX SIX , 6.01M,0, 273.78M, Stellar,0,0
+405,PayPie PPP , 5.98M,0, 82.5M, Ethereum (ERC20),0,0
+406,AdEx ADX , 5.95M,0, 80.07M, Ethereum (ERC20),0,0
+407,BidiPass BDP , 5.94M,0, 207.97M, Ethereum (ERC20),0,0
+408,BORA BORA , 5.9M,0, 671.11M, Ethereum (ERC20),0,0
+409,BitBay BAY , 5.85M,0, 1.01B, Own Blockchain,0,0
+410,Monetha MTH , 5.81M,0, 402.4M, Ethereum (ERC20),0,0
+411,Polis POLIS , 5.8M,0, 8.47M, Own Blockchain,0,0
+412,Dock DOCK , 5.79M,0, 548.56M, Ethereum (ERC20),0,0
+413,CommerceBlock CBT , 5.79M,0, 174.17M, Ethereum (ERC20),0,0
+414,Everus EVR , 5.76M,0, 456.73M, Ethereum (ERC20),0,0
+415,Humanscape HUM , 5.75M,0, 464.31M, Ethereum (ERC20),0,0
+416,Sense SENSE , 5.73M,0, 508.82M, EOS,0,0
+417,Poseidon Network QQQ , 5.7M,0, 2.12B, Ethereum (ERC20),0,0
+418,Digix Gold Token DGX , 5.66M,0, 121.04K, Own Blockchain,0,0
+419,Dusk Network DUSK , 5.65M,0, 113.49M, Ethereum (ERC20),0,0
+420,FLO FLO , 5.64M,0, 152.35M, Own Blockchain,0,0
+421,Nucleus Vision NCASH , 5.62M,0, 5.94B, Ethereum (ERC20),0,0
+422,Invictus Hyperion Fund IHF , 5.59M,0, 119.21M, Ethereum (ERC20),0,0
+423,MovieBloc MBL , 5.57M,0, 3.77B, Ethereum (ERC20),0,0
+424,USDQ USDQ , 5.55M,0, 5.5M, Ethereum (ERC20),0,0
+425,SingularDTV SNGLS , 5.54M,0, 600M, Ethereum (ERC20),0,0
+426,Metronome MET , 5.54M,0, 9.65M, Ethereum (ERC20),0,0
+427,LiquidApps DAPP , 5.53M,0, 388.3M, EOS,0,0
+428,Stakenet XSN , 5.5M,0, 89.36M, Own Blockchain,0,0
+429,DeepBrain Chain DBC , 5.41M,0, 3.2B, NEO,0,0
+430,MetaHash MHC , 5.38M,0, 1.47B, Own Blockchain,0,0
+431,Wrapped Bitcoin WBTC , 5.37M,0, 0, Ethereum (ERC20),0,0
+432,Melon MLN , 5.37M,0, 1.25M, Ethereum (ERC20),0,0
+433,VeriBlock VBK , 5.31M,0, 526.84M, Own Blockchain,0,0
+434,Bluzelle BLZ , 5.31M,0, 210.85M, Ethereum (ERC20),0,0
+435,SwissBorg CHSB , 5.29M,0, 575.82M, Ethereum (ERC20),0,0
+436,LTO Network LTO , 5.21M,0, 185.73M, Ethereum (ERC20),0,0
+437,IPChain IPC , 5.19M,0, 78.88M, Ethereum (ERC20),0,0
+438,Cashaa CAS , 5.18M,0, 756.88M, Ethereum (ERC20),0,0
+439,Numeraire NMR , 5.17M,0, 1.35M, Ethereum (ERC20),0,0
+440,Rocket Pool RPL , 5.16M,0, 9.85M, Ethereum (ERC20),0,0
+441,DAObet BET , 5.11M,0, 167.27M, Ethereum (ERC20),0,0
+442,MenaPay MPAY , 5.06M,0, 95.4M, Ethereum (ERC20),0,0
+443,Dropil DROP , 5.05M,0, 22.75B, Own Blockchain,0,0
+444,SmartMesh SMT , 5.01M,0, 1.34B, Ethereum (ERC20),0,0
+445,Asch XAS , 5.01M,0, 93.36M, Own Blockchain,0,0
+446,Odyssey OCN , 4.99M,0, 6.68B, Ethereum (ERC20),0,0
+447,DMarket DMT , 4.9M,0, 56.92M, Ethereum (ERC20),0,0
+448,Steem Dollars SBD , 4.88M,0, 7.43M, Own Blockchain,0,0
+449,Aergo AERGO , 4.88M,0, 103.93M, Ethereum (ERC20),0,0
+450,Travala AVA , 4.87M,0, 44.3M, NEO,0,0
+451,CyberVein CVT , 4.87M,0, 1.06B, Ethereum (ERC20),0,0
+452,OAX OAX , 4.87M,0, 75.13M, Ethereum (ERC20),0,0
+453,BOX Token BOX , 4.86M,0, 99.61M, Ethereum (ERC20),0,0
+454,ARPA Chain ARPA , 4.85M,0, 376.56M, Ethereum (ERC20),0,0
+455,DigitalNote XDN , 4.81M,0, 7.37B, Own Blockchain,0,0
+456,Spendcoin SPND , 4.8M,0, 953.65M, Ethereum (ERC20),0,0
+457,BlackCoin BLK , 4.73M,0, 63.08M, Own Blockchain,0,0
+458,Genesis Vision GVT , 4.72M,0, 4.43M, Ethereum (ERC20),0,0
+459,Proton Token PTT , 4.72M,0, 8.29B, Ethereum (ERC20),0,0
+460,SIRIN LABS Token SRN , 4.71M,0, 491.82M, Ethereum (ERC20),0,0
+461,Cosmo Coin COSM , 4.59M,0, 670.78M, Ethereum (ERC20),0,0
+462,WePower WPR , 4.59M,0, 608.22M, Ethereum (ERC20),0,0
+463,TERA TERA , 4.59M,0, 844.71M, Own Blockchain,0,0
+464,Propy PRO , 4.57M,0, 47.77M, Ethereum (ERC20),0,0
+465,Morpheus Network MRPH , 4.57M,0, 33.06M, Ethereum (ERC20),0,0
+466,Snetwork SNET , 4.56M,0, 162.86M, Ethereum (ERC20),0,0
+467,Cryptocean CRON , 4.54M,0, 6.47M, Ethereum (ERC20),0,0
+468,Viberate VIB , 4.51M,0, 191.86M, Ethereum (ERC20),0,0
+469,Band Protocol BAND , 4.42M,0, 15.66M, Ethereum (ERC20),0,0
+470,U Network UUU , 4.42M,0, 6.99B, Own Blockchain,0,0
+471,VIBE VIBE , 4.42M,0, 260.14M, Ethereum (ERC20),0,0
+472,Viacoin VIA , 4.4M,0, 23.16M, Own Blockchain,0,0
+473,SmartCash SMART , 4.39M,0, 1.41B, Own Blockchain,0,0
+474,Ether Zero ETZ , 4.32M,0, 165.73M, Own Blockchain,0,0
+475,Moss Coin MOC , 4.31M,0, 313.3M, Ethereum (ERC20),0,0
+476,Hi Mutual Society HMC , 4.28M,0, 404.1M, Own Blockchain,0,0
+477,Dero DERO , 4.27M,0, 8.41M, Own Blockchain,0,0
+478,Artfinity AT , 4.22M,0, 120.28M, Ethereum (ERC20),0,0
+479,SONM SNM , 4.17M,0, 359.6M, Ethereum (ERC20),0,0
+480,Tidex Token TDX , 4.16M,0, 9.5M, Own Blockchain,0,0
+481,Edge DADI , 4.15M,0, 71.67M, Ethereum (ERC20),0,0
+482,Hubii Network HBT , 4.15M,0, 15.14M, Ethereum (ERC20),0,0
+483,QunQun QUN , 4.15M,0, 649.87M, Ethereum (ERC20),0,0
+484,ZelCash ZEL , 4.14M,0, 80.85M, Own Blockchain,0,0
+485,STACS STACS , 4.14M,0, 520.14M, Ethereum (ERC20),0,0
+486,BaaSid BAAS , 4.13M,0, 4.39B, Ethereum (ERC20),0,0
+487,VITE VITE , 4.1M,0, 415.16M, Ethereum (ERC20),0,0
+488,Counterparty XCP , 4.09M,0, 2.62M, Own Blockchain,0,0
+489,Ethos ETHOS , 4.09M,0, 97.62M, Ethereum (ERC20),0,0
+490,Aeon AEON , 4.08M,0, 15.83M, Own Blockchain,0,0
+491,Jibrel JNT , 4.07M,0, 170.08M, Ethereum (ERC20),0,0
+492,Metrix Coin MRX , 4.07M,0, 14.54B, Own Blockchain,0,0
+493,SwftCoin SWFTC , 4.06M,0, 3.64B, Ethereum (ERC20),0,0
+494,Ambrosus AMB , 4.06M,0, 144.59M, Ethereum (ERC20),0,0
+495,Emercoin EMC , 4.06M,0, 44.62M, Own Blockchain,0,0
+496,XinFin Network XDCE , 4.04M,0, 3.93B, Ethereum (ERC20),0,0
+497,Credo CREDO , 3.98M,0, 549.89M, Own Blockchain,0,0
+498,Gulden NLG , 3.97M,0, 498.48M, Own Blockchain,0,0
+499,Pundi X NEM NPXSXEM , 3.93M,0, 20.72B, NEM,0,0
+500,Lympo LYM , 3.93M,0, 826.67M, Ethereum (ERC20),0,0
+501,Global Currency Reserve GCR , 3.92M,0, 106.51M, Own Blockchain,0,0
+502,QLINK QLC , 3.92M,0, 240M, NEO,0,0
+503,ZIP ZIP , 3.89M,0, 16.2B, Own Blockchain,0,0
+504,Emirex Token EMRX , 3.89M,0, 22.3M, Ethereum (ERC20),0,0
+505,Pepe Cash PEPECASH , 3.87M,0, 701.88M, Counterparty,0,0
+506,Electra ECA , 3.87M,0, 28.61B, Own Blockchain,0,0
+507,Pigeoncoin PGN , 3.87M,0, 3.78B, Own Blockchain,0,0
+508,Peerplays PPY , 3.85M,0, 4.5M, Own Blockchain,0,0
+509,DEX DEX , 3.84M,0, 191.54M, Ethereum (ERC20),0,0
+510,VNT Chain VNT , 3.83M,0, 2.61B, Ethereum (ERC20),0,0
+511,Bitcore BTX , 3.82M,0, 17.4M, Own Blockchain,0,0
+512,Chimpion BNANA , 3.8M,0, 31.73M, Ethereum (ERC20),0,0
+513,Wings WINGS , 3.79M,0, 96.38M, Ethereum (ERC20),0,0
+514,Veil VEIL , 3.79M,0, 43.63M, Own Blockchain,0,0
+515,StableUSD USDS , 3.79M,0, 3.79M, Ethereum (ERC20),0,0
+516,Cajutel CAJ , 3.78M,0, 1.35M, Ethereum (ERC20),0,0
+517,ChainX PCX , 3.76M,0, 2.22M, Own Blockchain,0,0
+518,XYO XYO , 3.74M,0, 8.3B, Ethereum (ERC20),0,0
+519,BOScoin BOS , 3.74M,0, 692.79M, Own Blockchain,0,0
+520,Xaurum XAUR , 3.74M,0, 76.76M, Ethereum (ERC20),0,0
+521,Neumark NEU , 3.74M,0, 37.4M, Ethereum (ERC20),0,0
+522,GET Protocol GET , 3.74M,0, 11.39M, Own Blockchain,0,0
+523,SelfKey KEY , 3.73M,0, 2.87B, Ethereum (ERC20),0,0
+524,Swarm SWM , 3.71M,0, 78.65M, Ethereum (ERC20),0,0
+525,Litex LXT , 3.7M,0, 960M, Ethereum (ERC20),0,0
+526,BitMart Token BMX , 3.66M,0, 161.12M, Ethereum (ERC20),0,0
+527,Sealchain SEAL , 3.66M,0, 185.81M, Ethereum (ERC20),0,0
+528,Etherparty FUEL , 3.64M,0, 1000M, Ethereum (ERC20),0,0
+529,Cube AUTO , 3.63M,0, 6.77B, Ethereum (ERC20),0,0
+530,IntelliShare INE , 3.63M,0, 182.76M, Ethereum (ERC20),0,0
+531,AppCoins APPC , 3.62M,0, 100.05M, Ethereum (ERC20),0,0
+532,Infinitus Token INF , 3.61M,0, 12.92M, Ethereum (ERC20),0,0
+533,PolySwarm NCT , 3.61M,0, 1.55B, Ethereum (ERC20),0,0
+534,district0x DNT , 3.6M,0, 600M, Ethereum (ERC20),0,0
+535,Airswap AST , 3.6M,0, 150M, Ethereum (ERC20),0,0
+536,YOYOW YOYOW , 3.59M,0, 299.99M, BitShares,0,0
+537,Ubiq UBQ , 3.58M,0, 42.61M, Own Blockchain,0,0
+538,Scry.info DDD , 3.58M,0, 440.06M, Ethereum (ERC20),0,0
+539,APIS APIS , 3.56M,0, 8.96B, Own Blockchain,0,0
+540,Ondori RSTR , 3.52M,0, 37.77B, Own Blockchain,0,0
+541,ERC20 ERC20 , 3.52M,0, 50M, Ethereum (ERC20),0,0
+542,BOLT BOLT , 3.48M,0, 412.6M, Ethereum (ERC20),0,0
+543,POA POA , 3.47M,0, 220.17M, Ethereum (ERC20),0,0
+544,Rublix RBLX , 3.45M,0, 20.78M, Own Blockchain,0,0
+545,Aeron ARN , 3.45M,0, 19.99M, Ethereum (ERC20),0,0
+546,PlayCoin [ERC20] PLY , 3.43M,0, 987.55M, Ethereum (ERC20),0,0
+547,Agrello DLT , 3.4M,0, 85.98M, Ethereum (ERC20),0,0
+548,VeriDocGlobal VDG , 3.39M,0, 7.84B, Ethereum (ERC20),0,0
+549,ContentBox BOX , 3.38M,0, 926.26M, Ethereum (ERC20),0,0
+550,Ternio TERN , 3.34M,0, 334.16M, Stellar,0,0
+551,Esportbits HLT , 3.34M,0, 20.01M, Ethereum (ERC20),0,0
+552,ParkinGo GOT , 3.34M,0, 15.57M, Ethereum (ERC20),0,0
+553,DATA DTA , 3.32M,0, 9.77B, Ethereum (ERC20),0,0
+554,Polybius PLBT , 3.3M,0, 3.97M, Own Blockchain,0,0
+555,Blockmason BCPT , 3.27M,0, 116.16M, Ethereum (ERC20),0,0
+556,Color Platform CLR , 3.27M,0, 131.61M, Ethereum (ERC20),0,0
+557,Feathercoin FTC , 3.27M,0, 255.53M, Own Blockchain,0,0
+558,Lykke LKK , 3.26M,0, 316.81M, Own Blockchain,0,0
+559,Bitsdaq BQQQ , 3.25M,0, 2.68B, Ethereum (ERC20),0,0
+560,ColossusXT COLX , 3.24M,0, 11.57B, Own Blockchain,0,0
+561,NIX NIX , 3.23M,0, 43.25M, Own Blockchain,0,0
+562,Penta PNT , 3.23M,0, 21.01B, Own Blockchain,0,0
+563,Credit Tag Chain CTC , 3.22M,0, 59.75M, Own Blockchain,0,0
+564,Mobius MOBI , 3.21M,0, 515.08M, Stellar,0,0
+565,FLETA FLETA , 3.21M,0, 299.16M, Ethereum (ERC20),0,0
+566,Refereum RFR , 3.14M,0, 4.12B, Ethereum (ERC20),0,0
+567,AXE AXE , 3.14M,0, 5.01M, Own Blockchain,0,0
+568,Primas PST , 3.12M,0, 52.69M, Ethereum (ERC20),0,0
+569,Kcash KCASH , 3.09M,0, 445.5M, Own Blockchain,0,0
+570,Global Cryptocurrency GCC , 3.07M,0, 1.27B, Own Blockchain,0,0
+571,Etheroll DICE , 3.07M,0, 7M, Ethereum (ERC20),0,0
+572,WhiteCoin XWC , 3.07M,0, 250.18M, Own Blockchain,0,0
+573,V-ID VIDT , 3.04M,0, 31.9M, Ethereum (ERC20),0,0
+574,VideoCoin VID , 3.04M,0, 15.52M, Ethereum (ERC20),0,0
+575,Game GTC , 3.04M,0, 761.44M, Ethereum (ERC20),0,0
+576,POPCHAIN PCH , 3.03M,0, 892.8M, Ethereum (ERC20),0,0
+577,Sentinel Protocol UPP , 3.03M,0, 311.19M, Ethereum (ERC20),0,0
+578,STEM CELL COIN SCC , 3.01M,0, 320.66M, NEO,0,0
+579,DAOstack GEN , 3M,0, 41.3M, Ethereum (ERC20),0,0
+580,Primecoin XPM , 2.98M,0, 29.45M, Own Blockchain,0,0
+581,BLOCKv VEE , 2.97M,0, 2.66B, Ethereum (ERC20),0,0
+582,Krios KRI , 2.97M,0, 178.11M, Ethereum (ERC20),0,0
+583,Vites VITES , 2.96M,0, 36.86B, Own Blockchain,0,0
+584,Universa UTNP , 2.96M,0, 1.85B, Ethereum (ERC20),0,0
+585,Lendingblock LND , 2.96M,0, 773.8M, Ethereum (ERC20),0,0
+586,Genaro Network GNX , 2.95M,0, 255.87M, Ethereum (ERC20),0,0
+587,Morpheus Labs MITX , 2.94M,0, 348.38M, Ethereum (ERC20),0,0
+588,Eterbase Coin XBASE , 2.93M,0, 981.78M, Ethereum (ERC20),0,0
+589,Ultra UOS , 2.92M,0, 90.53M, Ethereum (ERC20),0,0
+590,Trade Token X TIOX , 2.92M,0, 85.16M, Ethereum (ERC20),0,0
+591,Bottos BTO , 2.92M,0, 546M, Own Blockchain,0,0
+592,Rotharium RTH , 2.91M,0, 3.36M, Ethereum (ERC20),0,0
+593,Hydro Protocol HOT , 2.91M,0, 702M, Ethereum (ERC20),0,0
+594,Amino Network AMIO , 2.91M,0, 44.49M, Ethereum (ERC20),0,0
+595,Sentinel SENT , 2.9M,0, 2B, Own Blockchain,0,0
+596,NPCoin NPC , 2.89M,0, 72.46M, Own Blockchain,0,0
+597,QuickX Protocol QCX , 2.89M,0, 392.21M, Ethereum (ERC20),0,0
+598,Change CAG , 2.88M,0, 31.67M, Ethereum (ERC20),0,0
+599,Content Neutrality Network CNN , 2.88M,0, 39.04B, Own Blockchain,0,0
+600,EnergiToken ETK , 2.88M,0, 1.85B, Ethereum (ERC20),0,0
+601,COS COS , 2.86M,0, 174.15M, Ethereum (ERC20),0,0
+602,Blue Whale Token BWX , 2.86M,0, 40.28M, Ethereum (ERC20),0,0
+603,Flash FLASH , 2.85M,0, 900M, Own Blockchain,0,0
+604,Stealth XST , 2.82M,0, 33.66M, Own Blockchain,0,0
+605,Ulord UT , 2.81M,0, 129.39M, Own Blockchain,0,0
+606,DeepOnion ONION , 2.78M,0, 16.12M, Own Blockchain,0,0
+607,Global Social Chain GSC , 2.78M,0, 549.18M, Ethereum (ERC20),0,0
+608,OneRoot Network RNT , 2.77M,0, 284.07M, Ethereum (ERC20),0,0
+609,DreamTeam DREAM , 2.77M,0, 36.14M, Ethereum (ERC20),0,0
+610,ZumCoin ZUM , 2.77M,0, 988.82M, Own Blockchain,0,0
+611,Pirate Chain ARRR , 2.76M,0, 126.37M, Own Blockchain,0,0
+612,Asian Fintech AFIN , 2.76M,0, 250M, Ethereum (ERC20),0,0
+613,Chromia CHR , 2.76M,0, 110.98M, Ethereum (ERC20),0,0
+614,Pivot Token PVT , 2.75M,0, 5.14B, Ethereum (ERC20),0,0
+615,Fatcoin FAT , 2.74M,0, 134.66M, Ethereum (ERC20),0,0
+616,Phantasma SOUL , 2.74M,0, 58.33M, NEO,0,0
+617,MEET.ONE MEETONE , 2.73M,0, 1.91B, EOS,0,0
+618,Endor Protocol EDR , 2.7M,0, 779.31M, Ethereum (ERC20),0,0
+619,Delphy DPY , 2.7M,0, 62.2M, Ethereum (ERC20),0,0
+620,MediShares MDS , 2.7M,0, 741.29M, Ethereum (ERC20),0,0
+621,Omnitude ECOM , 2.69M,0, 64.81M, Ethereum (ERC20),0,0
+622,Linkey LKY , 2.66M,0, 50M, Ethereum (ERC20),0,0
+623,Nimiq NIM , 2.66M,0, 4.83B, Own Blockchain,0,0
+624,YEED YEED , 2.65M,0, 5.45B, Ethereum (ERC20),0,0
+625,OriginTrail TRAC , 2.65M,0, 286.93M, Ethereum (ERC20),0,0
+626,Clams CLAM , 2.61M,0, 3.83M, Own Blockchain,0,0
+627,bitUSD BITUSD , 2.58M,0, 3.15M, BitShares,0,0
+628,Winding Tree LIF , 2.57M,0, 21.38M, Ethereum (ERC20),0,0
+629,ATC Coin ATCC , 2.54M,0, 369.15M, Own Blockchain,0,0
+630,Constant CONST , 2.53M,0, 50.71K, Ethereum (ERC20),0,0
+631,Machine Xchange Coin MXC , 2.52M,0, 1.32B, Ethereum (ERC20),0,0
+632,OKCash OK , 2.51M,0, 74.81M, Own Blockchain,0,0
+633,OneLedger OLT , 2.5M,0, 354.86M, Ethereum (ERC20),0,0
+634,SunContract SNC , 2.5M,0, 122.71M, Ethereum (ERC20),0,0
+635,Own CHX , 2.49M,0, 99.72M, Ethereum (ERC20),0,0
+636,Gold Bits Coin GBC , 2.48M,0, 105.97M, Ethereum (ERC20),0,0
+637,Gene Source Code Chain GENE , 2.47M,0, 375.04M, Ethereum (ERC20),0,0
+638,BitDice CSNO , 2.47M,0, 70M, Ethereum (ERC20),0,0
+639,ProChain PRA , 2.47M,0, 49.56M, Own Blockchain,0,0
+640,HashBX HBX , 2.46M,0, 520.69M, Ethereum (ERC20),0,0
+641,TEMCO TEMCO , 2.45M,0, 3.13B, Own Blockchain,0,0
+642,Futurepia PIA , 2.45M,0, 897.24M, Own Blockchain,0,0
+643,ZeuxCoin ZUC , 2.44M,0, 190M, Ethereum (ERC20),0,0
+644,TouchCon TOC , 2.42M,0, 233.16M, Own Blockchain,0,0
+645,LinkEye LET , 2.42M,0, 600M, Own Blockchain,0,0
+646,Traceability Chain TAC , 2.41M,0, 680.4M, Ethereum (ERC20),0,0
+647,Vexanium VEX , 2.39M,0, 703.87M, Achain,0,0
+648,Quanta Utility Token QNTU , 2.37M,0, 29.28B, Ethereum (ERC20),0,0
+649,PAC Global PAC , 2.36M,0, 7.6B, Own Blockchain,0,0
+650,TokenPay TPAY , 2.35M,0, 16.41M, Own Blockchain,0,0
+651,BlockStamp BST , 2.34M,0, 23.41M, Own Blockchain,0,0
+652,eosDAC EOSDAC , 2.33M,0, 660.76M, Own Blockchain,0,0
+653,BOSAGORA BOA , 2.33M,0, 163.67M, Ethereum (ERC20),0,0
+654,VINChain VIN , 2.32M,0, 590.11M, Own Blockchain,0,0
+655,Skrumble Network SKM , 2.32M,0, 1.02B, Own Blockchain,0,0
+656,indaHash IDH , 2.31M,0, 399.94M, Ethereum (ERC20),0,0
+657,Unikoin Gold UKG , 2.3M,0, 145.35M, Ethereum (ERC20),0,0
+658,Bezant BZNT , 2.3M,0, 688.1M, Ethereum (ERC20),0,0
+659,adToken ADT , 2.3M,0, 794M, Own Blockchain,0,0
+660,E-Currency Coin ECC , 2.3M,0, 25B, Own Blockchain,0,0
+661,Starta STA , 2.29M,0, 5M, Waves,0,0
+662,Mintcoin MINT , 2.29M,0, 24.95B, Own Blockchain,0,0
+663,Abyss Token ABYSS , 2.28M,0, 228.01M, Ethereum (ERC20),0,0
+664,PCHAIN PI , 2.28M,0, 419.95M, Ethereum (ERC20),0,0
+665,SmartLands SLT , 2.28M,0, 5.1M, Stellar,0,0
+666,BitNewChain BTN , 2.25M,0, 179.7M, Own Blockchain,0,0
+667,Qwertycoin QWC , 2.23M,0, 104.83B, Own Blockchain,0,0
+668,LBRY Credits LBC , 2.23M,0, 278.38M, Own Blockchain,0,0
+669,Caspian CSP , 2.23M,0, 443.96M, Ethereum (ERC20),0,0
+670,Qitmeer HLC , 2.23M,0, 389.01M, Ethereum (ERC20),0,0
+671,Spectrecoin XSPEC , 2.22M,0, 22.45M, Own Blockchain,0,0
+672,IHT Real Estate Protocol IHT , 2.21M,0, 962.06M, Ethereum (ERC20),0,0
+673,Mass Vehicle Ledger MVL , 2.21M,0, 7.65B, Ethereum (ERC20),0,0
+674,Nexty NTY , 2.18M,0, 151.6B, Own Blockchain,0,0
+675,MIR COIN MIR , 2.17M,0, 620.04M, Own Blockchain,0,0
+676,SDChain SDA , 2.17M,0, 1.5B, Own Blockchain,0,0
+677,Locus Chain LOCUS , 2.16M,0, 768.85M, Ethereum (ERC20),0,0
+678,Nasdacoin NSD , 2.15M,0, 20.79M, Own Blockchain,0,0
+679,1World 1WO , 2.14M,0, 22.98M, Ethereum (ERC20),0,0
+680,Insureum ISR , 2.13M,0, 214.05M, Ethereum (ERC20),0,0
+681,Boolberry BBR , 2.13M,0, 13.21M, Own Blockchain,0,0
+682,Sentivate SNTVT , 2.12M,0, 2.28B, Ethereum (ERC20),0,0
+683,Lunyr LUN , 2.08M,0, 2.3M, Ethereum (ERC20),0,0
+684,0chain ZCN , 2.07M,0, 40.12M, Own Blockchain,0,0
+685,NAGA NGC , 2.07M,0, 71.75M, Ethereum (ERC20),0,0
+686,Howdoo UDOO , 2.06M,0, 97.82M, Ethereum (ERC20),0,0
+687,Bitcoin Confidential BC , 2.06M,0, 7.37B, Own Blockchain,0,0
+688,CPChain CPC , 2.06M,0, 376.77M, Ethereum (ERC20),0,0
+689,TE-FOOD TFD , 2.05M,0, 517.39M, Ethereum (ERC20),0,0
+690,Flowchain FLC , 2.05M,0, 690.07K, Ethereum (ERC20),0,0
+691,Callisto Network CLO , 2.03M,0, 2.08B, Own Blockchain,0,0
+692,Cryptaur CPT , 2.02M,0, 11.47B, Ethereum (ERC20),0,0
+693,CanonChain CZR , 2.01M,0, 559.74M, Ethereum (ERC20),0,0
+694,Bloom BLT , 2M,0, 53.64M, Ethereum (ERC20),0,0
+695,U.CASH UCASH , 1.99M,0, 10.35B, Ethereum (ERC20),0,0
+696,BitTube TUBE , 1.99M,0, 207.73M, Own Blockchain,0,0
+697,Blockium BOK , 1.98M,0, 649.5M, Ethereum (ERC20),0,0
+698,IQeon IQN , 1.98M,0, 3.7M, Ethereum (ERC20),0,0
+699,Apex CPX , 1.98M,0, 470.79M, NEO,0,0
+700,Kleros PNK , 1.98M,0, 227.13M, Ethereum (ERC20),0,0
+701,Wowbit WWB , 1.98M,0, 277.78M, NEO,0,0
+702,SpankChain SPANK , 1.97M,0, 300.04M, Ethereum (ERC20),0,0
+703,THORChain RUNE , 1.96M,0, 103.22M, Binance-Chain BEP-2,0,0
+704,Footballcoin XFC , 1.96M,0, 374.66M, Own Blockchain,0,0
+705,DECENT DCT , 1.94M,0, 51.31M, Own Blockchain,0,0
+706,NuShares NSR , 1.94M,0, 2.78B, Own Blockchain,0,0
+707,HoryouToken HYT , 1.93M,0, 1.09B, Ethereum (ERC20),0,0
+708,AdShares ADS , 1.93M,0, 34.85M, Ethereum (ERC20),0,0
+709,Deex DEEX , 1.92M,0, 56.53M, BitShares,0,0
+710,Typerium TYPE , 1.91M,0, 1.62B, Ethereum (ERC20),0,0
+711,Ecobit ECOB , 1.91M,0, 444.44M, NEM,0,0
+712,Ink INK , 1.88M,0, 463.91M, QTUM,0,0
+713,DaTa eXchange DTX , 1.88M,0, 76.96M, Ethereum (ERC20),0,0
+714,Pandacoin PND , 1.88M,0, 32.51B, Own Blockchain,0,0
+715,Yee YEE , 1.87M,0, 1.37B, Ethereum (ERC20),0,0
+716,ImageCoin IMG , 1.87M,0, 13.98M, Own Blockchain,0,0
+717,Phore PHR , 1.87M,0, 19.04M, Own Blockchain,0,0
+718,Mooncoin MOON , 1.87M,0, 226.15B, Own Blockchain,0,0
+719,Rubycoin RBY , 1.86M,0, 27.38M, Own Blockchain,0,0
+720,Hashgard GARD , 1.85M,0, 56.86B, Ethereum (ERC20),0,0
+721,Bean Cash BITB , 1.85M,0, 3.31B, Own Blockchain,0,0
+722,AI Doctor AIDOC , 1.85M,0, 559.96M, Own Blockchain,0,0
+723,Insights Network INSTAR , 1.83M,0, 145.1M, EOS,0,0
+724,ALQO XLQ , 1.83M,0, 64.66M, Own Blockchain,0,0
+725,Airbloc ABL , 1.82M,0, 252.38M, Ethereum (ERC20),0,0
+726,Primalbase Token PBT , 1.82M,0, 1.25K, Waves,0,0
+727,VegaWallet Token VGW , 1.81M,0, 12.96M, Ethereum (ERC20),0,0
+728,Dynamic DYN , 1.81M,0, 14.82M, Own Blockchain,0,0
+729,MultiVAC MTV , 1.81M,0, 2.16B, Ethereum (ERC20),0,0
+730,ShipChain SHIP , 1.8M,0, 261.16M, Ethereum (ERC20),0,0
+731,remme REM , 1.79M,0, 659.32M, Ethereum (ERC20),0,0
+732,Loopring [NEO] LRN , 1.79M,0, 113.6M, Own Blockchain,0,0
+733,EOSDT EOSDT , 1.79M,0, 1.8M, EOS,0,0
+734,Merculet MVP , 1.78M,0, 2.42B, Ethereum (ERC20),0,0
+735,MobileGo MGO , 1.76M,0, 100M, Waves,0,0
+736,TCASH TCASH , 1.76M,0, 35.2M, Ethereum (ERC20),0,0
+737,AMO Coin AMO , 1.76M,0, 7.93B, Ethereum (ERC20),0,0
+738,Happycoin HPC , 1.76M,0, 22.49M, Own Blockchain,0,0
+739,NeoWorld Cash NASH , 1.76M,0, 21B, Ethereum (ERC223),0,0
+740,aXpire AXPR , 1.75M,0, 282.91M, Ethereum (ERC20),0,0
+741,Q DAO Governance token v1.0 QDAO , 1.74M,0, 68.64K, Ethereum (ERC20),0,0
+742,ZClassic ZCL , 1.74M,0, 7.35M, Own Blockchain,0,0
+743,Opacity OPQ , 1.73M,0, 129M, Ethereum (ERC20),0,0
+744,Peculium PCL , 1.71M,0, 2.04B, Ethereum (ERC20),0,0
+745,Substratum SUB , 1.7M,0, 383.02M, Own Blockchain,0,0
+746,Tarush TAS , 1.68M,0, 6B, Tron (TRC20),0,0
+747,Noku NOKU , 1.67M,0, 23.78M, Ethereum (ERC20),0,0
+748,Actinium ACM , 1.67M,0, 14.98M, Own Blockchain,0,0
+749,BitBall BTB , 1.66M,0, 79.54M, Ethereum (ERC20),0,0
+750,Ergo ERG , 1.65M,0, 2.33M, Waves,0,0
+751,X-Cash XCASH , 1.65M,0, 46.02B, Own Blockchain,0,0
+752,WeTrust TRST , 1.65M,0, 92.15M, Ethereum (ERC20),0,0
+753,Skychain SKCH , 1.64M,0, 7.49M, Ethereum (ERC20),0,0
+754,Grid+ GRID , 1.63M,0, 39.24M, Ethereum (ERC20),0,0
+755,EveryCoin EVY , 1.63M,0, 9.38B, Ethereum (ERC20),0,0
+756,Digital Asset Guarantee Token DAGT , 1.6M,0, 23.05M, Ethereum (ERC20),0,0
+757,Myriad XMY , 1.59M,0, 1.7B, Own Blockchain,0,0
+758,HTMLCOIN HTML , 1.59M,0, 53.07B, Own Blockchain,0,0
+759,Quark QRK , 1.58M,0, 260.8M, Own Blockchain,0,0
+760,1SG 1SG , 1.58M,0, 2.19M, Ethereum (ERC20),0,0
+761,Radium RADS , 1.57M,0, 3.86M, Own Blockchain,0,0
+762,Maecenas ART , 1.57M,0, 58.35M, Ethereum (ERC20),0,0
+763,ugChain UGC , 1.56M,0, 568.84M, Ethereum (ERC20),0,0
+764,LoyalCoin LYL , 1.56M,0, 5.35B, NEM,0,0
+765,carVertical CV , 1.55M,0, 7.65B, Ethereum (ERC20),0,0
+766,CashBet Coin CBC , 1.54M,0, 162.47M, Ethereum (ERC20),0,0
+767,W Green Pay WGP , 1.54M,0, 9.53M, Ethereum (ERC20),0,0
+768,I/O Coin IOC , 1.54M,0, 17.76M, Own Blockchain,0,0
+769,Vipstar Coin VIPS , 1.54M,0, 48.55B, Own Blockchain,0,0
+770,Unibright UBT , 1.54M,0, 139.58M, Ethereum (ERC20),0,0
+771,HashCoin HSC , 1.52M,0, 12.86B, Own Blockchain,0,0
+772,Covesting COV , 1.51M,0, 18M, Ethereum (ERC20),0,0
+773,KickToken KICK , 1.5M,0, 5.59B, Ethereum (ERC20),0,0
+774,DigitalBits XDB , 1.49M,0, 118.68M, Ethereum (ERC20),0,0
+775,Hiveterminal Token HVN , 1.48M,0, 410.29M, Ethereum (ERC20),0,0
+776,PetroDollar XPD , 1.47M,0, 63.99M, Own Blockchain,0,0
+777,CryptalDash CRD , 1.47M,0, 1000M, Ethereum (ERC20),0,0
+778,ChatCoin CHAT , 1.45M,0, 690M, Ethereum (ERC20),0,0
+779,Mysterium MYST , 1.45M,0, 23.67M, Ethereum (ERC20),0,0
+780,GridCoin GRC , 1.44M,0, 423.17M, Own Blockchain,0,0
+781,MARK.SPACE MRK , 1.43M,0, 773.99M, Ethereum (ERC20),0,0
+782,Switcheo SWTH , 1.43M,0, 522.69M, NEO,0,0
+783,Kryll KRL , 1.43M,0, 25.01M, Ethereum (ERC20),0,0
+784,e-Gulden EFL , 1.43M,0, 17.1M, Own Blockchain,0,0
+785,Lition LIT , 1.43M,0, 25.68M, Ethereum (ERC20),0,0
+786,SafeInsure SINS , 1.43M,0, 3.78M, Own Blockchain,0,0
+787,Sinovate SIN , 1.43M,0, 642.97M, Own Blockchain,0,0
+788,PotCoin POT , 1.41M,0, 222.89M, Own Blockchain,0,0
+789,Spectre.ai Utility Token SXUT , 1.4M,0, 24.53M, Ethereum (ERC20),0,0
+790,Smartshare SSP , 1.39M,0, 4.64B, Ethereum (ERC20),0,0
+791,LikeCoin LIKE , 1.37M,0, 473.58M, Ethereum (ERC20),0,0
+792,EchoLink EKO , 1.37M,0, 500M, Ethereum (ERC20),0,0
+793,LUXCoin LUX , 1.36M,0, 6.66M, Own Blockchain,0,0
+794,GoldCoin GLC , 1.36M,0, 41.66M, Own Blockchain,0,0
+795,ELA Coin ELAC , 1.36M,0, 183.24M, Ethereum (ERC20),0,0
+796,Pascal PASC , 1.36M,0, 28.72M, Own Blockchain,0,0
+797,MassGrid MGD , 1.35M,0, 75.06M, Own Blockchain,0,0
+798,Azbit AZ , 1.35M,0, 71.47B, Ethereum (ERC20),0,0
+799,BOOM BOOM , 1.35M,0, 762.21M, Ethereum (ERC20),0,0
+800,Enecuum ENQ , 1.35M,0, 41.36M, Own Blockchain,0,0
+801,Turtlecoin TRTL , 1.35M,0, 56.89B, Own Blockchain,0,0
+802,PARETO Rewards PARETO , 1.35M,0, 467.63M, Ethereum (ERC20),0,0
+803,Kuai Token KT , 1.34M,0, 9.61M, Ethereum (ERC20),0,0
+804,Blocktrade Token BTT , 1.34M,0, 55.72M, Ethereum (ERC20),0,0
+805,Safe Haven SHA , 1.33M,0, 3.01B, VeChainThor,0,0
+806,Mcashchain MCASH , 1.33M,0, 118.52M, Own Blockchain,0,0
+807,Atlant ATL , 1.32M,0, 54.18M, Ethereum (ERC20),0,0
+808,Edgeless EDG , 1.32M,0, 117.05M, Ethereum (ERC20),0,0
+809,Fast Access Blockchain FAB , 1.31M,0, 28.32M, Own Blockchain,0,0
+810,Chronobank TIME , 1.31M,0, 710.11K, Ethereum (ERC20),0,0
+811,Ubex UBEX , 1.31M,0, 3.11B, Ethereum (ERC20),0,0
+812,Niobium Coin NBC , 1.3M,0, 49.08M, Ethereum (ERC20),0,0
+813,FansTime FTI , 1.3M,0, 2.85B, Ethereum (ERC20),0,0
+814,Hyper Speed Network HSN , 1.3M,0, 42.17M, Ethereum (ERC20),0,0
+815,nOS NOS , 1.3M,0, 102.5M, NEO,0,0
+816,SafeCoin SAFE , 1.3M,0, 27.74M, Own Blockchain,0,0
+817,VeriCoin VRC , 1.29M,0, 32.1M, Own Blockchain,0,0
+818,DAEX DAX , 1.29M,0, 354.67M, Own Blockchain,0,0
+819,HempCoin THC , 1.29M,0, 252.88M, Own Blockchain,0,0
+820,NativeCoin N8V , 1.29M,0, 22.05M, Own Blockchain,0,0
+821,BitGreen BITG , 1.28M,0, 9.84M, Own Blockchain,0,0
+822,Diamond DMD , 1.28M,0, 3.35M, Own Blockchain,0,0
+823,Amoveo VEO , 1.28M,0, 67K, Own Blockchain,0,0
+824,CoinPoker CHP , 1.27M,0, 300.71M, Ethereum (ERC20),0,0
+825,Bismuth BIS , 1.26M,0, 13.74M, Own Blockchain,0,0
+826,Friendz FDZ , 1.26M,0, 515.14M, Ethereum (ERC20),0,0
+827,Cryptopay CPAY , 1.25M,0, 68.36M, Ethereum (ERC20),0,0
+828,Lisk Machine Learning LML , 1.24M,0, 120M, Ethereum (ERC20),0,0
+829,AMLT Token AMLT , 1.24M,0, 239.86M, Ethereum (ERC20),0,0
+830,Plair PLA , 1.24M,0, 19.86B, Own Blockchain,0,0
+831,Beetle Coin BEET , 1.24M,0, 204M, Own Blockchain,0,0
+832,BonusCloud BXC , 1.24M,0, 2.74B, Ethereum (ERC20),0,0
+833,Humaniq HMQ , 1.24M,0, 185.81M, Ethereum (ERC20),0,0
+834,TrueFeedBack TFB , 1.23M,0, 2.13B, Ethereum (ERC20),0,0
+835,Mindexcoin MIC , 1.22M,0, 683.6M, Ethereum (ERC20),0,0
+836,RedFOX Labs RFOX , 1.22M,0, 107.9M, Own Blockchain,0,0
+837,CloakCoin CLOAK , 1.22M,0, 5.36M, Own Blockchain,0,0
+838,Education Ecosystem LEDU , 1.21M,0, 217.79M, Ethereum (ERC20),0,0
+839,TrueFlip TFL , 1.21M,0, 6.25M, Ethereum (ERC20),0,0
+840,Neurochain NCC , 1.2M,0, 422.66M, Ethereum (ERC20),0,0
+841,SpaceChain SPC , 1.2M,0, 515.92M, QTUM,0,0
+842,Eden EDN , 1.19M,0, 600M, Ethereum (ERC20),0,0
+843,SureRemit RMT , 1.19M,0, 500M, Stellar,0,0
+844,Medicalchain MTN , 1.19M,0, 308.66M, Ethereum (ERC20),0,0
+845,Colu Local Network CLN , 1.18M,0, 91.03M, Ethereum (ERC20),0,0
+846,PIXEL PXL , 1.17M,0, 60.73M, Ethereum (ERC20),0,0
+847,Fountain FTN , 1.17M,0, 83.17M, Ethereum (ERC20),0,0
+848,Datum DAT , 1.17M,0, 1B, Ethereum (ERC20),0,0
+849,Bankex BKX , 1.17M,0, 176.05M, Own Blockchain,0,0
+850,Optimal Shelf Availability Token OSA , 1.16M,0, 1.39B, Ethereum (ERC20),0,0
+851,Shift SHIFT , 1.16M,0, 13.51M, Own Blockchain,0,0
+852,IONChain IONC , 1.15M,0, 121.18M, Ethereum (ERC20),0,0
+853,Global Awards Token GAT , 1.15M,0, 685.81M, Ethereum (ERC20),0,0
+854,SelfSell SSC , 1.15M,0, 390M, Own Blockchain,0,0
+855,VeriSafe VSF , 1.14M,0, 10.88B, Ethereum (ERC20),0,0
+856,3DCoin 3DC , 1.14M,0, 68.39M, Own Blockchain,0,0
+857,Curecoin CURE , 1.14M,0, 24.29M, Own Blockchain,0,0
+858,Crown CRW , 1.13M,0, 23.34M, Own Blockchain,0,0
+859,Semux SEM , 1.13M,0, 12.08M, Own Blockchain,0,0
+860,CrypticCoin CRYP , 1.13M,0, 2.55B, Own Blockchain,0,0
+861,Tolar TOL , 1.12M,0, 245.73M, Ethereum (ERC20),0,0
+862,BridgeCoin BCO , 1.11M,0, 27M, Own Blockchain,0,0
+863,Orbitcoin ORB , 1.11M,0, 3.22M, Own Blockchain,0,0
+864,FintruX Network FTX , 1.11M,0, 95M, Ethereum (ERC20),0,0
+865,OVCODE OVC , 1.11M,0, 43.85M, Ethereum (ERC20),0,0
+866,HBZ Coin HBZ , 1.11M,0, 978.85M, Ethereum (ERC20),0,0
+867,Ampleforth AMPL , 1.11M,0, 2.84M, Ethereum (ERC20),0,0
+868,CoinUs CNUS , 1.1M,0, 340M, Ethereum (ERC20),0,0
+869,Infinitecoin IFC , 1.1M,0, 90.6B, Own Blockchain,0,0
+870,Stronghold Token SHX , 1.1M,0, 3.38B, Stellar,0,0
+871,Nework NKC , 1.1M,0, 147.59M, Own Blockchain,0,0
+872,AmonD AMON , 1.09M,0, 345.07M, Ethereum (ERC20),0,0
+873,GameCredits GAME , 1.09M,0, 69.84M, Own Blockchain,0,0
+874,Coineal Token NEAL , 1.09M,0, 311.41M, Ethereum (ERC20),0,0
+875,Observer OBSR , 1.09M,0, 1.34B, Own Blockchain,0,0
+876,CargoX CXO , 1.08M,0, 155.21M, Ethereum (ERC20),0,0
+877,Naka Bodhi Token NBOT , 1.08M,0, 60M, Own Blockchain,0,0
+878,Lamden TAU , 1.08M,0, 142.22M, Ethereum (ERC20),0,0
+879,Zen Protocol ZP , 1.07M,0, 22.64M, Own Blockchain,0,0
+880,Dignity DIG , 1.07M,0, 523.04M, Ethereum (ERC20),0,0
+881,Zebi ZCO , 1.07M,0, 368.07M, Own Blockchain,0,0
+882,NEXT.exchange NEXT , 1.06M,0, 4.2M, Ethereum (ERC20),0,0
+883,Business Credit Substitute BCS , 1.06M,0, 1.18M, Ethereum (ERC20),0,0
+884,Vezt VZT , 1.06M,0, 85.92M, Ethereum (ERC20),0,0
+885,SolarCoin SLR , 1.06M,0, 55.69M, Own Blockchain,0,0
+886,DACSEE DACS , 1.06M,0, 754.97M, Ethereum (ERC20),0,0
+887,MidasProtocol MAS , 1.05M,0, 324.5M, Ethereum (ERC20),0,0
+888,EXRNchain EXRN , 1.05M,0, 92.5B, Ethereum (ERC20),0,0
+889,CEEK VR CEEK , 1.04M,0, 498.65M, Ethereum (ERC20),0,0
+890,Bitcoin Atom [Futures] BCA , 1.04M,0, 18.42M, Own Blockchain,0,0
+891,ADAMANT Messenger ADM , 1.03M,0, 82.7M, Own Blockchain,0,0
+892,OLXA OLXA , 1.02M,0, 1.36B, Ethereum (ERC20),0,0
+893,Effect.AI EFX , 1.02M,0, 252.17M, NEO,0,0
+894,Rapids RPD , 1.02M,0, 10.95B, Ethereum (ERC20),0,0
+895,Pibble PIB , 1.02M,0, 7.44B, Ethereum (ERC20),0,0
+896,Proxeus XES , 1M,0, 203.24M, Own Blockchain,0,0
+897,Kambria KAT , 997.19K,0, 1.23B, Ethereum (ERC20),0,0
+898,HOLD HOLD , 995.94K,0, 704.82M, Ethereum (ERC20),0,0
+899,Dimecoin DIME , 993.4K,0, 539.1B, Own Blockchain,0,0
+900,MoneyToken IMT , 991K,0, 9.43B, Ethereum (ERC20),0,0
+901,QChi QCH , 984.42K,0, 32.38M, Ethereum (ERC20),0,0
+902,Swarm City SWT , 982.56K,0, 8.54M, Ethereum (ERC20),0,0
+903,NOIA Network NOIA , 982.24K,0, 87.68M, Ethereum (ERC20),0,0
+904,Neurotoken NTK , 976.71K,0, 78.91M, Ethereum (ERC20),0,0
+905,Uquid Coin UQC , 971.91K,0, 10M, Ethereum (ERC20),0,0
+906,Unification UND , 968.82K,0, 44.94M, Ethereum (ERC20),0,0
+907,Akropolis AKRO , 968.47K,0, 535M, Ethereum (ERC20),0,0
+908,Quasarcoin QAC , 968.14K,0, 168.34M, Own Blockchain,0,0
+909,Coinsuper Ecosystem Network CEN , 963.02K,0, 397.13M, Ethereum (ERC20),0,0
+910,HorusPay HORUS , 954.29K,0, 872.86M, EOS,0,0
+911,Sphere SPHR , 953.83K,0, 12.48M, Own Blockchain,0,0
+912,RankingBall RBG , 952.03K,0, 327.28M, Ethereum (ERC20),0,0
+913,IG Gold IGG , 949.47K,0, 9.64B, Tron (TRC20),0,0
+914,BOMB BOMB , 949K,0, 955.83K, Ethereum (ERC20),0,0
+915,Zero ZER , 944.94K,0, 7.24M, Own Blockchain,0,0
+916,Ormeus Coin ORMEUS , 944.7K,0, 35.9M, Ethereum (ERC20),0,0
+917,Brickblock BBK , 940.38K,0, 75.13M, Ethereum (ERC20),0,0
+918,DecentBet DBET , 939.35K,0, 188.63M, Ethereum (ERC20),0,0
+919,Galilel GALI , 937.1K,0, 18.26M, Own Blockchain,0,0
+920,Cashbery Coin CBC , 935.69K,0, 67.19M, Own Blockchain,0,0
+921,BABB BAX , 934.04K,0, 28.43B, Ethereum (ERC20),0,0
+922,ALIS ALIS , 933.28K,0, 39.39M, Ethereum (ERC20),0,0
+923,Nuggets NUG , 930.7K,0, 1.72B, Ethereum (ERC20),0,0
+924,Acute Angle Cloud AAC , 925.38K,0, 250M, Own Blockchain,0,0
+925,COTI COTI , 918.06K,0, 98.72M, Own Blockchain,0,0
+926,NewYorkCoin NYC , 916.47K,0, 134.02B, Own Blockchain,0,0
+927,Beaxy BXY , 916.36K,0, 130.22M, Ethereum (ERC20),0,0
+928,FNKOS FNKOS , 911.38K,0, 155.55M, Ethereum (ERC20),0,0
+929,Hxro HXRO , 904.85K,0, 58.41M, Ethereum (ERC20),0,0
+930,Xriba XRA , 898.76K,0, 97.75M, Ethereum (ERC20),0,0
+931,CanYaCoin CAN , 897.64K,0, 92.22M, Ethereum (ERC20),0,0
+932,Rate3 RTE , 897.34K,0, 889.38M, Ethereum (ERC20),0,0
+933,WinStars.live WNL , 895.79K,0, 16.57M, Ethereum (ERC20),0,0
+934,RoBET ROBET , 892.22K,0, 798.7K, Ethereum (ERC20),0,0
+935,42-coin 42 , 891.43K,0, 0, Own Blockchain,0,0
+936,Trias TRY , 889.9K,0, 793.87M, Ethereum (ERC20),0,0
+937,SESSIA KICKS , 881.82K,0, 5.84M, Ethereum (ERC20),0,0
+938,Bitcrystals BCY , 881.71K,0, 22.82M, Counterparty,0,0
+939,STK STK , 866.21K,0, 343.97M, Ethereum (ERC20),0,0
+940,Bounty0x BNTY , 866.19K,0, 232.72M, Ethereum (ERC20),0,0
+941,Zeepin ZPT , 862.04K,0, 500M, NEO,0,0
+942,Haven Protocol XHV , 855.01K,0, 7M, Own Blockchain,0,0
+943,Conceal CCX , 853.27K,0, 5.11M, Own Blockchain,0,0
+944,LEOcoin LEO , 850.07K,0, 189.89M, Own Blockchain,0,0
+945,FuzeX FXT , 846.98K,0, 824.63M, Own Blockchain,0,0
+946,Consensus SEN , 839.16K,0, 1.34B, Own Blockchain,0,0
+947,MonetaryUnit MUE , 838.28K,0, 172.81M, Own Blockchain,0,0
+948,XEL XEL , 838.12K,0, 91.68M, Own Blockchain,0,0
+949,Expanse EXP , 832.79K,0, 16.51M, Own Blockchain,0,0
+950,Waves Community Token WCT , 832.15K,0, 10M, Waves,0,0
+951,HiCoin XHI , 827.38K,0, 4.43B, Own Blockchain,0,0
+952,Cardstack CARD , 822.75K,0, 2.37B, Ethereum (ERC20),0,0
+953,KuboCoin KUBO , 821.05K,0, 87.08B, Ethereum (ERC20),0,0
+954,Teloscoin TELOS , 820.42K,0, 117.35M, Own Blockchain,0,0
+955,Blockchain Certified Data Token BCDT , 818.83K,0, 33.61M, Ethereum (ERC20),0,0
+956,CVCoin CVN , 818.52K,0, 12.38M, BitShares,0,0
+957,SIBCoin SIB , 810.49K,0, 17.95M, Own Blockchain,0,0
+958,InsurePal IPL , 810.16K,0, 228.81M, Ethereum (ERC20),0,0
+959,ZPER ZPR , 809.58K,0, 1.31B, Ethereum (ERC20),0,0
+960,Uptoken UP , 806.55K,0, 146.54M, Ethereum (ERC20),0,0
+961,Online OIO , 806.19K,0, 877.66M, Ethereum (ERC20),0,0
+962,Mallcoin MLC , 801.89K,0, 176.14M, Ethereum (ERC20),0,0
+963,Sentinel Chain SENC , 792.62K,0, 197.27M, Own Blockchain,0,0
+964,Terracoin TRC , 789.48K,0, 22.94M, Own Blockchain,0,0
+965,COVA COVA , 789.29K,0, 2.5B, Ethereum (ERC20),0,0
+966,Max Property Group MPG , 786.47K,0, 117.55M, Own Blockchain,0,0
+967,Vanta Network VNT , 782.13K,0, 2.81B, Ethereum (ERC20),0,0
+968,CoinFi COFI , 779.19K,0, 198.66M, Ethereum (ERC20),0,0
+969,MUSE XSD , 778.36K,0, 14.58M, Own Blockchain,0,0
+970,RED RED , 773.86K,0, 130M, Ethereum (ERC20),0,0
+971,Stox STX , 767.27K,0, 53.46M, Ethereum (ERC20),0,0
+972,FREE Coin FREE , 761.87K,0, 8.7T, Ethereum (ERC20),0,0
+973,AIDUS Token AID , 761.42K,0, 200M, Ethereum (ERC20),0,0
+974,Halo Platform HALO , 753.27K,0, 5.05B, Ethereum (ERC20),0,0
+975,Iconiq Lab Token ICNQ , 748.56K,0, 3.86M, Ethereum (ERC20),0,0
+976,GeoCoin GEO , 741.76K,0, 3.18M, Own Blockchain,0,0
+977,Cappasity CAPP , 740.49K,0, 536.92M, Ethereum (ERC20),0,0
+978,Atlantis Blue Digital Token ABDT , 739.44K,0, 181.82M, Stellar,0,0
+979,NuBits USNBT , 738.89K,0, 10.98M, Own Blockchain,0,0
+980,ATN ATN , 736.07K,0, 84.3M, Ethereum (ERC20),0,0
+981,Zilla ZLA , 729.23K,0, 60M, Own Blockchain,0,0
+982,X8X Token X8X , 727.73K,0, 78.36M, Ethereum (ERC20),0,0
+983,Wys Token WYS , 724.52K,0, 102.34M, Ethereum (ERC20),0,0
+984,Omni OMNI , 717.88K,0, 562.37K, Own Blockchain,0,0
+985,Webflix Token WFX , 716.81K,0, 604.71M, Ethereum (ERC20),0,0
+986,Novacoin NVC , 714.12K,0, 2.34M, Own Blockchain,0,0
+987,MESG MESG , 714K,0, 34.9M, Ethereum (ERC20),0,0
+988,Wibson WIB , 710.66K,0, 2.66B, Ethereum (ERC20),0,0
+989,Paypex PAYX , 710.42K,0, 68.43M, Own Blockchain,0,0
+990,SRCoin SRCOIN , 706.93K,0, 5.05B, Ethereum (ERC20),0,0
+991,RevolutionVR RVR , 705.25K,0, 210M, Own Blockchain,0,0
+992,GAMB GMB , 701.1K,0, 3.85B, Ethereum (ERC20),0,0
+993,Ivy IVY , 699.95K,0, 431.84M, Ethereum (ERC20),0,0
+994,Pluton PLU , 697.79K,0, 850K, Ethereum (ERC20),0,0
+995,DABANKING DAB , 697.45K,0, 2.9M, Ethereum (ERC20),0,0
+996,EncrypGen DNA , 696.65K,0, 67.03M, Own Blockchain,0,0
+997,Atomic Wallet Coin AWC , 691.16K,0, 6.24M, Ethereum (ERC20),0,0
+998,EvenCoin EVN , 674.9K,0, 30.88M, Ethereum (ERC20),0,0
+999,ESBC ESBC , 674.72K,0, 19.1M, Own Blockchain,0,0
+1000,Thrive Token THRT , 674.21K,0, 103.25M, Ethereum (ERC20),0,0
+1001,Bitcoin Private BTCP , 671.17K,0, 4.76M, Own Blockchain,0,0
+1002,Matryx MTX , 671.13K,0, 23.22M, Ethereum (ERC20),0,0
+1003,qiibee QBX , 670.57K,0, 453.21M, Ethereum (ERC20),0,0
+1004,Titan Coin TTN , 669.87K,0, 897.6M, Own Blockchain,0,0
+1005,Aventus AVT , 664.68K,0, 6M, Ethereum (ERC20),0,0
+1006,Trinity Network Credit TNC , 664.3K,0, 333.33M, NEO,0,0
+1007,Winco WCO , 661.81K,0, 480.48M, Ethereum (ERC20),0,0
+1008,Spiking SPIKE , 661.06K,0, 442.89M, Ethereum (ERC20),0,0
+1009,Verasity VRA , 659.2K,0, 2.51B, Ethereum (ERC20),0,0
+1010,CryptoBonusMiles CBM , 659.03K,0, 3B, Binance-Chain BEP-2,0,0
+1011,Bitcoin Plus XBC , 658.15K,0, 130.89K, Own Blockchain,0,0
+1012,Fortuna FOTA , 641.04K,0, 480M, Ethereum (ERC20),0,0
+1013,iEthereum IETH , 640.49K,0, 17.98M, Ethereum (ERC20),0,0
+1014,Nebula AI NBAI , 639.23K,0, 1.25B, Own Blockchain,0,0
+1015,DATx DATX , 638.56K,0, 1.39B, Own Blockchain,0,0
+1016,Maverick Chain MVC , 638.45K,0, 106.94M, Ethereum (ERC20),0,0
+1017,Bitcoin Interest BCI , 636.48K,0, 18.33M, Own Blockchain,0,0
+1018,PlatonCoin PLTC , 636.47K,0, 5.81M, Ethereum (ERC20),0,0
+1019,Internxt INXT , 630.2K,0, 629.61K, Ethereum (ERC20),0,0
+1020,Open Platform OPEN , 629.76K,0, 718.95M, Ethereum (ERC20),0,0
+1021,Hacken HKN , 629.04K,0, 5.49M, Own Blockchain,0,0
+1022,Faceter FACE , 627.86K,0, 470.62M, Ethereum (ERC20),0,0
+1023,Ubcoin Market UBC , 627.46K,0, 342.27M, Ethereum (ERC20),0,0
+1024,Pirl PIRL , 622.19K,0, 56.83M, Own Blockchain,0,0
+1025,Carboneum C8 , 622.15K,0, 51.33M, Ethereum (ERC20),0,0
+1026,Digital Insurance Token DIT , 621.71K,0, 224.64M, Ethereum (ERC20),0,0
+1027,Upfiring UFR , 620.07K,0, 21.6M, Ethereum (ERC20),0,0
+1028,Trittium TRTT , 616.8K,0, 128.92M, Own Blockchain,0,0
+1029,Auroracoin AUR , 612.17K,0, 18.08M, Own Blockchain,0,0
+1030,Amon AMN , 611.94K,0, 567.08M, Ethereum (ERC20),0,0
+1031,BiblePay BBP , 605.97K,0, 1.82B, Own Blockchain,0,0
+1032,WebDollar WEBD , 602.72K,0, 6.82B, Own Blockchain,0,0
+1033,Vodi X VDX , 602.58K,0, 403.71M, Ethereum (ERC20),0,0
+1034,OWNDATA OWN , 602.09K,0, 11B, Ethereum (ERC20),0,0
+1035,smARTOFGIVING AOG , 601.65K,0, 73.29M, Ethereum (ERC20),0,0
+1036,Qbao QBT , 597.59K,0, 65.35M, QTUM,0,0
+1037,Sharder SS , 595.34K,0, 283.28M, Ethereum (ERC20),0,0
+1038,AidCoin AID , 592.08K,0, 45.65M, Ethereum (ERC20),0,0
+1039,AICHAIN AIT , 590.45K,0, 535.07M, Own Blockchain,0,0
+1040,WeShow Token WET , 590.23K,0, 159.73M, Ethereum (ERC20),0,0
+1041,MTC Mesh Network MTC , 587.9K,0, 365M, Ethereum (ERC20),0,0
+1042,Savedroid SVD , 587.34K,0, 2.69B, Ethereum (ERC20),0,0
+1043,Alphacat ACAT , 584.56K,0, 2.79B, NEO,0,0
+1044,0xBitcoin 0xBTC , 584.08K,0, 5.25M, Ethereum (ERC20),0,0
+1045,SPINDLE SPD , 582.97K,0, 3.21B, Ethereum (ERC20),0,0
+1046,FLIP FLP , 582.13K,0, 55.96M, Ethereum (ERC20),0,0
+1047,Leverj LEV , 578.48K,0, 118.09M, Ethereum (ERC20),0,0
+1048,Bittwatt BWT , 578.03K,0, 307.01M, Ethereum (ERC20),0,0
+1049,Ifoods Chain IFOOD , 577.13K,0, 2.5B, Ethereum (ERC20),0,0
+1050,Lunes LUNES , 575.09K,0, 150.73M, Own Blockchain,0,0
+1051,Golos GOLOS , 572.8K,0, 179.65M, Own Blockchain,0,0
+1052,win.win TWINS , 572.51K,0, 3.07B, Own Blockchain,0,0
+1053,Ice Rock Mining ROCK2 , 569.24K,0, 15.72M, Ethereum (ERC20),0,0
+1054,SmileyCoin SMLY , 565.5K,0, 25.96B, Own Blockchain,0,0
+1055,HashNet BitEco HNB , 563.77K,0, 29.64M, Ethereum (ERC20),0,0
+1056,Essentia ESS , 558.09K,0, 865.92M, Ethereum (ERC20),0,0
+1057,Relex RLX , 554.51K,0, 1.85B, Ethereum (ERC20),0,0
+1058,Rise RISE , 554.22K,0, 141.45M, Own Blockchain,0,0
+1059,B2Bcoin BBC , 549.24K,0, 500M, Ethereum (ERC20),0,0
+1060,CannabisCoin CANN , 547.55K,0, 77.23M, Own Blockchain,0,0
+1061,Quadrant Protocol EQUAD , 544.88K,0, 334.02M, Ethereum (ERC20),0,0
+1062,Denarius D , 540.38K,0, 6.52M, Own Blockchain,0,0
+1063,AC3 AC3 , 540.11K,0, 491.01M, Own Blockchain,0,0
+1064,Goldmint MNTP , 538.93K,0, 1.91M, Ethereum (ERC20),0,0
+1065,DomRaider DRT , 538.6K,0, 591.5M, Ethereum (ERC20),0,0
+1066,Patientory PTOY , 536.47K,0, 70M, Ethereum (ERC20),0,0
+1067,DRP Utility DRPU , 531.81K,0, 3.53M, Ethereum (ERC20),0,0
+1068,Cloudbric CLB , 530.4K,0, 428.17M, Ethereum (ERC20),0,0
+1069,FarmaTrust FTT , 529.69K,0, 600M, Ethereum (ERC223),0,0
+1070,NANJCOIN NANJ , 524.12K,0, 19.36B, Ethereum (ERC223),0,0
+1071,PinkCoin PINK , 521.76K,0, 412.54M, Own Blockchain,0,0
+1072,Block-Chain.com BC , 521.51K,0, 207.05M, Ethereum (ERC20),0,0
+1073,NoLimitCoin NLC2 , 517.83K,0, 505.86M, Own Blockchain,0,0
+1074,BitcoinZ BTCZ , 517.69K,0, 5.55B, Own Blockchain,0,0
+1075,iXledger IXT , 517.14K,0, 35.78M, Ethereum (ERC20),0,0
+1076,DubaiCoin DBIX , 517.01K,0, 4.26M, Own Blockchain,0,0
+1077,Copytrack CPY , 512.17K,0, 48.09M, Ethereum (ERC20),0,0
+1078,PDATA PDATA , 507.96K,0, 355.92M, Ethereum (ERC20),0,0
+1079,RSK Smart Bitcoin RBTC , 504.18K,0, 0, Own Blockchain,0,0
+1080,Experience Points XP , 501.09K,0, 289.17B, Own Blockchain,0,0
+1081,EBCoin EBC , 499.63K,0, 4.59B, Ethereum (ERC20),0,0
+1082,KARMA KARMA , 499.24K,0, 5.42B, EOS,0,0
+1083,Sakura Bloom SKB , 498.77K,0, 2.58B, Ethereum (ERC20),0,0
+1084,LIFE LIFE , 492.05K,0, 23.44B, Own Blockchain,0,0
+1085,Liquidity Network LQD , 490.29K,0, 43.33M, Ethereum (ERC20),0,0
+1086,Solaris XLR , 488.43K,0, 1.74M, Own Blockchain,0,0
+1087,OracleChain OCT , 487.26K,0, 30M, BitShares,0,0
+1088,Prometeus PROM , 486.05K,0, 3.85M, Ethereum (ERC20),0,0
+1089,FlypMe FYP , 483.42K,0, 17.64M, Ethereum (ERC20),0,0
+1090,ExclusiveCoin EXCL , 478.14K,0, 5.75M, Own Blockchain,0,0
+1091,Traxia TM2 , 476.81K,0, 313.29M, Ethereum (ERC20),0,0
+1092,EOS TRUST EOST , 476.08K,0, 7.52B, Ethereum (ERC20),0,0
+1093,DPRating RATING , 475.3K,0, 2.58B, Ethereum (ERC20),0,0
+1094,GMB GMB , 472.31K,0, 517.36M, Ethereum (ERC20),0,0
+1095,Ethereum Blue BLUE , 472.18K,0, 36.65M, Ethereum (ERC20),0,0
+1096,Alpha Token A , 470.54K,0, 28.17M, Ethereum (ERC20),0,0
+1097,ATMChain ATM , 469.79K,0, 4.66B, Ethereum (ERC20),0,0
+1098,Kolion KLN , 468.18K,0, 1000K, Waves,0,0
+1099,Karbo KRB , 466K,0, 7.96M, Own Blockchain,0,0
+1100,Datawallet DXT , 465.74K,0, 390.22M, Ethereum (ERC20),0,0
+1101,Bancacy BNY , 459.6K,0, 133.96M, Ethereum (ERC20),0,0
+1102,PUBLISH NEWS , 458.72K,0, 229.89M, EOS,0,0
+1103,Rivetz RVT , 456.87K,0, 26.24M, Ethereum (ERC20),0,0
+1104,StakeCubeCoin SCC , 453.89K,0, 2.1M, Own Blockchain,0,0
+1105,Blockport BPT , 453.34K,0, 53.4M, Own Blockchain,0,0
+1106,StarCoin KST , 451.5K,0, 1.51B, Ethereum (ERC20),0,0
+1107,Pylon Network PYLNT , 449.72K,0, 463.16K, Ethereum (ERC20),0,0
+1108,Paragon PRG , 448.84K,0, 22.27M, Ethereum (ERC20),0,0
+1109,SophiaTX SPHTX , 448.76K,0, 330.88M, Own Blockchain,0,0
+1110,Vetri VLD , 447.71K,0, 271.16M, Ethereum (ERC20),0,0
+1111,Wollo WLO , 444.43K,0, 43.06M, Stellar,0,0
+1112,Privatix PRIX , 443.07K,0, 1.1M, Ethereum (ERC20),0,0
+1113,ParallelCoin DUO , 442.67K,0, 314.72K, Own Blockchain,0,0
+1114,Flixxo FLIXX , 442.28K,0, 84.32M, Ethereum (ERC20),0,0
+1115,DNotes NOTE , 440.52K,0, 135.04M, Own Blockchain,0,0
+1116,Crowd Machine CMCT , 439.16K,0, 470.16M, Ethereum (ERC20),0,0
+1117,Ixcoin IXC , 438.88K,0, 21.1M, Own Blockchain,0,0
+1118,SnowGem XSG , 436.09K,0, 19.08M, Own Blockchain,0,0
+1119,HEROcoin PLAY , 433.33K,0, 186.64M, Ethereum (ERC20),0,0
+1120,Zippie ZIPT , 430.08K,0, 271.2M, Ethereum (ERC20),0,0
+1121,Zeusshield ZSC , 429.51K,0, 1.17B, Ethereum (ERC20),0,0
+1122,ION ION , 426.64K,0, 11.76M, Own Blockchain,0,0
+1123,Bitex Global XBX Coin XBX , 426.27K,0, 198.67M, Ethereum (ERC20),0,0
+1124,Electrify.Asia ELEC , 425.22K,0, 529.59M, Ethereum (ERC20),0,0
+1125,Parkgene GENE , 424.61K,0, 294.76M, Ethereum (ERC20),0,0
+1126,Birake BIR , 424.4K,0, 73.32M, Own Blockchain,0,0
+1127,CryCash CRC , 423.22K,0, 4.72M, Ethereum (ERC20),0,0
+1128,Espers ESP , 421.89K,0, 22.89B, Own Blockchain,0,0
+1129,Presearch PRE , 420.5K,0, 155M, Ethereum (ERC20),0,0
+1130,Eristica ERT , 418.31K,0, 172.47M, Ethereum (ERC20),0,0
+1131,TV-TWO TTV , 413.96K,0, 445.41M, Ethereum (ERC20),0,0
+1132,Lobstex LOBS , 411.86K,0, 17.66M, Own Blockchain,0,0
+1133,PTON PTON , 410.37K,0, 14.91B, Ethereum (ERC20),0,0
+1134,KekCoin KEK , 408.88K,0, 10.72M, Own Blockchain,0,0
+1135,HEAT HEAT , 405.88K,0, 42.66M, Own Blockchain,0,0
+1136,CoTrader COT , 404.47K,0, 15.73B, Ethereum (ERC20),0,0
+1137,Freicoin FRC , 403.17K,0, 55.41M, Own Blockchain,0,0
+1138,ZMINE ZMN , 400.74K,0, 163.87M, Ethereum (ERC20),0,0
+1139,GoldenPyrex GPYX , 397.94K,0, 9.99M, Ethereum (ERC20),0,0
+1140,MinexCoin MNX , 397.29K,0, 5.94M, Own Blockchain,0,0
+1141,BitCash BITC , 395.55K,0, 11.98M, Own Blockchain,0,0
+1142,Synereo AMP , 394.79K,0, 100.73M, Omni,0,0
+1143,Gems GEM , 393.48K,0, 1.15B, Ethereum (ERC20),0,0
+1144,CryptoPing PING , 393.35K,0, 9M, Waves,0,0
+1145,GoNetwork GOT , 387.21K,0, 71.99M, Ethereum (ERC20),0,0
+1146,Hero HERO , 387.17K,0, 12.11M, Ethereum (ERC20),0,0
+1147,Graviocoin GIO , 377.42K,0, 985.52M, Own Blockchain,0,0
+1148,Pal Network PAL , 375.45K,0, 438.52M, Ethereum (ERC20),0,0
+1149,BuzzCoin BUZZ , 373.15K,0, 20B, Own Blockchain,0,0
+1150,Mao Zedong MAO , 372.01K,0, 6.37M, Own Blockchain,0,0
+1151,Sapien SPN , 371.05K,0, 221.82M, Ethereum (ERC20),0,0
+1152,wave edu coin WEC , 368.96K,0, 119.75M, Waves,0,0
+1153,ODUWA OWC , 368.07K,0, 2.35M, Own Blockchain,0,0
+1154,ToaCoin TOA , 368.04K,0, 4.48B, Own Blockchain,0,0
+1155,Raven Protocol RAVEN , 368.02K,0, 1.84B, Own Blockchain,0,0
+1156,PHI Token PHI , 366.57K,0, 5.83M, Own Blockchain,0,0
+1157,VisionX VNX , 364.02K,0, 3.6B, Ethereum (ERC20),0,0
+1158,Honest HNST , 363.24K,0, 51.02M, Binance-Chain BEP-2,0,0
+1159,RefToken REF , 362.74K,0, 1M, Ethereum (ERC20),0,0
+1160,Nerves NER , 362.61K,0, 3.26B, Ethereum (ERC20),0,0
+1161,Qredit XQR , 362.55K,0, 670.47M, Own Blockchain,0,0
+1162,Ink Protocol XNK , 360.6K,0, 335.06M, Own Blockchain,0,0
+1163,Ether-1 ETHO , 359.1K,0, 37.51M, Own Blockchain,0,0
+1164,Uniform Fiscal Object UFO , 358.3K,0, 3.84B, Own Blockchain,0,0
+1165,Bezop BEZ , 357.58K,0, 55.69M, Own Blockchain,0,0
+1166,Experty EXY , 356.26K,0, 27.09M, Ethereum (ERC223),0,0
+1167,LNX Protocol LNX , 354.43K,0, 271.61M, Ethereum (ERC20),0,0
+1168,Stipend SPD , 353.5K,0, 11.35M, Own Blockchain,0,0
+1169,HOQU HQX , 352.7K,0, 169.14M, Ethereum (ERC20),0,0
+1170,MIB Coin MIB , 349.02K,0, 62.61M, Ethereum (ERC20),0,0
+1171,Blockparty (BOXX Token) BOXX , 348.17K,0, 32.45M, Ethereum (ERC20),0,0
+1172,ONOToken ONOT , 347.31K,0, 16.04B, Ethereum (ERC20),0,0
+1173,eXPerience Chain XPC , 344.87K,0, 91.09B, Own Blockchain,0,0
+1174,AVINOC AVINOC , 344.36K,0, 389.24M, Ethereum (ERC20),0,0
+1175,Masari MSR , 343.5K,0, 11.62M, Own Blockchain,0,0
+1176,Almeela KZE , 342.63K,0, 3.73M, Ethereum (ERC20),0,0
+1177,Matrexcoin MAC , 341.54K,0, 17.21M, Ethereum (ERC20),0,0
+1178,Eroscoin ERO , 340.74K,0, 186.74M, Ethereum (ERC20),0,0
+1179,Olympus Labs MOT , 338.66K,0, 38.5M, Ethereum (ERC20),0,0
+1180,Paymon PMNT , 338.61K,0, 611.23M, Ethereum (ERC20),0,0
+1181,MktCoin MLM , 337.39K,0, 1.21B, Own Blockchain,0,0
+1182,Coin Lion LION , 337.31K,0, 32.23M, Ethereum (ERC20),0,0
+1183,Globatalent GBT , 337.15K,0, 502.21M, Ethereum (ERC20),0,0
+1184,Indorse Token IND , 336.17K,0, 37.48M, Ethereum (ERC20),0,0
+1185,Zeon ZEON , 336.1K,0, 25.12B, Ethereum (ERC20),0,0
+1186,SHIELD XSH , 334.2K,0, 512.97M, Own Blockchain,0,0
+1187,Ace ACE , 333.97K,0, 11.86M, Ethereum (ERC20),0,0
+1188,eBoost EBST , 329.99K,0, 99.99M, Own Blockchain,0,0
+1189,Cubiex CBIX , 329.88K,0, 27.86M, Binance-Chain BEP-2,0,0
+1190,LocalCoinSwap LCS , 327.89K,0, 53.25M, Ethereum (ERC20),0,0
+1191,Swap XWP , 327.84K,0, 6.97M, Own Blockchain,0,0
+1192,Bitfex BFX , 327.67K,0, 48.54M, Ethereum (ERC20),0,0
+1193,Catex Token CATT , 326.83K,0, 814.23M, Ethereum (ERC20),0,0
+1194,Bethereum BETHER , 326.79K,0, 501.02M, Ethereum (ERC223),0,0
+1195,0xcert ZXC , 326.72K,0, 333.07M, Ethereum (ERC20),0,0
+1196,Jarvis+ JAR , 323.63K,0, 71.94M, Ethereum (ERC20),0,0
+1197,Linfinity LFC , 323.14K,0, 905.67M, Ethereum (ERC20),0,0
+1198,UOS Network UOS , 321.32K,0, 8.55M, Ethereum (ERC20),0,0
+1199,DOS Network DOS , 320.31K,0, 131.95M, Ethereum (ERC20),0,0
+1200,Storeum STO , 318.99K,0, 126.26M, Ethereum (ERC20),0,0
+1201,Swace SWACE , 318.98K,0, 261.81M, Ethereum (ERC20),0,0
+1202,Master Contract Token MCT , 317.03K,0, 567.5M, NEO,0,0
+1203,Fiii FIII , 316.97K,0, 482.4M, Own Blockchain,0,0
+1204,Nestree EGG , 316.24K,0, 308.83M, Ethereum (ERC20),0,0
+1205,Graft GRFT , 316.13K,0, 591.48M, Own Blockchain,0,0
+1206,Manna MANNA , 311.57K,0, 559.48M, Own Blockchain,0,0
+1207,Energo TSL , 309.57K,0, 602.38M, QTUM,0,0
+1208,Memetic MEME , 309.34K,0, 29.87M, Own Blockchain,0,0
+1209,Mercury MER , 307.88K,0, 100M, Waves,0,0
+1210,Data Transaction Token XD , 307.03K,0, 197.97M, Ethereum (ERC20),0,0
+1211,Zap ZAP , 305.55K,0, 131.53M, Ethereum (ERC20),0,0
+1212,Playkey PKT , 305.11K,0, 13.92M, Ethereum (ERC20),0,0
+1213,Motocoin MOTO , 303.95K,0, 19.64M, Own Blockchain,0,0
+1214,NOW Token NOW , 303.86K,0, 67.92M, Ethereum (ERC20),0,0
+1215,Helium HLM , 303.61K,0, 11.42M, Own Blockchain,0,0
+1216,Storiqa STQ , 303.4K,0, 10.92B, Ethereum (ERC20),0,0
+1217,Bela BELA , 302.47K,0, 42.66M, Ethereum (ERC20),0,0
+1218,B3Coin KB3 , 301.46K,0, 756.33M, Own Blockchain,0,0
+1219,RightMesh RMESH , 301.22K,0, 71.15M, Ethereum (ERC20),0,0
+1220,Soma SCT , 301.04K,0, 9.77M, Ethereum (ERC20),0,0
+1221,JET8 J8T , 300.18K,0, 819.29M, Own Blockchain,0,0
+1222,BitScreener Token BITX , 300.18K,0, 159.32M, Ethereum (ERC20),0,0
+1223,XPA XPA , 300.09K,0, 57.18M, Own Blockchain,0,0
+1224,OBITS OBITS , 299.81K,0, 15.3M, BitShares,0,0
+1225,Truegame TGAME , 295.91K,0, 82.58M, Ethereum (ERC20),0,0
+1226,REAL REAL , 295.67K,0, 10.06M, Ethereum (ERC20),0,0
+1227,Soverain SOVE , 294.83K,0, 360.4K, Own Blockchain,0,0
+1228,Vulcano VULC , 292.81K,0, 241.45M, Own Blockchain,0,0
+1229,Maincoin MNC , 291.57K,0, 218.92M, Ethereum (ERC20),0,0
+1230,FoldingCoin FLDC , 290.61K,0, 778.8M, Counterparty,0,0
+1231,Adbank ADB , 288.95K,0, 698.53M, Ethereum (ERC20),0,0
+1232,The ChampCoin TCC , 287.52K,0, 175.75M, Own Blockchain,0,0
+1233,Kuende KUE , 286.72K,0, 791.87M, Ethereum (ERC20),0,0
+1234,Crypto Sports CSPN , 284.73K,0, 1.97M, Own Blockchain,0,0
+1235,Alchemint Standards SDS , 284.15K,0, 317.95M, NEO,0,0
+1236,Blockpass PASS , 284.04K,0, 167.22M, Ethereum (ERC20),0,0
+1237,Hush HUSH , 282.62K,0, 7.57M, Own Blockchain,0,0
+1238,Nerva XNV , 282.58K,0, 17.02M, Own Blockchain,0,0
+1239,NEOX NEOX , 280.68K,0, 1.07M, Stellar,0,0
+1240,Magi XMG , 279.66K,0, 9.2M, Own Blockchain,0,0
+1241,Ryo Currency RYO , 278.76K,0, 15.08M, Own Blockchain,0,0
+1242,Shard SHARD , 278.62K,0, 19.78M, Own Blockchain,0,0
+1243,FidentiaX FDX , 278.55K,0, 105M, Ethereum (ERC20),0,0
+1244,1337 1337 , 277.72K,0, 26.51B, Own Blockchain,0,0
+1245,ZCore ZCR , 277.02K,0, 5.33M, Own Blockchain,0,0
+1246,Monkey Project MONK , 274.62K,0, 7.93M, Own Blockchain,0,0
+1247,GoPower GPT , 274.26K,0, 81.23M, Ethereum (ERC20),0,0
+1248,Mainstream For The Underground MFTU , 272.42K,0, 1.08B, Ethereum (ERC20),0,0
+1249,Vision Industry Token VIT , 270.71K,0, 2.95B, Ethereum (ERC20),0,0
+1250,Shivom OMX , 270.67K,0, 911.75M, Ethereum (ERC20),0,0
+1251,Wavesbet WBET , 270.18K,0, 44.5B, Waves,0,0
+1252,Cobinhood COB , 268.39K,0, 411M, Ethereum (ERC20),0,0
+1253,FedoraCoin TIPS , 268.25K,0, 212.27B, Own Blockchain,0,0
+1254,Magic Cube Coin MCC , 267.34K,0, 118.69M, Own Blockchain,0,0
+1255,BZEdge BZE , 266.44K,0, 2.99B, Own Blockchain,0,0
+1256,Membrana MBN , 266.04K,0, 57.91M, Ethereum (ERC20),0,0
+1257,PlayGame PXG , 265.49K,0, 906.12M, Ethereum (ERC20),0,0
+1258,PUBLYTO Token PUB , 265.05K,0, 1.5B, EOS,0,0
+1259,Ethersocial ESN , 262.49K,0, 36.54M, Own Blockchain,0,0
+1260,Bigbom BBO , 262.17K,0, 332.95M, Ethereum (ERC20),0,0
+1261,Gentarium GTM , 260.75K,0, 3.77M, Own Blockchain,0,0
+1262,FortKnoxster FKX , 260.33K,0, 149.08M, Ethereum (ERC20),0,0
+1263,CYBR Token CYBR , 259.01K,0, 16.33M, Ethereum (ERC20),0,0
+1264,Matchpool GUP , 258.36K,0, 75M, Ethereum (ERC20),0,0
+1265,CryptoAds Marketplace CRAD , 257.45K,0, 14.27M, Ethereum (ERC20),0,0
+1266,EDRCoin EDRC , 252.94K,0, 2.93M, Own Blockchain,0,0
+1267,Bitcoin CZ BCZ , 252.57K,0, 2.48M, Own Blockchain,0,0
+1268,FirstCoin FRST , 249.66K,0, 31.21M, Own Blockchain,0,0
+1269,PiplCoin PIPL , 249.1K,0, 83.44M, Ethereum (ERC20),0,0
+1270,uPlexa UPX , 247.73K,0, 1.9B, Own Blockchain,0,0
+1271,PENG PENG , 245.13K,0, 8.78B, Own Blockchain,0,0
+1272,Bayan Token BYT , 244.46K,0, 238.27K, Ethereum (ERC20),0,0
+1273,Utrum OOT , 242.86K,0, 64.8M, Komodo dICO,0,0
+1274,Asgard ASG , 242.58K,0, 774.88M, Ethereum (ERC20),0,0
+1275,Yocoin YOC , 241.28K,0, 369.66M, Own Blockchain,0,0
+1276,Plus-Coin NPLC , 241.12K,0, 469.95M, Ethereum (ERC20),0,0
+1277,LALA World LALA , 241.08K,0, 249.33M, Ethereum (ERC20),0,0
+1278,Snovian.Space SNOV , 231.94K,0, 288.55M, Ethereum (ERC20),0,0
+1279,EncryptoTel [WAVES] ETT , 230.47K,0, 62.13M, Waves,0,0
+1280,Giant GIC , 228.13K,0, 6.25M, Own Blockchain,0,0
+1281,Bitcoin Incognito XBI , 228K,0, 11.58M, Own Blockchain,0,0
+1282,Sumokoin SUMO , 224.97K,0, 10.09M, Own Blockchain,0,0
+1283,TokenStars TEAM TEAM , 223.95K,0, 11.85M, Ethereum (ERC20),0,0
+1284,Repme RPM , 223.93K,0, 62.04B, Ethereum (ERC20),0,0
+1285,MaxCoin MAX , 223.55K,0, 61.45M, Own Blockchain,0,0
+1286,Startcoin START , 222.88K,0, 45.08M, Own Blockchain,0,0
+1287,Bitcoin Scrypt BTCS , 221.83K,0, 17.62M, Own Blockchain,0,0
+1288,ClearPoll POLL , 221.37K,0, 7M, Ethereum (ERC20),0,0
+1289,Trollcoin TROLL , 220.96K,0, 592.15M, Own Blockchain,0,0
+1290,Invacio INV , 218.69K,0, 29.37M, Ethereum (ERC20),0,0
+1291,Formosa Financial FMF , 218.52K,0, 1.79B, Ethereum (ERC20),0,0
+1292,Carboncoin CARBON , 217.49K,0, 15.39B, Own Blockchain,0,0
+1293,Scala XLA , 217.19K,0, 8.62B, Own Blockchain,0,0
+1294,On.Live ONL , 216.06K,0, 21.62M, Ethereum (ERC20),0,0
+1295,Decimated DIO , 215.82K,0, 54.99M, Ethereum (ERC20),0,0
+1296,DOVU DOV , 214.06K,0, 399.76M, Ethereum (ERC20),0,0
+1297,CoinMetro Token XCM , 213.37K,0, 8.5M, Ethereum (ERC20),0,0
+1298,Starbase STAR , 213.17K,0, 187.5M, Ethereum (ERC20),0,0
+1299,LanaCoin LANA , 211.93K,0, 1.14B, Own Blockchain,0,0
+1300,Birdchain BIRD , 211.91K,0, 149.06M, Ethereum (ERC20),0,0
+1301,Mithril Ore MORE , 208.3K,0, 12.75K, Ethereum (ERC20),0,0
+1302,Etheera ETA , 206.49K,0, 7.19B, Ethereum (ERC20),0,0
+1303,Scorum Coins SCR , 206.48K,0, 29.27M, Own Blockchain,0,0
+1304,Aditus ADI , 205.83K,0, 234.11M, Ethereum (ERC20),0,0
+1305,Olive OLE , 205.26K,0, 277.01M, Ethereum (ERC20),0,0
+1306,Lethean LTHN , 205.09K,0, 732.82M, Own Blockchain,0,0
+1307,ALBOS ALB , 204.57K,0, 11.99B, Ethereum (ERC20),0,0
+1308,Connect Coin XCON , 203.54K,0, 39M, Ethereum (ERC20),0,0
+1309,DogeCash DOGEC , 201.6K,0, 3.61M, Own Blockchain,0,0
+1310,Chronologic DAY , 201.5K,0, 915.41K, Ethereum (ERC20),0,0
+1311,View VIEW , 200.04K,0, 35.09M, Ethereum (ERC20),0,0
+1312,WPP Token WPP , 198.92K,0, 283.52M, Ethereum (ERC20),0,0
+1313,IDEX Membership IDXM , 198.77K,0, 2K, Ethereum (ERC20),0,0
+1314,IP Exchange IPSX , 198.43K,0, 943.18M, Ethereum (ERC20),0,0
+1315,WABnetwork WAB , 198.1K,0, 8.97B, Ethereum (ERC20),0,0
+1316,Ties.DB TIE , 198.02K,0, 40.82M, Ethereum (ERC20),0,0
+1317,VeriumReserve VRM , 197.42K,0, 2.42M, Own Blockchain,0,0
+1318,Aston ATX , 196.89K,0, 824M, Ethereum (ERC20),0,0
+1319,Auxilium AUX , 196.73K,0, 113.14M, Own Blockchain,0,0
+1320,Bob’s Repair BOB , 196.52K,0, 183.64M, Ethereum (ERC20),0,0
+1321,RealChain RCT , 195.97K,0, 434.36M, Own Blockchain,0,0
+1322,Internet of People IOP , 195.9K,0, 13.46M, Own Blockchain,0,0
+1323,Bridge Protocol BRDG , 195K,0, 224.09M, NEO,0,0
+1324,Arionum ARO , 193.34K,0, 159.43M, Own Blockchain,0,0
+1325,BitDegree BDG , 192.32K,0, 374.56M, Ethereum (ERC20),0,0
+1326,Arbidex ABX , 192.16K,0, 20.35M, Ethereum (ERC20),0,0
+1327,FujiCoin FJC , 192.08K,0, 2.35B, Own Blockchain,0,0
+1328,SyncFab MFG , 188.98K,0, 184.02M, Ethereum (ERC20),0,0
+1329,CryptoCarbon CCRB , 188.87K,0, 24.69M, Own Blockchain,0,0
+1330,Bolivarcoin BOLI , 187.95K,0, 13.84M, Own Blockchain,0,0
+1331,Aryacoin AYA , 187.37K,0, 72.07M, Own Blockchain,0,0
+1332,Dether DTH , 187.24K,0, 85M, Ethereum (ERC20),0,0
+1333,Coinlancer CL , 187.02K,0, 79.62M, Ethereum (ERC20),0,0
+1334,Zennies ZENI , 186.73K,0, 1B, Own Blockchain,0,0
+1335,GlobalBoost-Y BSTY , 186.22K,0, 17.53M, Own Blockchain,0,0
+1336,Neutron NTRN , 186.13K,0, 39.12M, Own Blockchain,0,0
+1337,Sharpay S , 185.93K,0, 1.03B, Ethereum (ERC20),0,0
+1338,MetaMorph METM , 185.54K,0, 148.57M, Ethereum (ERC20),0,0
+1339,DopeCoin DOPE , 185.3K,0, 116.85M, Own Blockchain,0,0
+1340,PikcioChain PKC , 184.66K,0, 50.12M, NEO,0,0
+1341,Signal Token SIG , 184K,0, 245.44M, Ethereum (ERC20),0,0
+1342,Energycoin ENRG , 182.58K,0, 122.33M, Own Blockchain,0,0
+1343,Seal Network SEAL , 182.46K,0, 515.11M, Ethereum (ERC20),0,0
+1344,Nitro NOX , 181.89K,0, 95.08M, Ethereum (ERC20),0,0
+1345,EveriToken EVT , 181.1K,0, 7.25M, Own Blockchain,0,0
+1346,HeartBout HB , 180.99K,0, 53.2M, Ethereum (ERC20),0,0
+1347,AudioCoin ADC , 179.3K,0, 980.73M, Own Blockchain,0,0
+1348,Business Credit Alliance Chain BCAC , 179.2K,0, 475.31M, Ethereum (ERC20),0,0
+1349,BlitzPredict XBP , 178.66K,0, 377.6M, Ethereum (ERC20),0,0
+1350,BlockMesh BMH , 178.27K,0, 273.04M, Own Blockchain,0,0
+1351,Bulwark BWK , 177.22K,0, 14.92M, Own Blockchain,0,0
+1352,Equal EQL , 177K,0, 327.75M, Ethereum (ERC20),0,0
+1353,INMAX INX , 176.59K,0, 2.52M, Ethereum (ERC20),0,0
+1354,ZENZO ZNZ , 176.39K,0, 10.35M, Own Blockchain,0,0
+1355,eSDChain SDA , 174.83K,0, 97.95M, Ethereum (ERC20),0,0
+1356,HelloGold HGT , 174.8K,0, 263.03M, Ethereum (ERC20),0,0
+1357,BitSend BSD , 173.52K,0, 24.97M, Own Blockchain,0,0
+1358,AdHive ADH , 171.58K,0, 131.38M, Ethereum (ERC20),0,0
+1359,Hercules HERC , 170.41K,0, 56.33M, Ethereum (ERC20),0,0
+1360,EverGreenCoin EGC , 170.35K,0, 14.07M, Own Blockchain,0,0
+1361,Phoenixcoin PXC , 169.9K,0, 72.85M, Own Blockchain,0,0
+1362,Pesetacoin PTC , 169.43K,0, 139.71M, Own Blockchain,0,0
+1363,Noir NOR , 169.41K,0, 20.18M, Own Blockchain,0,0
+1364,Tokenbox TBX , 168.87K,0, 11.43M, Ethereum (ERC20),0,0
+1365,UChain UCN , 168.49K,0, 305.35M, Ethereum (ERC20),0,0
+1366,Golfcoin GOLF , 168.35K,0, 35.34B, Own Blockchain,0,0
+1367,TENA TENA , 167.02K,0, 2.67M, Ethereum (ERC20),0,0
+1368,AiLink Token ALI , 166.6K,0, 5.07B, Ethereum (ERC20),0,0
+1369,Gravity GZRO , 165.35K,0, 1.77B, Own Blockchain,0,0
+1370,Bitstar BITS , 163.94K,0, 20.71M, Own Blockchain,0,0
+1371,PutinCoin PUT , 163.9K,0, 878.47M, Own Blockchain,0,0
+1372,eBTC EBTC , 163.71K,0, 18.9M, Ethereum (ERC20),0,0
+1373,Parachute PAR , 163.46K,0, 351.61M, Ethereum (ERC20),0,0
+1374,CREDIT CREDIT , 162.18K,0, 17.96B, Own Blockchain,0,0
+1375,Autonio NIO , 161.66K,0, 106.16M, Ethereum (ERC20),0,0
+1376,HeroNode HER , 160.99K,0, 1.07B, Own Blockchain,0,0
+1377,Dinastycoin DCY , 160.38K,0, 1.9B, Own Blockchain,0,0
+1378,TigerCash TCH , 159.63K,0, 10.14M, Ethereum (ERC20),0,0
+1379,Monarch MT , 158.21K,0, 25.33M, Ethereum (ERC20),0,0
+1380,Suretly SUR , 158.15K,0, 234.48K, Ethereum (ERC20),0,0
+1381,BioCoin BIO , 157.8K,0, 845.79M, Own Blockchain,0,0
+1382,MyBit MYB , 157.66K,0, 153.91M, Ethereum (ERC20),0,0
+1383,SnapCoin SNPC , 157.48K,0, 435.69M, Ethereum (ERC20),0,0
+1384,VoteCoin VOT , 157.11K,0, 66.46M, Own Blockchain,0,0
+1385,Paycent PYN , 157.11K,0, 14.36M, Ethereum (ERC20),0,0
+1386,Capricoin CPC , 156.92K,0, 1.99M, Own Blockchain,0,0
+1387,Helleniccoin HNC , 155.6K,0, 69.5M, Own Blockchain,0,0
+1388,TrueDeck TDP , 154.61K,0, 30.72M, Ethereum (ERC20),0,0
+1389,Ethouse HORSE , 154.47K,0, 110.62M, Ethereum (ERC20),0,0
+1390,LHT LHT , 153.69K,0, 50M, Own Blockchain,0,0
+1391,CROAT CROAT , 153.48K,0, 71.53M, Own Blockchain,0,0
+1392,DAV Token DAV , 153.18K,0, 691.71M, Ethereum (ERC20),0,0
+1393,Sparkpoint SRK , 153.18K,0, 2.93B, Ethereum (ERC20),0,0
+1394,Shadow Token SHDW , 151.5K,0, 7M, Waves,0,0
+1395,Nexxo NEXXO , 150.8K,0, 94.95M, Ethereum (ERC20),0,0
+1396,Coinchase CCH , 149.68K,0, 1.59B, Ethereum (ERC20),0,0
+1397,Ultimate Secure Cash USC , 148.3K,0, 10.34M, Own Blockchain,0,0
+1398,Zetacoin ZET , 147.9K,0, 170.48M, Own Blockchain,0,0
+1399,TrakInvest TRAK , 147.85K,0, 83.93M, Ethereum (ERC20),0,0
+1400,TrumpCoin TRUMP , 147.33K,0, 6.6M, Own Blockchain,0,0
+1401,Commercium CMM , 147.16K,0, 44.3M, Own Blockchain,0,0
+1402,Jetcoin JET , 146.8K,0, 7.39M, Ethereum (ERC20),0,0
+1403,EUNO EUNO , 145.29K,0, 28.76M, Own Blockchain,0,0
+1404,Banyan Network BBN , 145.01K,0, 610.74M, Ethereum (ERC20),0,0
+1405,Bitzeny ZNY , 144.91K,0, 75.61M, Own Blockchain,0,0
+1406,Opus OPT , 143.74K,0, 140.08M, Ethereum (ERC20),0,0
+1407,Netko NETKO , 143.2K,0, 8.83M, Own Blockchain,0,0
+1408,DIMCOIN DIM , 141.03K,0, 2.1B, NEM,0,0
+1409,ANON ANON , 140.24K,0, 7.59M, Own Blockchain,0,0
+1410,WIZBL WBL , 139.93K,0, 150M, Own Blockchain,0,0
+1411,Minereum MNE , 139.24K,0, 7.25M, Ethereum (ERC20),0,0
+1412,FSBT API Token FSBT , 139.05K,0, 3.51M, Ethereum (ERC20),0,0
+1413,BitBar BTB , 138.29K,0, 43.15K, Own Blockchain,0,0
+1414,PeepCoin PCN , 138.04K,0, 70.27B, Own Blockchain,0,0
+1415,Atonomi ATMI , 137.91K,0, 492.73M, Ethereum (ERC20),0,0
+1416,Gexan GEX , 135.53K,0, 2.03M, Own Blockchain,0,0
+1417,PoSW Coin POSW , 134.73K,0, 44.1M, Own Blockchain,0,0
+1418,Playgroundz IOG , 134.62K,0, 28.55M, Ethereum (ERC20),0,0
+1419,Moneynet MNC , 134.55K,0, 3.94B, Ethereum (ERC20),0,0
+1420,Webcoin WEB , 133.29K,0, 42.93M, Waves,0,0
+1421,CaixaPay CXP , 133.2K,0, 78.91M, Own Blockchain,0,0
+1422,Centauri CTX , 133.13K,0, 43.24M, Own Blockchain,0,0
+1423,iDealCash DEAL , 132.03K,0, 1.44B, Own Blockchain,0,0
+1424,PRASM PSM , 130.25K,0, 2.25B, Ethereum (ERC20),0,0
+1425,OptiToken OPTI , 130.05K,0, 27.88M, Ethereum (ERC20),0,0
+1426,GlobalToken GLT , 129.63K,0, 86.85M, Own Blockchain,0,0
+1427,Cryptonite XCN , 129.31K,0, 708.51M, Own Blockchain,0,0
+1428,SportyCo SPF , 128.13K,0, 54.59M, Ethereum (ERC20),0,0
+1429,Blocktix TIX , 127.28K,0, 40M, Ethereum (ERC20),0,0
+1430,Alt.Estate ALT , 91.2K,0, 724.18M, Ethereum (ERC20),0,0
+1431,Signals Network SGN , 126.93K,0, 88.14M, Ethereum (ERC20),0,0
+1432,Transcodium TNS , 126.1K,0, 58.55M, Ethereum (ERC20),0,0
+1433,WavesGo WGO , 125.27K,0, 7.63M, Waves,0,0
+1434,Quantis Network QUAN , 123.87K,0, 189.7M, Own Blockchain,0,0
+1435,LiteDoge LDOGE , 123.29K,0, 16.42B, Own Blockchain,0,0
+1436,Netrum NTR , 123.21K,0, 2.47M, Own Blockchain,0,0
+1437,x42 Protocol X42 , 123.03K,0, 16.2M, Own Blockchain,0,0
+1438,CatoCoin CATO , 122.05K,0, 15.31M, Own Blockchain,0,0
+1439,JSEcoin JSE , 121.99K,0, 443.48M, Ethereum (ERC20),0,0
+1440,Imbrex REX , 121.2K,0, 8.66M, Own Blockchain,0,0
+1441,bitEUR BITEUR , 119.45K,0, 107.71K, BitShares,0,0
+1442,Auctus AUC , 119.37K,0, 29.85M, Ethereum (ERC20),0,0
+1443,TRONCLASSIC TRXC , 119.36K,0, 465.11B, Ethereum (ERC20),0,0
+1444,FantasyGold FGC , 118.01K,0, 16.24M, Own Blockchain,0,0
+1445,Netbox Coin NBX , 117.16K,0, 4.78M, Own Blockchain,0,0
+1446,ProxyNode PRX , 114.59K,0, 137.12M, Own Blockchain,0,0
+1447,MFCoin MFC , 114.47K,0, 20.45M, Own Blockchain,0,0
+1448,Lampix PIX , 114.05K,0, 135.32M, Ethereum (ERC20),0,0
+1449,EtherSportz ESZ , 113.75K,0, 3M, Ethereum (ERC20),0,0
+1450,LoMoCoin LMC , 112.6K,0, 280.45M, Own Blockchain,0,0
+1451,Adelphoi ADL , 112.12K,0, 20.72M, Nxt,0,0
+1452,Unify UNIFY , 111.85K,0, 18.19M, Own Blockchain,0,0
+1453,WandX WAND , 111.77K,0, 12.24M, Ethereum (ERC20),0,0
+1454,Tokes TKS , 111.11K,0, 1.32M, Waves,0,0
+1455,TrezarCoin TZC , 110.75K,0, 178.25M, Own Blockchain,0,0
+1456,Megacoin MEC , 110.67K,0, 38.27M, Own Blockchain,0,0
+1457,Universe UNI , 109.08K,0, 83.41M, Own Blockchain,0,0
+1458,XGOX XGOX , 108.96K,0, 2.38B, Own Blockchain,0,0
+1459,Fantasy Sports DFS , 108.65K,0, 4.53M, Ethereum (ERC20),0,0
+1460,Guaranteed Ethurance Token Extra GETX , 108.49K,0, 300M, Ethereum (ERC20),0,0
+1461,BoutsPro BOUTS , 107.83K,0, 76.62M, Ethereum (ERC20),0,0
+1462,SIMDAQ SMQ , 107.7K,0, 17.62M, Waves,0,0
+1463,BlueCoin BLU , 107.22K,0, 574.68M, Own Blockchain,0,0
+1464,Beacon BECN , 107.03K,0, 10.24M, Own Blockchain,0,0
+1465,Emerald Crypto EMD , 107K,0, 19.12M, Own Blockchain,0,0
+1466,Synergy SNRG , 106.83K,0, 4.9M, Own Blockchain,0,0
+1467,Rentberry BERRY , 106.42K,0, 301.43M, Ethereum (ERC20),0,0
+1468,Photon PHO , 106.13K,0, 30.93B, Own Blockchain,0,0
+1469,GoldFund GFUN , 105.98K,0, 163.23M, Ethereum (ERC20),0,0
+1470,Advanced Technology Coin ARC , 105.75K,0, 26.25M, Own Blockchain,0,0
+1471,Aphelion APH , 105.63K,0, 50M, NEO,0,0
+1472,Helpico HELP , 104.28K,0, 23.63K, Own Blockchain,0,0
+1473,Mincoin MNC , 104.11K,0, 5.94M, Own Blockchain,0,0
+1474,Asian Dragon AD , 103.96K,0, 60.07M, Ethereum (ERC20),0,0
+1475,GravityCoin GXX , 102.8K,0, 2.7M, Own Blockchain,0,0
+1476,SnodeCoin SND , 102.62K,0, 37.33M, Own Blockchain,0,0
+1477,Bitcoin Fast BTCF , 101.92K,0, 10.95M, Stellar,0,0
+1478,AllSafe ASAFE , 101.23K,0, 9.11M, Own Blockchain,0,0
+1479,Engagement Token ENGT , 101.09K,0, 415.26M, Ethereum (ERC20),0,0
+1480,BLOC.MONEY BLOC , 100.11K,0, 10.73M, Own Blockchain,0,0
+1481,Emphy EPY , 99.99K,0, 7.92M, Ethereum (ERC20),0,0
+1482,Elysian ELY , 98.44K,0, 97.97M, Ethereum (ERC20),0,0
+1483,Bonpay BON , 96.9K,0, 11.29M, Ethereum (ERC20),0,0
+1484,Save Environment Token SET , 96.81K,0, 961.39K, Ethereum (ERC20),0,0
+1485,Version V , 96.38K,0, 596.28M, Own Blockchain,0,0
+1486,Advanced Internet Blocks AIB , 96.43K,0, 32.85M, Own Blockchain,0,0
+1487,Elcoin EL , 96.2K,0, 11.21M, Ethereum (ERC20),0,0
+1488,ETHplode ETHPLO , 95.19K,0, 16.54M, Ethereum (ERC20),0,0
+1489,PopularCoin POP , 95.05K,0, 3.97B, Own Blockchain,0,0
+1490,PKG Token PKG , 94.04K,0, 8.97B, Ethereum (ERC20),0,0
+1491,GCN Coin GCN , 94.33K,0, 172.08B, Own Blockchain,0,0
+1492,Niobio Cash NBR , 94.03K,0, 137.2M, Own Blockchain,0,0
+1493,Block-Logic BLTG , 93.93K,0, 22.9M, Own Blockchain,0,0
+1494,AquariusCoin ARCO , 93.78K,0, 2.54M, Own Blockchain,0,0
+1495,Level Up Coin LUC , 93.68K,0, 996.92M, Ethereum (ERC20),0,0
+1496,IOTW IOTW , 93K,0, 33.26M, Ethereum (ERC20),0,0
+1497,ShareX SEXC , 92.86K,0, 645.52M, Own Blockchain,0,0
+1498,StrongHands Masternode SHMN , 92.65K,0, 1.59M, Own Blockchain,0,0
+1499,Apollon XAP , 92.58K,0, 148.59M, Own Blockchain,0,0
+1500,Apollon XAP , 92.58K,0, 148.59M, Own Blockchain,0,0
+1501,Kalkulus KLKS , 92.42K,0, 16.79M, Own Blockchain,0,0
+1502,CyberFM CYFM , 91.78K,0, 51.2B, Ethereum (ERC20),0,0
+1503,InsaneCoin INSN , 91.49K,0, 23.92M, Own Blockchain,0,0
+1504,EtherGem EGEM , 87.07K,0, 19.48M, Own Blockchain,0,0
+1505,DraftCoin DFT , 90.1K,0, 8.72M, Own Blockchain,0,0
+1506,Freyrchain FREC , 90.06K,0, 500M, Ethereum (ERC20),0,0
+1507,bitBTC BITBTC , 89.61K,0, 0, BitShares,0,0
+1508,Taklimakan Network TAN , 88.78K,0, 55.94M, Ethereum (ERC20),0,0
+1509,Social Send SEND , 88.76K,0, 38.68M, Own Blockchain,0,0
+1510,The Currency Analytics TCAT , 88.65K,0, 117.76M, Ethereum (ERC20),0,0
+1511,Anoncoin ANC , 88.2K,0, 2.11M, Own Blockchain,0,0
+1512,Powercoin PWR , 87.96K,0, 9.66B, Own Blockchain,0,0
+1513,DeviantCoin DEV , 87.47K,0, 15.45M, Own Blockchain,0,0
+1514,AceD ACED , 86.08K,0, 9.05M, Own Blockchain,0,0
+1515,onG.social ONG , 85.39K,0, 61M, Ethereum (ERC20),0,0
+1516,Universal Currency UNIT , 84.81K,0, 15.95M, Own Blockchain,0,0
+1517,Bitradio BRO , 84.79K,0, 8.04M, Own Blockchain,0,0
+1518,Narrative NRVE , 84.46K,0, 42.55M, NEO,0,0
+1519,Zeitcoin ZEIT , 84.52K,0, 36.97B, Own Blockchain,0,0
+1520,BitcoiNote BTCN , 84.26K,0, 10.87M, Own Blockchain,0,0
+1521,More Coin MORE , 83.96K,0, 2M, Ethereum (ERC20),0,0
+1522,Worldcore WRC , 83.71K,0, 178.1M, Ethereum (ERC20),0,0
+1523,Bitclave CAT , 83.64K,0, 501.39M, Ethereum (ERC20),0,0
+1524,GoByte GBX , 83.16K,0, 3.64M, Own Blockchain,0,0
+1525,Leadcoin LDC , 82.87K,0, 784.4M, Ethereum (ERC20),0,0
+1526,No BS Crypto NOBS , 82.62K,0, 1.25B, Ethereum (ERC20),0,0
+1527,Silent Notary SNTR , 83.28K,0, 83.47B, Ethereum (ERC20),0,0
+1528,Oxycoin OXY , 81.35K,0, 931.89M, Own Blockchain,0,0
+1529,Sociall SCL , 80.54K,0, 16.71M, Own Blockchain,0,0
+1530,MyWish WISH , 80.24K,0, 6.06M, Ethereum (ERC20),0,0
+1531,RPICoin RPI , 79.27K,0, 849.72M, Own Blockchain,0,0
+1532,WXCOINS WXC , 79.32K,0, 5.68M, Own Blockchain,0,0
+1533,CDX Network CDX , 78.94K,0, 32.55M, Own Blockchain,0,0
+1534,Patron PAT , 78.96K,0, 387.87M, Ethereum (ERC20),0,0
+1535,Dynamite DYNMT , 78.78K,0, 224.48K, Ethereum (ERC20),0,0
+1536,BitRewards BIT , 78.54K,0, 342.7M, Ethereum (ERC20),0,0
+1537,Fabric Token FT , 78.15K,0, 24.59M, Ethereum (ERC20),0,0
+1538,MMOCoin MMO , 77.79K,0, 59.87M, Own Blockchain,0,0
+1539,Profile Utility Token PUT , 75.21K,0, 45.29M, QTUM,0,0
+1540,EnterCoin ENTRC , 74.65K,0, 2.94M, Ethereum (ERC20),0,0
+1541,Swing SWING , 74.39K,0, 4.38M, Own Blockchain,0,0
+1542,EventChain EVC , 74.44K,0, 31.25M, Ethereum (ERC20),0,0
+1543,Datarius Credit DTRC , 73.93K,0, 127.76M, Ethereum (ERC20),0,0
+1544,DOWCOIN DOW , 73.96K,0, 11.81M, Ethereum (ERC20),0,0
+1545,Kobocoin KOBO , 73.9K,0, 24.7M, Own Blockchain,0,0
+1546,Crave CRAVE , 73.89K,0, 22.48M, Own Blockchain,0,0
+1547,EurocoinToken ECTE , 73.58K,0, 1.67M, Ethereum (ERC20),0,0
+1548,Deutsche eMark DEM , 73.04K,0, 53.65M, Own Blockchain,0,0
+1549,Viuly VIU , 72.01K,0, 771.91M, Ethereum (ERC20),0,0
+1550,Social Activity Token SAT , 71.07K,0, 126.97M, Ethereum (ERC20),0,0
+1551,BetterBetting BETR , 71.06K,0, 273.15M, Ethereum (ERC20),0,0
+1552,YENTEN YTN , 70.72K,0, 24.35M, Own Blockchain,0,0
+1553,Verify CRED , 70.23K,0, 13.51M, Ethereum (ERC20),0,0
+1554,Litecoin Plus LCP , 70.17K,0, 2.56M, Own Blockchain,0,0
+1555,Daneel DAN , 70.01K,0, 20.24M, Ethereum (ERC20),0,0
+1556,BitNautic Token BTNT , 71.16K,0, 16.23M, Ethereum (ERC20),0,0
+1557,Adzcoin ADZ , 69.63K,0, 49.76M, Own Blockchain,0,0
+1558,PrimeStone PSC , 69.57K,0, 19.21M, Own Blockchain,0,0
+1559,Naviaddress NAVI , 69.48K,0, 242.55M, Ethereum (ERC20),0,0
+1560,REBL REBL , 69.37K,0, 173.67M, Ethereum (ERC20),0,0
+1561,BoatPilot NAVY , 68.92K,0, 73.86M, Ethereum (ERC20),0,0
+1562,Bitether BTR , 68.8K,0, 56.74M, Ethereum (ERC20),0,0
+1563,EquiTrader EQT , 68.65K,0, 12.67M, Own Blockchain,0,0
+1564,Bitcoin Zero BZX , 68.58K,0, 22.34M, Own Blockchain,0,0
+1565,SwiftCash SWIFT , 58.59K,0, 104.68M, Own Blockchain,0,0
+1566,Ethereum Gold Project ETGP , 67.5K,0, 5.17B, Ethereum (ERC20),0,0
+1567,GINcoin GIN , 67.53K,0, 7.4M, Own Blockchain,0,0
+1568,TagCoin TAG , 66.58K,0, 6.43M, Own Blockchain,0,0
+1569,Fire Lotto FLOT , 66.47K,0, 27.48M, Ethereum (ERC20),0,0
+1570,Exosis EXO , 65.7K,0, 283.42K, Own Blockchain,0,0
+1571,BlockCAT CAT , 65.67K,0, 7.36M, Ethereum (ERC20),0,0
+1572,BLAST BLAST , 65.42K,0, 53.74M, Own Blockchain,0,0
+1573,Evil Coin EVIL , 64.71K,0, 21.02M, Own Blockchain,0,0
+1574,VeriME VME , 64.55K,0, 178.05M, Ethereum (ERC20),0,0
+1575,Opal OPAL , 64.46K,0, 15.16M, Own Blockchain,0,0
+1576,ZeusNetwork ZEUS , 64.44K,0, 70B, Waves,0,0
+1577,AirWire WIRE , 62.78K,0, 120.06M, Own Blockchain,0,0
+1578,Fundrequest FND , 63.79K,0, 47.78M, Ethereum (ERC20),0,0
+1579,Thingschain TIC , 62.96K,0, 11.45B, Ethereum (ERC20),0,0
+1580,NetKoin NTK , 63.39K,0, 4.45B, Ethereum (ERC20),0,0
+1581,Rimbit RBT , 63.23K,0, 197.58M, Own Blockchain,0,0
+1582,ethereumcash ECASH , 63.14K,0, 14.1M, Ethereum (ERC20),0,0
+1583,MicroMoney AMM , 62.72K,0, 15.78M, Ethereum (ERC20),0,0
+1584,XMCT XMCT , 62.56K,0, 105.32M, Ethereum (ERC20),0,0
+1585,Newton Coin Project NCP , 62K,0, 180.71B, Own Blockchain,0,0
+1586,MarteXcoin MXT , 61.44K,0, 3.72M, Own Blockchain,0,0
+1587,Civitas CIV , 61.43K,0, 7.16M, Own Blockchain,0,0
+1588,Vivid Coin VIVID , 61.42K,0, 6.19M, Own Blockchain,0,0
+1589,OPCoinX OPCX , 60.6K,0, 162.4M, Own Blockchain,0,0
+1590,CryptoSoul SOUL , 60.52K,0, 171.4M, Ethereum (ERC20),0,0
+1591,ChessCoin CHESS , 60.49K,0, 54.03M, Own Blockchain,0,0
+1592,Ignition IC , 60.3K,0, 1.02M, Own Blockchain,0,0
+1593,Shping SHPING , 59.35K,0, 822.2M, Ethereum (ERC20),0,0
+1594,Devery EVE , 58.86K,0, 62.92M, Ethereum (ERC20),0,0
+1595,Agrolot AGLT , 58.76K,0, 65.25M, Ethereum (ERC20),0,0
+1596,Bitnation XPAT , 58.5K,0, 27.11B, Ethereum (ERC20),0,0
+1597,ATBCoin ATB , 54.48K,0, 42.04M, Own Blockchain,0,0
+1598,Blockburn BURN , 58.11K,0, 640.21K, Ethereum (ERC20),0,0
+1599,InternationalCryptoX INCX , 58.11K,0, 428.76M, Ethereum (ERC20),0,0
+1600,BTCtalkcoin TALK , 57.08K,0, 65.29M, Own Blockchain,0,0
+1601,Webchain WEB , 57.06K,0, 152.91M, Own Blockchain,0,0
+1602,PRiVCY PRIV , 57.05K,0, 16.51M, Own Blockchain,0,0
+1603,Arepacoin AREPA , 56.61K,0, 16.56M, Own Blockchain,0,0
+1604,STRAKS STAK , 55.64K,0, 23.86M, Own Blockchain,0,0
+1605,Elementeum ELET , 55.61K,0, 4.87M, Ethereum (ERC20),0,0
+1606,Miners’ Reward Token MRT , 55.13K,0, 10M, Waves,0,0
+1607,Bitblocks BBK , 54.92K,0, 117.74M, Own Blockchain,0,0
+1608,Sp8de SPX , 54.28K,0, 7.78B, Ethereum (ERC20),0,0
+1609,CyClean CCL , 60.52K,0, 678.45M, Ethereum (ERC20),0,0
+1610,InvestFeed IFT , 53.56K,0, 191.38M, Ethereum (ERC20),0,0
+1611,Bitcoiin B2G , 53.46K,0, 52.76M, Own Blockchain,0,0
+1612,SiaCashCoin SCC , 53.44K,0, 12.09B, Ethereum (ERC20),0,0
+1613,GoHelpFund HELP , 53.26K,0, 12.15M, Ethereum (ERC20),0,0
+1614,Evedo EVED , 53.18K,0, 7.68M, Ethereum (ERC20),0,0
+1615,Golos Gold GBG , 52.6K,0, 12.64M, Own Blockchain,0,0
+1616,Moin MOIN , 52.01K,0, 8.71M, Own Blockchain,0,0
+1617,TOKYO TOKC , 50.88K,0, 272.7M, Own Blockchain,0,0
+1618,bitSilver BITSILVER , 50.57K,0, 21.28K, BitShares,0,0
+1619,BEAT BEAT , 50.32K,0, 123.93M, Ethereum (ERC20),0,0
+1620,vSlice VSL , 49.84K,0, 33.39M, Own Blockchain,0,0
+1621,bitGold BITGOLD , 48.73K,0, 0, BitShares,0,0
+1622,iTicoin ITI , 48.63K,0, 32K, Own Blockchain,0,0
+1623,HyperQuant HQT , 48.13K,0, 89.08M, Ethereum (ERC20),0,0
+1624,IGToken IG , 48.48K,0, 3.15B, Ethereum (ERC20),0,0
+1625,Bitcoin Turbo Koin BTK , 47.94K,0, 17.19B, Ethereum (ERC20),0,0
+1626,BBSCoin BBS , 47.81K,0, 83.6B, Own Blockchain,0,0
+1627,Five Star Coin Pro FSCP , 47.33K,0, 3.84M, Ethereum (ERC20),0,0
+1628,GuccioneCoin GCC , 47.31K,0, 20.29M, Own Blockchain,0,0
+1629,Castle CSTL , 46.64K,0, 15.15M, Own Blockchain,0,0
+1630,Rupiah Token IDRT , 46.32K,0, 640.73M, Ethereum (ERC20),0,0
+1631,Veros VRS , 45.97K,0, 30.81M, Ethereum (ERC20),0,0
+1632,InterValue INVE , 45.66K,0, 127.89M, Ethereum (ERC20),0,0
+1633,ALLUVA ALV , 45.24K,0, 8.5M, Ethereum (ERC20),0,0
+1634,Doge Token DOGET , 44.59K,0, 8.9B, Stellar,0,0
+1635,Italian Lira ITL , 44.55K,0, 23.94B, Ethereum (ERC20),0,0
+1636,PluraCoin PLURA , 44.55K,0, 467.8M, Own Blockchain,0,0
+1637,Rupaya RUPX , 44.42K,0, 43.73M, Own Blockchain,0,0
+1638,BitWhite BTW , 44.35K,0, 36.33M, Own Blockchain,0,0
+1639,Decentralized Machine Learning DML , 44.88K,0, 63.03M, Own Blockchain,0,0
+1640,Herbalist Token HERB , 44.45K,0, 9.5B, Ethereum (ERC20),0,0
+1641,Waletoken WTN , 43.5K,0, 19.92B, Ethereum (ERC20),0,0
+1642,CrowdWiz WIZ , 43.79K,0, 3.5M, Ethereum (ERC20),0,0
+1643,Aegeus AEG , 44.72K,0, 36.59M, Own Blockchain,0,0
+1644,Crowdholding YUP , 43.42K,0, 200.56M, Ethereum (ERC20),0,0
+1645,Agora VOTE , 43.81K,0, 19.74M, Binance-Chain BEP-2,0,0
+1646,PureVidz VIDZ , 43.21K,0, 125.28M, Own Blockchain,0,0
+1647,2GIVE 2GIVE , 43.14K,0, 522.41M, Own Blockchain,0,0
+1648,Bitcloud BTDX , 43.04K,0, 31.29M, Own Blockchain,0,0
+1649,Iridium IRD , 42.82K,0, 19.23M, Own Blockchain,0,0
+1650,DACH Coin DACHX , 42.6K,0, 21.16M, Own Blockchain,0,0
+1651,Galactrum ORE , 42.59K,0, 4.61M, Own Blockchain,0,0
+1652,Pedity PEDI , 42.37K,0, 1.37B, Stellar,0,0
+1653,Thar Token THAR , 42.3K,0, 700K, Ethereum (ERC20),0,0
+1654,FORCE FOR , 42.2K,0, 140.52M, Own Blockchain,0,0
+1655,P2P Global Network P2PX , 42.15K,0, 31.47M, Ethereum (ERC20),0,0
+1656,InterCrone ICR , 42.1K,0, 14.79M, Own Blockchain,0,0
+1657,ClearCoin XCLR , 41.76K,0, 527.87M, Ethereum (ERC20),0,0
+1658,ConnectJob CJT , 41.69K,0, 112.84M, Ethereum (ERC20),0,0
+1659,SkinCoin SKIN , 41.34K,0, 88.18M, Ethereum (ERC20),0,0
+1660,Obsidian ODN , 41K,0, 70.09M, Own Blockchain,0,0
+1661,PAWS Fund PAWS , 36.8K,0, 1.91M, Own Blockchain,0,0
+1662,Tokendesk TDS , 40.24K,0, 14.68M, Ethereum (ERC20),0,0
+1663,Hype Token HYPE , 40.79K,0, 46.37M, Ethereum (ERC20),0,0
+1664,Xuez XUEZ , 40.64K,0, 3.25M, Own Blockchain,0,0
+1665,MODEL-X-coin MODX , 40.64K,0, 12.05M, Ethereum (ERC20),0,0
+1666,Menlo One ONE , 40.66K,0, 300.4M, Ethereum (ERC20),0,0
+1667,Thore Cash TCH , 40.54K,0, 55.06M, Ethereum (ERC20),0,0
+1668,EXMR EXMR , 40.43K,0, 11.76M, Ethereum (ERC20),0,0
+1669,LOCIcoin LOCI , 40.35K,0, 41.39M, Ethereum (ERC20),0,0
+1670,Signatum SIGT , 40.29K,0, 107.97M, Own Blockchain,0,0
+1671,BitStash STASH , 40.32K,0, 2.79B, Ethereum (ERC20),0,0
+1672,BTC Lite BTCL , 40.12K,0, 18.7M, Own Blockchain,0,0
+1673,Onix ONX , 39.95K,0, 107.07M, Own Blockchain,0,0
+1674,MonacoCoin XMCC , 39.7K,0, 8.19M, Own Blockchain,0,0
+1675,CommunityGeneration CGEN , 39.14K,0, 419.59M, Own Blockchain,0,0
+1676,Ratecoin XRA , 38.97K,0, 122.45M, Own Blockchain,0,0
+1677,Block Array ARY , 38.9K,0, 68.43M, Ethereum (ERC20),0,0
+1678,Vsync VSX , 38.63K,0, 160.56M, Own Blockchain,0,0
+1679,Intelligent Trading Foundation ITT , 38.61K,0, 9.81M, Own Blockchain,0,0
+1680,Ether Kingdoms Token IMP , 36.78K,0, 6.67M, Ethereum (ERC20),0,0
+1681,SuperCoin SUPER , 38.01K,0, 50.93M, Own Blockchain,0,0
+1682,HYPNOXYS HYPX , 37.86K,0, 19.93B, Ethereum (ERC20),0,0
+1683,BitStation BSTN , 37.83K,0, 4.7B, Ethereum (ERC20),0,0
+1684,GoldBlocks GB , 37.75K,0, 15.56M, Own Blockchain,0,0
+1685,PayCoin XPY , 36.93K,0, 12M, Own Blockchain,0,0
+1686,Datacoin DTC , 36.87K,0, 39.53M, Own Blockchain,0,0
+1687,ARAW ARAW , 36.91K,0, 3.06B, Ethereum (ERC20),0,0
+1688,Stellar Classic XLMX , 36.53K,0, 571.82M, Ethereum (ERC20),0,0
+1689,TransferCoin TX , 36.36K,0, 8.12M, Own Blockchain,0,0
+1690,Italo XTA , 36.15K,0, 3.19M, Own Blockchain,0,0
+1691,GenesisX XGS , 35.96K,0, 9.04M, Own Blockchain,0,0
+1692,WITChain WIT , 35.7K,0, 1.98B, Ethereum (ERC20),0,0
+1693,DeVault DVT , 35.05K,0, 75.14M, Own Blockchain,0,0
+1694,Rubies RBIES , 34.98K,0, 10.42M, Own Blockchain,0,0
+1695,Kind Ads Token KIND , 34.88K,0, 42.22M, Ethereum (ERC20),0,0
+1696,Payfair PFR , 34.66K,0, 39.31M, Ethereum (ERC20),0,0
+1697,Arqma ARQ , 34.54K,0, 2.04M, Own Blockchain,0,0
+1698,Bee Token BEE , 34.27K,0, 236.63M, Ethereum (ERC20),0,0
+1699,ELTCOIN ELTCOIN , 34.24K,0, 90M, Ethereum (ERC20),0,0
+1700,ICO OpenLedger ICOO , 34.17K,0, 465.95K, BitShares,0,0
+1701,Fox Trading FOXT , 34.11K,0, 9.11M, Ethereum (ERC20),0,0
+1702,X-Coin XCO , 34.06K,0, 12.38M, Own Blockchain,0,0
+1703,SmartCoin SMC , 33.95K,0, 25.7M, Own Blockchain,0,0
+1704,Rupee RUP , 33.9K,0, 36.4M, Own Blockchain,0,0
+1705,ARBITRAGE ARB , 33.92K,0, 4.09M, Ethereum (ERC20),0,0
+1706,BriaCoin BRIA , 33.89K,0, 743.43K, Own Blockchain,0,0
+1707,Cryptojacks CJ , 33.73K,0, 406.57M, Own Blockchain,0,0
+1708,Spectrum SPT , 33.32K,0, 1.2B, Ethereum (ERC20),0,0
+1709,Theresa May Coin MAY , 33.27K,0, 100.02M, Own Blockchain,0,0
+1710,BERNcash BERN , 33.23K,0, 71.23M, Own Blockchain,0,0
+1711,InflationCoin IFLT , 32.86K,0, 44.79B, Own Blockchain,0,0
+1712,Joint Ventures JOINT , 32.84K,0, 22.13M, Ethereum (ERC20),0,0
+1713,SteepCoin STEEP , 32.63K,0, 181.51M, Own Blockchain,0,0
+1714,VIVO VIVO , 31.67K,0, 4.99M, Own Blockchain,0,0
+1715,Escroco Emerald ESCE , 31.53K,0, 624.53M, Ethereum (ERC20),0,0
+1716,Sonder SNR , 31.51K,0, 168.88M, Ethereum (ERC20),0,0
+1717,Coin2.1 C2 , 31.16K,0, 78.25M, Own Blockchain,0,0
+1718,Blakecoin BLC , 30.84K,0, 23.87M, Own Blockchain,0,0
+1719,Gold Poker GPKR , 30.74K,0, 4.58M, Own Blockchain,0,0
+1720,Ellaism ELLA , 30.71K,0, 19.36M, Own Blockchain,0,0
+1721,Absolute ABS , 30.62K,0, 12.92M, Own Blockchain,0,0
+1722,BitGuild PLAT PLAT , 30.38K,0, 59.57M, Ethereum (ERC20),0,0
+1723,XDNA XDNA , 30.04K,0, 4.74M, Own Blockchain,0,0
+1724,ArbitrageCT ARCT , 29.41K,0, 104.66M, Own Blockchain,0,0
+1725,Digital Money Bits DMB , 29.33K,0, 104.79M, Own Blockchain,0,0
+1726,Bata BTA , 29.21K,0, 5.05M, Own Blockchain,0,0
+1727,EUNOMIA ENTS , 29.19K,0, 16.42B, Ethereum (ERC20),0,0
+1728,Scopuly SKY , 28.82K,0, 2.19B, Stellar,0,0
+1729,GUESS GUESS , 28.75K,0, 60.54M, Own Blockchain,0,0
+1730,RouletteToken RLT , 27.71K,0, 10.61M, Ethereum (ERC20),0,0
+1731,Mero Currency MRO , 27.41K,0, 15.04M, Ethereum (ERC20),0,0
+1732,QUINADS QUIN , 27.17K,0, 13.19B, Ethereum (ERC20),0,0
+1733,Joincoin J , 27.14K,0, 3.34M, Own Blockchain,0,0
+1734,KZ Cash KZC , 27.06K,0, 1.56M, Own Blockchain,0,0
+1735,ShowHand HAND , 26.69K,0, 61.91B, Ethereum (ERC20),0,0
+1736,Tracto TRCT , 26.64K,0, 26.91M, Ethereum (ERC20),0,0
+1737,PlatinumBAR XPTX , 26.4K,0, 2.16M, Own Blockchain,0,0
+1738,Uptrennd 1UP , 26.31K,0, 4.55M, Ethereum (ERC20),0,0
+1739,Dreamcoin DRM , 26.2K,0, 2.56M, Own Blockchain,0,0
+1740,AdCoin ACC , 26.15K,0, 16.49M, Own Blockchain,0,0
+1741,Darcrus DAR , 26.14K,0, 13.6M, Waves,0,0
+1742,ProCurrency PROC , 25.92K,0, 103.74M, Own Blockchain,0,0
+1743,MedicCoin MEDIC , 25.67K,0, 298.35M, Own Blockchain,0,0
+1744,BitCoen BEN , 25.63K,0, 7M, Own Blockchain,0,0
+1745,EtherInc ETI , 25.53K,0, 315.03M, Ethereum (ERC20),0,0
+1746,Asura Coin ASA , 25.52K,0, 220.93M, NEO,0,0
+1747,Pakcoin PAK , 25.29K,0, 68.59M, Own Blockchain,0,0
+1748,Bitsum BSM , 25.19K,0, 1.58B, Own Blockchain,0,0
+1749,EagleX EGX , 25.06K,0, 33.58M, Own Blockchain,0,0
+1750,Arion ARION , 24.33K,0, 11.34M, Own Blockchain,0,0
+1751,Regalcoin REC , 24.31K,0, 12.8M, Own Blockchain,0,0
+1752,ROIyal Coin ROCO , 24.04K,0, 947.47K, Own Blockchain,0,0
+1753,Garlicoin GRLC , 23.88K,0, 51.19M, Own Blockchain,0,0
+1754,ZINC ZINC , 23.68K,0, 5.46M, Ethereum (ERC20),0,0
+1755,TrustNote TTT , 23.61K,0, 310M, Own Blockchain,0,0
+1756,StarterCoin STAC , 23.43K,0, 342.01M, Ethereum (ERC20),0,0
+1757,FidexToken FEX , 23.36K,0, 29.13B, Ethereum (ERC20),0,0
+1758,Cheesecoin CHEESE , 23.16K,0, 354.64M, Own Blockchain,0,0
+1759,Bitcoin Red BTCRED , 23.06K,0, 21M, Ethereum (ERC20),0,0
+1760,APR Coin APR , 23.04K,0, 9.69M, Own Blockchain,0,0
+1761,Elixir ELIX , 22.77K,0, 35.49M, Ethereum (ERC20),0,0
+1762,xEURO xEUR , 22.67K,0, 20.42K, Ethereum (ERC20),0,0
+1763,Cream CRM , 22.44K,0, 45.11M, Own Blockchain,0,0
+1764,PostCoin POST , 22.27K,0, 15.87M, Own Blockchain,0,0
+1765,SpreadCoin SPR , 22.22K,0, 11.16M, Own Blockchain,0,0
+1766,FuzzBalls FUZZ , 21.91K,0, 4.83M, Own Blockchain,0,0
+1767,Scanetchain SWC , 21.86K,0, 839.51M, Ethereum (ERC20),0,0
+1768,Zenswap Network Token ZNT , 21.64K,0, 12B, Ethereum (ERC20),0,0
+1769,Gossipcoin GOSS , 21.49K,0, 30.6M, Own Blockchain,0,0
+1770,Zoomba ZBA , 21.35K,0, 22.88M, Own Blockchain,0,0
+1771,Titcoin TIT , 21.19K,0, 65.34M, Own Blockchain,0,0
+1772,ParkByte PKB , 20.89K,0, 4.76M, Own Blockchain,0,0
+1773,Neural Protocol NRP , 20.81K,0, 9.5B, Ethereum (ERC20),0,0
+1774,Dash Green DASHG , 20.73K,0, 2.3M, Own Blockchain,0,0
+1775,SF Capital SFCP , 20.65K,0, 44.28M, Ethereum (ERC20),0,0
+1776,Innova INN , 20.55K,0, 5.05M, Own Blockchain,0,0
+1777,Fivebalance FBN , 20.37K,0, 565.24M, Ethereum (ERC20),0,0
+1778,AmsterdamCoin AMS , 20.34K,0, 50.2M, Own Blockchain,0,0
+1779,Cashcoin CASH , 19.95K,0, 53.46M, Own Blockchain,0,0
+1780,Impleum IMPL , 19.8K,0, 5.74M, Own Blockchain,0,0
+1781,SparksPay SPK , 19.75K,0, 5.48M, Own Blockchain,0,0
+1782,EthereumX ETX , 19.64K,0, 87.23M, Stellar,0,0
+1783,BitCoin One BTCONE , 19.15K,0, 95.42M, Ethereum (ERC20),0,0
+1784,KanadeCoin KNDC , 19.15K,0, 5.47B, Ethereum (ERC20),0,0
+1785,Bitcoin 21 XBTC21 , 19.15K,0, 793.11K, Own Blockchain,0,0
+1786,Blocknode BND , 19.12K,0, 204.99M, Own Blockchain,0,0
+1787,ALAX ALX , 18.9K,0, 20.76M, Ethereum (ERC20),0,0
+1788,EZOOW EZW , 18.84K,0, 11.55B, Ethereum (ERC20),0,0
+1789,Qurito QURO , 18.78K,0, 10.41M, Ethereum (ERC20),0,0
+1790,Tokpie TKP , 18.78K,0, 3.69M, Ethereum (ERC20),0,0
+1791,Digitalcoin DGC , 18.68K,0, 33.89M, Own Blockchain,0,0
+1792,NevaCoin NEVA , 18.59K,0, 4.15M, Own Blockchain,0,0
+1793,Blocklancer LNC , 18.56K,0, 120.14M, Ethereum (ERC20),0,0
+1794,Biotron BTRN , 18.46K,0, 65.97M, Ethereum (ERC20),0,0
+1795,empowr coin EMPR , 18.32K,0, 12T, Ethereum (ERC20),0,0
+1796,SkyHub Coin SHB , 18.32K,0, 520.9K, Own Blockchain,0,0
+1797,Origami Network ORI , 18.31K,0, 4.23M, Ethereum (ERC20),0,0
+1798,Acoin ACOIN , 18.29K,0, 1.22M, Own Blockchain,0,0
+1799,CDMCOIN CDM , 18.25K,0, 2.21B, Own Blockchain,0,0
+1800,Gratz GRAT , 18.17K,0, 31M, Stellar,0,0
+1801,Student Coin STU , 18.13K,0, 87.82M, Ethereum (ERC20),0,0
+1802,Shekel JEW , 18.03K,0, 133.11M, Own Blockchain,0,0
+1803,Phantomx PNX , 17.85K,0, 46.88M, Own Blockchain,0,0
+1804,EVOS EVOS , 17.74K,0, 10.61M, Own Blockchain,0,0
+1805,Mobile Crypto Pay Coin MCPC , 17.74K,0, 6.15M, Own Blockchain,0,0
+1806,Kora Network Token KNT , 17.63K,0, 335.63M, Ethereum (ERC20),0,0
+1807,Evimeria EVI , 17.62K,0, 15.52B, Waves,0,0
+1808,Digiwage WAGE , 17.56K,0, 47.06M, Own Blockchain,0,0
+1809,Bankcoin [email protected] , 17.36K,0, 10.29M, Waves,0,0
+1810,Creditbit CRB , 17.34K,0, 16.9M, Ethereum (ERC20),0,0
+1811,VOISE VOISE , 17.32K,0, 549.34M, Ethereum (ERC20),0,0
+1812,Bulleon BUL , 17.29K,0, 1.1M, Ethereum (ERC20),0,0
+1813,Orbis Token OBT , 17.26K,0, 19.17M, NEO,0,0
+1814,CPUchain CPU , 16.99K,0, 8.07M, Own Blockchain,0,0
+1815,Litecred LTCR , 16.92K,0, 30.23M, Own Blockchain,0,0
+1816,Incodium INCO , 16.87K,0, 9.37B, Ethereum (ERC20),0,0
+1817,Knekted KNT , 16.63K,0, 1000M, Ethereum (ERC20),0,0
+1818,Sola Token SOL , 16.52K,0, 28.95M, Ethereum (ERC20),0,0
+1819,Bitcoin Adult BTAD , 16.51K,0, 35.39M, Own Blockchain,0,0
+1820,KWHCoin KWH , 16.29K,0, 1.81B, Ethereum (ERC20),0,0
+1821,ICOBay IBT , 16.24K,0, 692.65M, Ethereum (ERC20),0,0
+1822,Eurocoin EUC , 16.22K,0, 12.42M, Own Blockchain,0,0
+1823,Cyber Movie Chain CMCT , 16.18K,0, 20B, Ethereum (ERC20),0,0
+1824,SCRIV NETWORK SCRIV , 16.16K,0, 24.74M, Own Blockchain,0,0
+1825,MojoCoin MOJO , 16.03K,0, 12.28M, Own Blockchain,0,0
+1826,Shivers SHVR , 15.95K,0, 54.45M, Ethereum (ERC20),0,0
+1827,Iqcash IQ , 15.94K,0, 3.9M, Own Blockchain,0,0
+1828,Natmin Pure Escrow NAT , 15.91K,0, 102.09M, Ethereum (ERC223),0,0
+1829,Crystal Clear CCT , 15.49K,0, 5.72M, Ethereum (ERC20),0,0
+1830,Californium CF , 15.36K,0, 2.45M, Own Blockchain,0,0
+1831,Couchain COU , 15.14K,0, 7.17B, Ethereum (ERC20),0,0
+1832,Elementrem ELE , 14.63K,0, 26.21M, Own Blockchain,0,0
+1833,Bionic BNC , 14.62K,0, 536.24M, Ethereum (ERC20),0,0
+1834,Alpha Coin APC , 14.36K,0, 32.46M, Ethereum (ERC20),0,0
+1835,4NEW KWATT , 14K,0, 61.15M, Ethereum (ERC20),0,0
+1836,Lightpaycoin LPC , 13.73K,0, 5.79M, Own Blockchain,0,0
+1837,Decentralized Asset Trading Platform DATP , 13.43K,0, 11.82B, Ethereum (ERC20),0,0
+1838,Citadel CTL , 13.3K,0, 10.97M, Own Blockchain,0,0
+1839,Dragon Option DRAGON , 13.21K,0, 61.46M, EOS,0,0
+1840,TajCoin TAJ , 13.17K,0, 12.84M, Own Blockchain,0,0
+1841,Peony PNY , 12.98K,0, 1.21M, Own Blockchain,0,0
+1842,Zayedcoin ZYD , 12.82K,0, 6.24M, Own Blockchain,0,0
+1843,UltraNote Coin XUN , 12.7K,0, 271.78M, Own Blockchain,0,0
+1844,Havy HAVY , 12.58K,0, 7.74B, Ethereum (ERC20),0,0
+1845,GIGA XG , 12.44K,0, 135.43M, Own Blockchain,0,0
+1846,Tourist Token TOTO , 12.34K,0, 3.93B, Ethereum (ERC20),0,0
+1847,Hurify HUR , 12.27K,0, 241.46M, Ethereum (ERC20),0,0
+1848,BZLCOIN BZL , 12.21K,0, 2.2M, Own Blockchain,0,0
+1849,Zealium NZL , 12.16K,0, 11.85M, Own Blockchain,0,0
+1850,Micromines MICRO , 12.02K,0, 18B, Ethereum (ERC20),0,0
+1851,Luna Coin LUNA , 11.94K,0, 1.71M, Own Blockchain,0,0
+1852,CyberMusic CYMT , 11.9K,0, 15B, Ethereum (ERC20),0,0
+1853,Quebecoin QBC , 11.88K,0, 6.7M, Own Blockchain,0,0
+1854,Fintab FNTB , 11.58K,0, 2.78M, Ethereum (ERC20),0,0
+1855,SecretCoin SCRT , 11.45K,0, 4.23M, Own Blockchain,0,0
+1856,KUN KUN , 11.44K,0, 2K, Waves,0,0
+1857,Bitspace BSX , 10.75K,0, 13.89M, Own Blockchain,0,0
+1858,Carebit CARE , 10.56K,0, 138.68M, Own Blockchain,0,0
+1859,Aigang AIX , 10.51K,0, 29.27M, Ethereum (ERC20),0,0
+1860,High Voltage HVCO , 10.45K,0, 1.49M, Own Blockchain,0,0
+1861,BowsCoin BSC , 10.36K,0, 5.55M, Own Blockchain,0,0
+1862,MNPCoin MNP , 10.02K,0, 2.19M, Own Blockchain,0,0
+1863,BoostCoin BOST , 9.95K,0, 11.86M, Own Blockchain,0,0
+1864,MustangCoin MST , 9.94K,0, 630.34K, Own Blockchain,0,0
+1865,GeyserCoin GSR , 9.63K,0, 1.12M, Own Blockchain,0,0
+1866,VikkyToken VIKKY , 9.54K,0, 3.73B, Ethereum (ERC20),0,0
+1867,Virtacoin VTA , 9.52K,0, 5.2B, Own Blockchain,0,0
+1868,Klimatas KTS , 9.46K,0, 722.9K, Own Blockchain,0,0
+1869,AdultChain XXX , 9.31K,0, 49.92M, Own Blockchain,0,0
+1870,ccore CCO , 9.25K,0, 1.7M, Ethereum (ERC20),0,0
+1871,Desire DSR , 9.15K,0, 9.81M, Own Blockchain,0,0
+1872,Phonecoin PHON , 9.15K,0, 118.86M, Own Blockchain,0,0
+1873,Dollarcoin DLC , 9.1K,0, 9.11M, Own Blockchain,0,0
+1874,Speedcash SCS , 9.06K,0, 574.75K, Own Blockchain,0,0
+1875,Xenoverse XENO , 9.04K,0, 5.2M, Ethereum (ERC20),0,0
+1876,Nekonium NUKO , 8.96K,0, 12M, Own Blockchain,0,0
+1877,ICOBID ICOB , 8.95K,0, 107.05M, Own Blockchain,0,0
+1878,BitRent RNTB , 8.92K,0, 841.74M, Ethereum (ERC20),0,0
+1879,MoX MOX , 8.91K,0, 5.03M, Own Blockchain,0,0
+1880,Independent Money System IMS , 8.83K,0, 5.37M, Own Blockchain,0,0
+1881,JavaScript Token JS , 8.78K,0, 7.99M, Ethereum (ERC20),0,0
+1882,INDINODE XIND , 8.72K,0, 934.23M, Own Blockchain,0,0
+1883,Authorship ATS , 8.7K,0, 99.97M, Ethereum (ERC20),0,0
+1884,CryptoFlow CFL , 8.59K,0, 92.03M, Own Blockchain,0,0
+1885,Cryptrust CTRT , 8.56K,0, 5.25B, Ethereum (ERC20),0,0
+1886,ARbit ARB , 8.55K,0, 10.83M, Own Blockchain,0,0
+1887,Masternet MASH , 8.51K,0, 31.69M, Ethereum (ERC20),0,0
+1888,Helper Search Token HSN , 8.38K,0, 8.48B, Ethereum (ERC20),0,0
+1889,HireGo HGO , 8.37K,0, 6.21M, Ethereum (ERC20),0,0
+1890,nDEX NDX , 8.35K,0, 14.94B, Ethereum (ERC20),0,0
+1891,XOVBank XOV , 8.28K,0, 131.2M, Ethereum (ERC20),0,0
+1892,Atheios ATH , 8.18K,0, 17.54M, Own Blockchain,0,0
+1893,InnovativeBioresearchClassic INNBCL , 8.16K,0, 2.93T, Ethereum (ERC20),0,0
+1894,Sharpe Platform Token SHP , 8.01K,0, 17.41M, Ethereum (ERC20),0,0
+1895,e-Chat ECHT , 8K,0, 19.16M, Ethereum (ERC20),0,0
+1896,Grimcoin GRIM , 7.92K,0, 99.74M, Own Blockchain,0,0
+1897,electrumdark ELD , 7.6K,0, 3.9M, Ethereum (ERC20),0,0
+1898,WomenCoin WOMEN , 7.39K,0, 48.46B, Own Blockchain,0,0
+1899,Mocrow MCW , 7.32K,0, 2.04M, Ethereum (ERC20),0,0
+1900,Centurion CNT , 7.25K,0, 77.66M, Own Blockchain,0,0
+1901,Zurcoin ZUR , 7.15K,0, 87.65M, Own Blockchain,0,0
+1902,Open Trading Network OTN , 7.1K,0, 2.02M, Ethereum (ERC20),0,0
+1903,MiloCoin MILO , 7.07K,0, 10.79M, Own Blockchain,0,0
+1904,Eva Cash EVC , 7.06K,0, 900K, Ethereum (ERC20),0,0
+1905,Qbic QBIC , 7.03K,0, 4.68M, Own Blockchain,0,0
+1906,Crystal Token CYL , 6.98K,0, 564.38K, Ethereum (ERC20),0,0
+1907,YoloCash YLC , 6.91K,0, 29.5M, Ethereum (ERC20),0,0
+1908,Cabbage CAB , 6.86K,0, 10.5M, Own Blockchain,0,0
+1909,Eternity ENT , 6.83K,0, 6.66M, Own Blockchain,0,0
+1910,Veltor VLT , 6.83K,0, 554.86K, Own Blockchain,0,0
+1911,Dystem DTEM , 6.38K,0, 5.47M, Own Blockchain,0,0
+1912,FUTURAX FTXT , 6.14K,0, 3.41B, Ethereum (ERC20),0,0
+1913,Prime-XI PXI , 6.14K,0, 21.93M, Own Blockchain,0,0
+1914,TravelNote TVNT , 6.09K,0, 2.15M, Ethereum (ERC20),0,0
+1915,Decision Token HST , 5.98K,0, 32.03M, Ethereum (ERC20),0,0
+1916,Iconic ICON , 5.97K,0, 592.89K, Own Blockchain,0,0
+1917,SPIDER VPS SPDR , 5.84K,0, 2.99M, Own Blockchain,0,0
+1918,Comet CMT , 5.84K,0, 872.83K, Own Blockchain,0,0
+1919,Ragnarok RAGNA , 5.74K,0, 15.38M, Own Blockchain,0,0
+1920,BunnyToken BUNNY , 5.73K,0, 244.49M, Ethereum (ERC20),0,0
+1921,IceChain ICHX , 5.61K,0, 781.14M, Ethereum (ERC20),0,0
+1922,BRAT BRAT , 5.6K,0, 160M, Ethereum (ERC20),0,0
+1923,PosEx PEX , 5.59K,0, 2.45M, Own Blockchain,0,0
+1924,Olympic OLMP , 5.52K,0, 118.41M, Own Blockchain,0,0
+1925,Bitcoin W Spectrum BWS , 5.48K,0, 57.65M, Own Blockchain,0,0
+1926,Octoin Coin OCC , 5.44K,0, 555.14K, Own Blockchain,0,0
+1927,Akroma AKA , 5.37K,0, 19.18M, Own Blockchain,0,0
+1928,Dalecoin DALC , 5.17K,0, 720.01K, Ethereum (ERC20),0,0
+1929,Kurrent KURT , 5.03K,0, 61.36M, Own Blockchain,0,0
+1930,OP Coin OPC , 4.86K,0, 1.86B, Own Blockchain,0,0
+1931,Cannation CNNC , 4.85K,0, 2.48M, Own Blockchain,0,0
+1932,CustomContractNetwork CCN , 4.79K,0, 1.38B, Ethereum (ERC20),0,0
+1933,Nyerium NYEX , 4.78K,0, 25.64M, Own Blockchain,0,0
+1934,Wild Beast Block WBB , 4.75K,0, 181.92K, Own Blockchain,0,0
+1935,Project Coin PRJ , 4.75K,0, 51.22M, Own Blockchain,0,0
+1936,Bitvolt VOLT , 4.64K,0, 16.59M, Own Blockchain,0,0
+1937,Vector VEC2 , 4.61K,0, 18.4M, Own Blockchain,0,0
+1938,Elliot Coin ELLI , 4.61K,0, 25.24M, Own Blockchain,0,0
+1939,Oceanlab OCL , 4.34K,0, 46.5M, Waves,0,0
+1940,UralsCoin URALS , 4.18K,0, 14.92M, Own Blockchain,0,0
+1941,Ethereum Gold ETG , 4.16K,0, 12M, Ethereum (ERC20),0,0
+1942,CARDbuyers BCARD , 4.06K,0, 43.78M, Own Blockchain,0,0
+1943,Traid TRAID , 4.03K,0, 21.38M, Own Blockchain,0,0
+1944,iBTC IBTC , 4K,0, 43.6M, Own Blockchain,0,0
+1945,LiteCoin Ultra LTCU , 3.94K,0, 1.03M, Own Blockchain,0,0
+1946,DeltaChain DELTA , 3.9K,0, 7.46B, Ethereum (ERC20),0,0
+1947,Dinerocoin DIN , 3.8K,0, 8.95M, Own Blockchain,0,0
+1948,BenjiRolls BENJI , 3.78K,0, 20.28M, Own Blockchain,0,0
+1949,SocialCoin SOCC , 3.76K,0, 10.52M, Own Blockchain,0,0
+1950,CrevaCoin CREVA , 3.69K,0, 36.39M, Own Blockchain,0,0
+1951,Coinonat CXT , 3.22K,0, 8.62M, Own Blockchain,0,0
+1952,BitMoney BIT , 3.08K,0, 82.5M, Own Blockchain,0,0
+1953,CFun CFUN , 3.02K,0, 429.43M, QTUM,0,0
+1954,AltCommunity Coin SONO , 2.92K,0, 2.08M, Own Blockchain,0,0
+1955,Staker STR , 2.91K,0, 1.48M, Ethereum (ERC20),0,0
+1956,PLNcoin PLNC , 2.9K,0, 17.09M, Own Blockchain,0,0
+1957,LiteBitcoin LBTC , 2.9K,0, 28.94M, Own Blockchain,0,0
+1958,Printex PRTX , 2.82K,0, 34.32M, Own Blockchain,0,0
+1959,LitecoinToken LTK , 2.81K,0, 93.8B, Ethereum (ERC20),0,0
+1960,Mero MERO , 2.68K,0, 5.99M, Own Blockchain,0,0
+1961,iBank IBANK , 2.6K,0, 4.53M, Own Blockchain,0,0
+1962,Simmitri SIM , 2.6K,0, 70.47M, Ethereum (ERC20),0,0
+1963,Wispr WSP , 2.54K,0, 31.01M, Own Blockchain,0,0
+1964,LogisCoin LGS , 2.29K,0, 2.35M, Own Blockchain,0,0
+1965,HollyWoodCoin HWC , 2.16K,0, 23.14M, Own Blockchain,0,0
+1966,Mirai MRI , 2.11K,0, 3.43M, Own Blockchain,0,0
+1967,Cointorox OROX , 2.09K,0, 5.53M, Ethereum (ERC20),0,0
+1968,Ethereum Meta ETHM , 2.05K,0, 126.57M, Ethereum (ERC20),0,0
+1969,FolmCoin FLM , 1.8K,0, 9.66M, Own Blockchain,0,0
+1970,Decentralized Crypto Token DCTO , 1.79K,0, 993.07M, Ethereum (ERC20),0,0
+1971,PonziCoin PONZI , 1.69K,0, 861.1K, Own Blockchain,0,0
+1972,BitCoal COAL , 1.68K,0, 4.5M, Own Blockchain,0,0
+1973,Bolenum BLN , 1.66K,0, 25B, Ethereum (ERC20),0,0
+1974,PAXEX PAXEX , 1.64K,0, 17.57M, Own Blockchain,0,0
+1975,Project-X NANOX , 1.62K,0, 0, Own Blockchain,0,0
+1976,Claymore CLM , 1.59K,0, 31.51M, Ethereum (ERC20),0,0
+1977,LRM Coin LRM , 1.49K,0, 9.95M, Own Blockchain,0,0
+1978,Save and Gain SANDG , 1.22K,0, 3.06M, Own Blockchain,0,0
+1979,X12 Coin X12 , 1.01K,0, 12.09M, Own Blockchain,0,0
+1980,QYNO QNO , 1K,0, 1.08M, Own Blockchain,0,0
+1981,BrokerNekoNetwork BNN , 0,0, 2.99B, Ethereum (ERC20),0,0
+1982,Xchange XCG , 0,0, 9.75M, Own Blockchain,0,0
+1983,BumbaCoin BUMBA , 0,0, 23.34M, Own Blockchain,0,0
+1984,Concoin CONX , 0,0, 744.27K, Own Blockchain,0,0
+1985,GambleCoin GMCN , 0,0, 10.98M, Own Blockchain,0,0
+1986,Bitcoin X BTX , 0,0, 2.86M, Stellar,0,0
+1987,SpectrumNetwork SPEC , 0,0, 949.51M, Ethereum (ERC20),0,0
+1988,Abulaba AAA , 0,0, 15.09M, Ethereum (ERC20),0,0
+1989,Benz BENZ , 0,0, 5.96M, Own Blockchain,0,0
+1990,Posscoin POSS , 0,0, 30.06B, Ethereum (ERC20),0,0
+1991,Azart AZART , 0,0, 4.15M, Own Blockchain,0,0
+1992,Argus ARGUS , 0,0, 1.15M, Own Blockchain,0,0
+1993,Provoco VOCO , 0,0, 375.71M, Ethereum (ERC223),0,0
+1994,dietbitcoin DDX , 0,0, 2.92M, Own Blockchain,0,0
+1995,StellarPay XLB , 0,0, 3.42M, Stellar,0,0
+1996,Interzone ITZ , 0,0, 2.65M, Own Blockchain,0,0
+1997,Bitcoinus BITS , 0,0, 59.29M, Ethereum (ERC20),0,0
+1998,HarmonyCoin HMC , 0,0, 561.24K, Own Blockchain,0,0
+1999,Jiyo [OLD] JIYO , 0,0, 6.1M, Own Blockchain,0,0
+2000,SongCoin SONG , 0,0, 32.57M, Own Blockchain,0,0
+2001,Blacer Coin BLCR , 0,0, 164.25K, Own Blockchain,0,0
+2002,HUSD HUSD , 0,0, 0, Ethereum (ERC20),0,0
+2003,Whole Network NODE , 0,0, 0, Ethereum (ERC20),0,0
+2004,CK USD CKUSD , 0,0, 0, Own Blockchain,0,0
+2005,Gomics GOM , 0,0, 0, Ethereum (ERC20),0,0
+2006,Kava KAVA , 0,0, 0, Binance-Chain BEP-2,0,0
+2007,DigiFinexToken DFT , 0,0, 0, Own Blockchain,0,0
+2008,Pledge Coin PLG , 0,0, 0, Ethereum (ERC20),0,0
+2009,YottaChain YTA , 0,0, 0, Ethereum (ERC20),0,0
+2010,BigONE Token ONE , 0,0, 0, Ethereum (ERC20),0,0
+2011,Ontology Gas ONG , 0,0, 0, Own Blockchain,0,0
+2012,MyToken MT , 0,0, 0, Own Blockchain,0,0
+2013,Super Zero SERO , 0,0, 0, Own Blockchain,0,0
+2014,Filecoin [Futures] FIL , 0,0, 0, Own Blockchain,0,0
+2015,CoinEx Token CET , 0,0, 0, Ethereum (ERC20),0,0
+2016,Echoin EC , 0,0, 0, Ethereum (ERC20),0,0
+2017,Aidos Kuneen ADK , 225.92M,0, 10.2M, Own Blockchain,0,0
+2018,FOIN FOIN , 0,0, 0, Own Blockchain,0,0
+2019,WinToken WIN , 0,0, 0, Ethereum (ERC20),0,0
+2020,Yobit Token YO , 0,0, 0, Ethereum (ERC20),0,0
+2021,MINDOL MIN , 0,0, 0, Ethereum (ERC20),0,0
+2022,ABCC Token AT , 0,0, 0, Ethereum (ERC20),0,0
+2023,Decentralized Vulnerability Platform DVP , 0,0, 0, Ethereum (ERC20),0,0
+2024,Eminer EM , 0,0, 0, Ethereum (ERC20),0,0
+2025,BitMax Token BTMX , 0,0, 0, Ethereum (ERC20),0,0
+2026,OceanEX Token OCE , 0,0, 0, VeChainThor,0,0
+2027,Exchange Union XUC , 10.58M,0, 2M, Ethereum (ERC20),0,0
+2028,OFCOIN OF , 0,0, 0, Own Blockchain,0,0
+2029,V-Dimension VOLLAR , 0,0, 0, Own Blockchain,0,0
+2030,CoinHe Token CHT , 0,0, 0, Ethereum (ERC20),0,0
+2031,Polkadot [IOU] DOT , 0,0, 0, Own Blockchain,0,0
+2032,Coni CONI , 0,0, 0, Ethereum (ERC20),0,0
+2033,Velas VLX , 0,0, 0, Own Blockchain,0,0
+2034,VIDY VIDY , 0,0, 0, Ethereum (ERC20),0,0
+2035,FairGame FAIR , 0,0, 0, Ethereum (ERC20),0,0
+2036,MixMarvel MIX , 0,0, 0, Ethereum (ERC20),0,0
+2037,VinDax Coin VD , 0,0, 0, Own Blockchain,0,0
+2038,PLANET PLA , 0,0, 0, Ethereum (ERC20),0,0
+2039,StarChain STC , 0,0, 0, Own Blockchain,0,0
+2040,Tepleton TEP , 0,0, 0, Ethereum (ERC20),0,0
+2041,EMOGI Network LOL , 0,0, 0, Own Blockchain,0,0
+2042,12Ships TSHP , 0,0, 0, Ethereum (ERC20),0,0
+2043,CONUN CON , 0,0, 0, Ethereum (ERC20),0,0
+2044,Dash Cash DSC , 0,0, 0, Own Blockchain,0,0
+2045,Xensor XSR , 0,0, 0, Ethereum (ERC20),0,0
+2046,ShineChain SHE , 0,0, 0, Ethereum (ERC20),0,0
+2047,BUMO BU , 0,0, 0, Own Blockchain,0,0
+2048,En-Tan-Mo ETM , 0,0, 0, Ethereum (ERC20),0,0
+2049,ROOBEE ROOBEE , 0,0, 0, Ethereum (ERC20),0,0
+2050,Usechain USE , 0,0, 0, Ethereum (ERC20),0,0
+2051,Bilaxy Token BIA , 0,0, 0, Ethereum (ERC20),0,0
+2052,VeThor Token VTHO , 0,0, 0, Own Blockchain,0,0
+2053,ALP Coin ALP , 0,0, 0, Ethereum (ERC20),0,0
+2054,KNOW KNOW , 0,0, 0, Ethereum (ERC20),0,0
+2055,GoMoney GOM , 0,0, 0, Ethereum (ERC20),0,0
+2056,BAWnetwork BAW , 0,0, 0, Binance-Chain BEP-2,0,0
+2057,NNB Token NNB , 0,0, 0, Ethereum (ERC20),0,0
+2058,Electronic Energy Coin E2C , 0,0, 0, Ethereum (ERC20),0,0
+2059,ZVCHAIN ZVC , 0,0, 0, Own Blockchain,0,0
+2060,Themis GET , 0,0, 0, Ethereum (ERC20),0,0
+2061,DUO Network Token DUO , 0,0, 0, Ethereum (ERC20),0,0
+2062,Tratok TRAT , 0,0, 0, Ethereum (ERC20),0,0
+2063,CIChain CIC , 0,0, 0, Ethereum (ERC20),0,0
+2064,CNNS CNNS , 0,0, 0, Ethereum (ERC20),0,0
+2065,Dapp Token DAPPT , 0,0, 0, Ethereum (ERC20),0,0
+2066,Ferrum Network FRM , 0,0, 0, Ethereum (ERC20),0,0
+2067,InvestDigital IDT , 0,0, 0, EOS,0,0
+2068,LightChain LIGHT , 0,0, 0, Own Blockchain,0,0
+2069,NSS Coin NSS , 0,0, 0, Ethereum (ERC20),0,0
+2070,Gosama GOS , 0,0, 0, Ethereum (ERC20),0,0
+2071,Promotion Coin PC , 0,0, 0, Ethereum (ERC20),0,0
+2072,Treelion TRN , 0,0, 0, Ethereum (ERC20),0,0
+2073,Volume Network VOL , 0,0, 0, Ethereum (ERC20),0,0
+2074,WHEN Token WHEN , 0,0, 0, Ethereum (ERC20),0,0
+2075,DREP DREP , 0,0, 0, Ethereum (ERC20),0,0
+2076,Cai Token CAI , 0,0, 0, Ethereum (ERC20),0,0
+2077,ESCX Token ESCX , 0,0, 0, Ethereum (ERC20),0,0
+2078,WETH WETH , 0,0, 0, Ethereum (ERC20),0,0
+2079,The Midas Touch Gold TMTG , 0,0, 0, Ethereum (ERC20),0,0
+2080,Consentium CSM , 0,0, 0, Ethereum (ERC20),0,0
+2081,PlayCoin [QRC20] PLY , 0,0, 0, QTUM,0,0
+2082,TCOIN TCN , 0,0, 0, Own Blockchain,0,0
+2083,D Community DILI , 0,0, 0, Ethereum (ERC20),0,0
+2084,DIPNET DPN , 0,0, 0, Ethereum (ERC20),0,0
+2085,Opennity OPNN , 0,0, 0, Ethereum (ERC20),0,0
+2086,Yuan Chain Coin YCC , 0,0, 0, Ethereum (ERC20),0,0
+2087,Tesra TSR , 0,0, 0, Ethereum (ERC20),0,0
+2088,YouLive Coin UC , 0,0, 0, Ethereum (ERC20),0,0
+2089,Blockchain Quotations Index Token BQT , 0,0, 0, Ethereum (ERC20),0,0
+2090,Simone SON , 0,0, 0, Waves,0,0
+2091,Ethlyte Crypto EtLyteT , 0,0, 0, Ethereum (ERC20),0,0
+2092,T.OS TOSC , 0,0, 0, Own Blockchain,0,0
+2093,ChronoCoin CRN , 0,0, 0, NEO,0,0
+2094,Blockcloud BLOC , 0,0, 0, Ethereum (ERC20),0,0
+2095,UNICORN Token UNI , 0,0, 0, Ethereum (ERC20),0,0
+2096,Sparkle SPRKL , 0,0, 0, Ethereum (ERC20),0,0
+2097,ThingsOperatingSystem TOS , 0,0, 0, Ethereum (ERC20),0,0
+2098,Globalvillage Ecosystem GVE , 0,0, 0, Ethereum (ERC20),0,0
+2099,DEXTER DXR , 0,0, 0, Ethereum (ERC20),0,0
+2100,Hdac HDAC , 0,0, 0, Own Blockchain,0,0
+2101,NOVA NOVA , 0,0, 0, Ethereum (ERC20),0,0
+2102,KEY KEY , 0,0, 0, Own Blockchain,0,0
+2103,PalletOne PTN , 0,0, 0, Ethereum (ERC20),0,0
+2104,Defi DEFI , 0,0, 0, Ethereum (ERC20),0,0
+2105,TopChain TOPC , 0,0, 0, Own Blockchain,0,0
+2106,BitUP Token BUT , 0,0, 0, Ethereum (ERC20),0,0
+2107,Aunite AUNIT , 0,0, 0, Own Blockchain,0,0
+2108,Ubique Chain Of Things UCT , 0,0, 0, Ethereum (ERC20),0,0
+2109,DACC DACC , 0,0, 0, Ethereum (ERC20),0,0
+2110,IOU IOUX , 0,0, 0, Ethereum (ERC20),0,0
+2111,United Bitcoin UBTC , 0,0, 0, Own Blockchain,0,0
+2112,Coindom CCC , 0,0, 0, Ethereum (ERC20),0,0
+2113,Super Bitcoin [Futures] SBTC , 0,0, 0, Own Blockchain,0,0
+2114,Show SHOW , 0,0, 0, Ethereum (ERC20),0,0
+2115,Game Stars GST , 0,0, 0, Ethereum (ERC20),0,0
+2116,Tokoin TOKO , 0,0, 0, Ethereum (ERC20),0,0
+2117,Twinkle TKT , 0,0, 0, Ethereum (ERC20),0,0
+2118,Colletrix CIPX , 0,0, 0, Ethereum (ERC20),0,0
+2119,ioeX IOEX , 0,0, 0, Own Blockchain,0,0
+2120,InsurChain INSUR , 0,0, 0, Own Blockchain,0,0
+2121,USDCoin USC , 0,0, 0, Ethereum (ERC20),0,0
+2122,Maggie MAG , 0,0, 0, Ethereum (ERC20),0,0
+2123,Esports Token EST , 0,0, 0, Ethereum (ERC20),0,0
+2124,FuturoCoin FTO , 0,0, 0, Own Blockchain,0,0
+2125,FundToken FUNDZ , 0,0, 0, Ethereum (ERC20),0,0
+2126,Boltt Coin BOLTT , 0,0, 0, Ethereum (ERC20),0,0
+2127,Bitcoin BEP2 BTCB , 0,0, 0, Binance-Chain BEP-2,0,0
+2128,CHEX CHEX , 0,0, 0, Ethereum (ERC20),0,0
+2129,Maya Preferred 223 MAPR , 0,0, 0, Ethereum Classic,0,0
+2130,ProBit Token PROB , 0,0, 0, Ethereum (ERC20),0,0
+2131,Cybereits CRE , 0,0, 0, Ethereum (ERC20),0,0
+2132,BitcoinX [Futures] BCX , 0,0, 0, Own Blockchain,0,0
+2133,BeeKan BKBT , 0,0, 0, Ethereum (ERC20),0,0
+2134,Intelligent Investment Chain IIC , 0,0, 0, Ethereum (ERC20),0,0
+2135,Endorsit EDS , 0,0, 0, NEO,0,0
+2136,BitCloud Pro BPRO , 0,0, 0, Ethereum (ERC20),0,0
+2137,CarBlock CAR , 0,0, 0, Ethereum (ERC20),0,0
+2138,Hintchain HINT , 0,0, 0, Ethereum (ERC20),0,0
+2139,Noizchain NOIZ , 0,0, 0, Ethereum (ERC20),0,0
+2140,MeconCash MCH , 0,0, 0, Own Blockchain,0,0
+2141,Ladder Network Token LAD , 0,0, 0, Ethereum (ERC20),0,0
+2142,CARAT CARAT , 0,0, 0, Ethereum (ERC20),0,0
+2143,BlockCDN BCDN , 0,0, 0, Ethereum (ERC20),0,0
+2144,EURBASE EBASE , 0,0, 0, Ethereum (ERC20),0,0
+2145,Engine EGCC , 0,0, 0, Ethereum (ERC20),0,0
+2146,SEER SEER , 0,0, 0, Ethereum (ERC20),0,0
+2147,Oath Protocol OATH , 0,0, 0, Ethereum (ERC20),0,0
+2148,Agoras Tokens AGRS , 57.19M,0, 41.99M, Omni,0,0
+2149,HitChain HIT , 0,0, 0, Ethereum (ERC20),0,0
+2150,Experience Token EXT , 0,0, 0, NEO,0,0
+2151,Dexter G DXG , 0,0, 0, Ethereum (ERC20),0,0
+2152,CENTERCOIN CENT , 0,0, 0, Own Blockchain,0,0
+2153,EduCoin EDU , 0,0, 0, Ethereum (ERC20),0,0
+2154,Bitcoin File BIFI , 0,0, 0, Own Blockchain,0,0
+2155,ROMToken ROM , 0,0, 0, Ethereum (ERC20),0,0
+2156,Marginless MRS , 0,0, 0, Ethereum (ERC20),0,0
+2157,Smartup SMARTUP , 0,0, 0, Ethereum (ERC20),0,0
+2158,vSportCoin VSC , 0,0, 0, Ethereum (ERC20),0,0
+2159,Versess Coin VERS , 0,0, 0, Own Blockchain,0,0
+2160,SoPay SOP , 0,0, 0, Ethereum (ERC20),0,0
+2161,VENJOCOIN VJC , 0,0, 0, Ethereum (ERC20),0,0
+2162,WEBN token WEBN , 0,0, 0, Ethereum (ERC20),0,0
+2163,CoinMeet MEET , 12.53M,0, 340M, Ethereum (ERC20),0,0
+2164,MEX MEX , 0,0, 0, Ethereum (ERC20),0,0
+2165,Atlas Token ATLS , 0,0, 0, Ethereum (ERC20),0,0
+2166,DWS DWS , 0,0, 0, Ethereum (ERC20),0,0
+2167,IZIChain IZI , 0,0, 0, Ethereum (ERC20),0,0
+2168,Muzika MZK , 0,0, 0, Ethereum (ERC20),0,0
+2169,PATHHIVE PHV , 0,0, 0, Ethereum (ERC20),0,0
+2170,MediBit MEDIBIT , 0,0, 0, Ethereum (ERC20),0,0
+2171,Brazilian Digital Token BRZ , 0,0, 0, Ethereum (ERC20),0,0
+2172,TranslateMe Network Token TMN , 0,0, 0, NEO,0,0
+2173,Livepeer LPT , 0,0, 0, Ethereum (ERC20),0,0
+2174,Social Lending Token SLT , 0,0, 0, Ethereum (ERC20),0,0
+2175,GSENetwork GSE , 0,0, 0, Ethereum (ERC20),0,0
+2176,7Eleven 7E , 0,0, 0, Ethereum (ERC20),0,0
+2177,MSD MSD , 0,0, 0, Own Blockchain,0,0
+2178,Celsius CEL , 0,0, 0, Ethereum (ERC20),0,0
+2179,CariNet CIT , 0,0, 0, Ethereum (ERC20),0,0
+2180,DeepCloud AI DEEP , 0,0, 0, Ethereum (ERC20),0,0
+2181,B91 B91 , 0,0, 0, Ethereum (ERC20),0,0
+2182,SDUSD SDUSD , 0,0, 0, NEO,0,0
+2183,COINBIG CB , 0,0, 0, Ethereum (ERC20),0,0
+2184,Countinghouse CHT , 0,0, 0, Ethereum (ERC20),0,0
+2185,Buddy BUD , 0,0, 0, Ethereum (ERC20),0,0
+2186,Qube QUBE , 0,0, 0, Ethereum (ERC20),0,0
+2187,NewsToken NEWOS , 0,0, 0, Ethereum (ERC20),0,0
+2188,Crex Token CREX , 0,0, 0, Waves,0,0
+2189,Midas MIDAS , 0,0, 0, Own Blockchain,0,0
+2190,QUSD QUSD , 0,0, 0, Ethereum (ERC20),0,0
+2191,Bitpanda Ecosystem Token BEST , 0,0, 0, Ethereum (ERC20),0,0
+2192,Aitheon ACU , 0,0, 0, Ethereum (ERC20),0,0
+2193,OTCBTC Token OTB , 0,0, 0, Ethereum (ERC20),0,0
+2194,Decoin DTEP , 0,0, 0, Own Blockchain,0,0
+2195,HOT Token HOT , 0,0, 0, Stellar,0,0
+2196,Airline & Life Networking Token ALLN , 0,0, 0, Ethereum (ERC20),0,0
+2197,Influence Chain INC , 0,0, 0, Ethereum (ERC20),0,0
+2198,VENA VENA , 0,0, 0, Tron (TRC20),0,0
+2199,Jingtum Tech SWTC , 0,0, 0, Own Blockchain,0,0
+2200,district0x DNT , 3.6M,0, 600M, Ethereum (ERC20),0,0
+2201,Ethereum ETH , 19.56B,0, 108.32M, Own Blockchain,0,0
+2202,Enigma ENG , 20.94M,0, 74.84M, Ethereum (ERC20),0,0
+2203,Monetha MTH , 5.81M,0, 402.4M, Ethereum (ERC20),0,0
+2204,Cofound.it CFI , 5.21M,0, 325M, Ethereum (ERC20),0,0
+2205,Maecenas ART , 1.57M,0, 58.35M, Ethereum (ERC20),0,0
+2206,Monero XMR , 984.1M,0, 17.28M, Own Blockchain,0,0
+2207,DA Power Play DPP , 0,0, 0, Ethereum (ERC20),0,0
+2208,Power Ledger POWR , 18.53M,0, 421.14M, Ethereum (ERC20),0,0
+2209,UTRUST UTK , 9.04M,0, 450M, Ethereum (ERC20),0,0
+2210,Presearch PRE , 420.5K,0, 155M, Ethereum (ERC20),0,0
+2211,ICON ICX , 74.15M,0, 500.92M, Own Blockchain,0,0
+2212,Bitcoin Cash BCH , 4.58B,0, 18.08M, Own Blockchain,0,0
+2213,XRP XRP , 12.73B,0, 43.25B, Own Blockchain,0,0
+2214,Dash DASH , 635.54M,0, 9.12M, Own Blockchain,0,0
+2215,Litecoin LTC , 3.64B,0, 63.55M, Own Blockchain,0,0
+2216,NEM XEM , 368.11M,0, 9B, Own Blockchain,0,0
+2217,IOTA MIOTA , 728.77M,0, 2.78B, Own Blockchain,0,0
+2218,Kyber Network KNC , 29.72M,0, 169.09M, Ethereum (ERC20),0,0
+2219,Chainlink LINK , 943.96M,0, 350M, Ethereum (ERC677),0,0
+2220,Neo NEO , 740.72M,0, 70.54M, Own Blockchain,0,0
+2221,Propy PRO , 4.57M,0, 47.77M, Ethereum (ERC20),0,0
+2222,REAL REAL , 295.67K,0, 10.06M, Ethereum (ERC20),0,0
+2223,BitConnect BCC , 6.81M,0, 10.02M, Own Blockchain,0,0
+2224,Tether USDT , 4.12B,0, 4.11B, Omni,0,0
+2225,Stratis STRAT , 30.01M,0, 99.54M, Own Blockchain,0,0
+2226,Zcash ZEC , 279.44M,0, 7.72M, Own Blockchain,0,0
+2227,Lisk LSK , 92.57M,0, 121.17M, Lisk,0,0
+2228,Qtum QTUM , 193.65M,0, 96.12M, QTUM,0,0
+2229,OmiseGO OMG , 127.3M,0, 140.25M, Ethereum (ERC20),0,0
+2230,Waves WAVES , 75.79M,0, 100.17M, Waves,0,0
+2231,Ethereum Classic ETC , 533.48M,0, 114.6M, Own Blockchain,0,0
+2232,Ark ARK , 21.14M,0, 113.44M, Own Blockchain,0,0
+2233,TenX PAY , 9.07M,0, 134.94M, Ethereum (ERC20),0,0
+2234,Steem STEEM , 46.76M,0, 349.16M, Own Blockchain,0,0
+2235,Bytecoin BCN , 75.11M,0, 184.07B, Own Blockchain,0,0
+2236,Stellar XLM , 1.26B,0, 20.04B, Own Blockchain,0,0
+2237,EOS EOS , 2.95B,0, 937.63M, Own Blockchain,0,0
+2238,MaidSafeCoin MAID , 61.55M,0, 452.55M, Omni,0,0
+2239,Basic Attention Token BAT , 319.26M,0, 1.35B, Ethereum (ERC20),0,0
+2240,BitShares BTS , 76.92M,0, 2.75B, BitShares,0,0
+2241,Golem GNT , 42.18M,0, 980.05M, Ethereum (ERC20),0,0
+2242,Augur REP , 88.12M,0, 11M, Ethereum (ERC20),0,0
+2243,Gas GAS , 15.85M,0, 10.13M, NEO,0,0
+2244,Komodo KMD , 62.4M,0, 116.62M, Own Blockchain,0,0
+2245,Hshare HC , 98.22M,0, 43.53M, Own Blockchain,0,0
+2246,Veritaseum VERI , 36.1M,0, 2.15M, Ethereum (ERC20),0,0
+2247,Decred DCR , 158.26M,0, 10.59M, Own Blockchain,0,0
+2248,Metal MTL , 15.57M,0, 51.98M, Ethereum (ERC20),0,0
+2249,PIVX PIVX , 12.76M,0, 56.78M, Own Blockchain,0,0
+2250,Ardor ARDR , 51.86M,0, 999M, Nxt,0,0
+2251,Factom FCT , 25.76M,0, 9.83M, Own Blockchain,0,0
+2252,Iconomi ICN , 21.44M,0, 98.93M, Ethereum (ERC20),0,0
+2253,DigixDAO DGD , 23.74M,0, 2M, Ethereum (ERC20),0,0
+2254,GameCredits GAME , 1.09M,0, 69.84M, Own Blockchain,0,0
+2255,Waltonchain WTC , 27.65M,0, 42.68M, Ethereum (ERC20),0,0
+2256,Siacoin SC , 82.22M,0, 41.82B, Own Blockchain,0,0
+2257,Byteball Bytes GBYTE , 23.13M,0, 679.01K, Own Blockchain,0,0
+2258,Civic CVC , 27.64M,0, 670M, Ethereum (ERC20),0,0
+2259,Gnosis GNO , 17.22M,0, 1.1M, Ethereum (ERC20),0,0
+2260,Binance Coin BNB , 2.96B,0, 155.54M, Own Blockchain,0,0
+2261,DigiByte DGB , 98.33M,0, 12.42B, Own Blockchain,0,0
+2262,Dogecoin DOGE , 319.63M,0, 121.8B, Own Blockchain,0,0
+2263,BitcoinDark BTCD , 20.92M,0, 1.29M, Own Blockchain,0,0
+2264,0x ZRX , 173.22M,0, 601.26M, Ethereum (ERC20),0,0
+2265,MCAP MCAP , 48.54K,0, 10.49M, Ethereum (ERC20),0,0
+2266,FunFair FUN , 22.54M,0, 6.55B, Ethereum (ERC20),0,0
+2267,Populous PPT , 30.82M,0, 53.25M, Ethereum (ERC20),0,0
+2268,SingularDTV SNGLS , 5.54M,0, 600M, Ethereum (ERC20),0,0
+2269,GXShares GXS , 190.62M,0, 60M, Own Blockchain,0,0
+2270,Bytom BTM , 93.02M,0, 1B, Ethereum (ERC20),0,0
+2271,FirstCoin FRST , 249.66K,0, 31.21M, Own Blockchain,0,0
+2272,Blocknet BLOCK , 6.96M,0, 6.22M, Own Blockchain,0,0
+2273,Nexus NXS , 18.45M,0, 64.67M, Own Blockchain,0,0
+2274,Status SNT , 41.94M,0, 3.47B, Ethereum (ERC20),0,0
+2275,Verge XVG , 57.26M,0, 16.02B, Own Blockchain,0,0
+2276,Lykke LKK , 3.26M,0, 316.81M, Own Blockchain,0,0
+2277,Bancor BNT , 20.08M,0, 61.83M, Ethereum (ERC20),0,0
+2278,Aeternity AE , 59.14M,0, 288.63M, Ethereum (ERC20),0,0
+2279,Syscoin SYS , 13.13M,0, 567.47M, Own Blockchain,0,0
+2280,Nxt NXT , 12.56M,0, 999M, Own Blockchain,0,0
+2281,Edgeless EDG , 1.32M,0, 117.05M, Ethereum (ERC20),0,0
+2282,Ubiq UBQ , 3.58M,0, 42.61M, Own Blockchain,0,0
+2283,Aragon ANT , 23.56M,0, 29.8M, Ethereum (ERC20),0,0
+2284,Dentacoin DCN , 34.65M,0, 540.37B, Ethereum (ERC20),0,0
+2285,MobileGo MGO , 1.76M,0, 100M, Waves,0,0
+2286,Particl PART , 8.69M,0, 8.07M, Own Blockchain,0,0
+2287,NAV Coin NAV , 6.35M,0, 66.5M, Own Blockchain,0,0
+2288,SALT SALT , 6.34M,0, 80.28M, Ethereum (ERC20),0,0
+2289,Kin KIN , 7.17M,0, 1.21T, Ethereum (ERC20),0,0
+2290,AdEx ADX , 5.95M,0, 80.07M, Ethereum (ERC20),0,0
+2291,Bitdeal BDL , 16.9K,0, 175.58M, Own Blockchain,0,0
+2292,I/O Coin IOC , 1.54M,0, 17.76M, Own Blockchain,0,0
+2293,Wings WINGS , 3.79M,0, 96.38M, Ethereum (ERC20),0,0
+2294,Storj STORJ , 17.71M,0, 135.79M, Ethereum (ERC20),0,0
+2295,Rise RISE , 554.22K,0, 141.45M, Own Blockchain,0,0
+2296,Gulden NLG , 3.97M,0, 498.48M, Own Blockchain,0,0
+2297,TokenCard TKN , 13.94M,0, 30.96M, Ethereum (ERC20),0,0
+2298,Elastic XEL , 7.33M,0, 91.68M, Own Blockchain,0,0
+2299,Vertcoin VTC , 10.68M,0, 51.85M, Own Blockchain,0,0
